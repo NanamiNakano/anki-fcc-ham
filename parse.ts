@@ -15,7 +15,7 @@ function parseQuestion(lines: string) {
     const answers = split.slice(length - 4, length).map((line) =>
       line.replace(/^[A-D]\. /, "")
     );
-    const figure = question.match(/[fF]igure [TGE](?:-[1-9]|[1-9]-[1-9])/)?.[0].toLowerCase() || "";
+    const figure = question.match(/[fF]igure [TGE](?:-[1-9]|[1-9]-[1-9])/)?.[0].slice(7).toLowerCase() || "";
     return {
       id,
       correct,

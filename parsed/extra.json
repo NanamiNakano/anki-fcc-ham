@@ -3455,7 +3455,7 @@
       "Point 6"
     ],
     "description": "",
-    "figure": "figure e5-1"
+    "figure": "e5-1"
   },
   {
     "id": "E5C11",
@@ -3468,7 +3468,7 @@
       "Point 8"
     ],
     "description": "",
-    "figure": "figure e5-1"
+    "figure": "e5-1"
   },
   {
     "id": "E5C12",
@@ -3481,7 +3481,7 @@
       "Point 8"
     ],
     "description": "",
-    "figure": "figure e5-1"
+    "figure": "e5-1"
   },
   {
     "id": "E5D01",
@@ -3767,7 +3767,7 @@
       "6"
     ],
     "description": "",
-    "figure": "figure e6-1"
+    "figure": "e6-1"
   },
   {
     "id": "E6A11",
@@ -3780,7 +3780,7 @@
       "6"
     ],
     "description": "",
-    "figure": "figure e6-1"
+    "figure": "e6-1"
   },
   {
     "id": "E6A12",
@@ -3923,7 +3923,7 @@
       "3"
     ],
     "description": "",
-    "figure": "figure e6-2"
+    "figure": "e6-2"
   },
   {
     "id": "E6B11",
@@ -4040,7 +4040,7 @@
       "4"
     ],
     "description": "",
-    "figure": "figure e6-3"
+    "figure": "e6-3"
   },
   {
     "id": "E6C09",
@@ -4066,7 +4066,7 @@
       "4"
     ],
     "description": "",
-    "figure": "figure e6-3"
+    "figure": "e6-3"
   },
   {
     "id": "E6C11",
@@ -4079,7 +4079,7 @@
       "6"
     ],
     "description": "",
-    "figure": "figure e6-3"
+    "figure": "e6-3"
   },
   {
     "id": "E6D01",
@@ -4807,7 +4807,7 @@
       "Feedback"
     ],
     "description": "",
-    "figure": "figure e7-1"
+    "figure": "e7-1"
   },
   {
     "id": "E7B11",
@@ -4820,7 +4820,7 @@
       "Self bias"
     ],
     "description": "",
-    "figure": "figure e7-1"
+    "figure": "e7-1"
   },
   {
     "id": "E7B12",
@@ -4833,7 +4833,7 @@
       "Emitter follower"
     ],
     "description": "",
-    "figure": "figure e7-1"
+    "figure": "e7-1"
   },
   {
     "id": "E7C01",
@@ -5054,7 +5054,7 @@
       "It provides regulation by switching or “chopping” the input DC voltage"
     ],
     "description": "",
-    "figure": "figure e7-2"
+    "figure": "e7-2"
   },
   {
     "id": "E7D07",
@@ -5067,7 +5067,7 @@
       "To provide fixed DC bias for Q1"
     ],
     "description": "",
-    "figure": "figure e7-2"
+    "figure": "e7-2"
   },
   {
     "id": "E7D08",
@@ -5080,7 +5080,7 @@
       "Common base amplifier"
     ],
     "description": "",
-    "figure": "figure e7-2"
+    "figure": "e7-2"
   },
   {
     "id": "E7D09",
@@ -5613,7 +5613,7 @@
       "-2.3 volts"
     ],
     "description": "",
-    "figure": "figure e7-3"
+    "figure": "e7-3"
   },
   {
     "id": "E7G10",
@@ -5626,7 +5626,7 @@
       "76"
     ],
     "description": "",
-    "figure": "figure e7-3"
+    "figure": "e7-3"
   },
   {
     "id": "E7G11",
@@ -5639,7 +5639,7 @@
       "0.07"
     ],
     "description": "",
-    "figure": "figure e7-3"
+    "figure": "e7-3"
   },
   {
     "id": "E7G12",
@@ -6614,7 +6614,7 @@
       "30 degrees"
     ],
     "description": "",
-    "figure": "figure e9-1"
+    "figure": "e9-1"
   },
   {
     "id": "E9B02",
@@ -6627,7 +6627,7 @@
       "18 dB"
     ],
     "description": "",
-    "figure": "figure e9-1"
+    "figure": "e9-1"
   },
   {
     "id": "E9B03",
@@ -6640,7 +6640,7 @@
       "14 dB"
     ],
     "description": "",
-    "figure": "figure e9-1"
+    "figure": "e9-1"
   },
   {
     "id": "E9B04",
@@ -6666,7 +6666,7 @@
       "Polarization"
     ],
     "description": "",
-    "figure": "figure e9-2"
+    "figure": "e9-2"
   },
   {
     "id": "E9B06",
@@ -6679,7 +6679,7 @@
       "25 degrees"
     ],
     "description": "",
-    "figure": "figure e9-2"
+    "figure": "e9-2"
   },
   {
     "id": "E9B07",
@@ -7446,7 +7446,7 @@
       "Polar axis"
     ],
     "description": "",
-    "figure": "figure e9-3"
+    "figure": "e9-3"
   },
   {
     "id": "E9G07",
@@ -7459,7 +7459,7 @@
       "The resistance axis"
     ],
     "description": "",
-    "figure": "figure e9-3"
+    "figure": "e9-3"
   },
   {
     "id": "E9G08",

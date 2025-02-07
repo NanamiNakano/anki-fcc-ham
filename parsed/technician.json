@@ -2922,7 +2922,7 @@
       "Double-pole double-throw"
     ],
     "description": "",
-    "figure": "figure t-2"
+    "figure": "t-2"
   },
   {
     "id": "T6B01",
@@ -3104,7 +3104,7 @@
       "Connector"
     ],
     "description": "",
-    "figure": "figure t-1"
+    "figure": "t-1"
   },
   {
     "id": "T6C03",
@@ -3117,7 +3117,7 @@
       "Connector"
     ],
     "description": "",
-    "figure": "figure t-1"
+    "figure": "t-1"
   },
   {
     "id": "T6C04",
@@ -3130,7 +3130,7 @@
       "Ground symbol"
     ],
     "description": "",
-    "figure": "figure t-1"
+    "figure": "t-1"
   },
   {
     "id": "T6C05",
@@ -3143,7 +3143,7 @@
       "Battery"
     ],
     "description": "",
-    "figure": "figure t-1"
+    "figure": "t-1"
   },
   {
     "id": "T6C06",
@@ -3156,7 +3156,7 @@
       "Transistor"
     ],
     "description": "",
-    "figure": "figure t-2"
+    "figure": "t-2"
   },
   {
     "id": "T6C07",
@@ -3169,7 +3169,7 @@
       "Light emitting diode"
     ],
     "description": "",
-    "figure": "figure t-2"
+    "figure": "t-2"
   },
   {
     "id": "T6C08",
@@ -3182,7 +3182,7 @@
       "Variable transformer"
     ],
     "description": "",
-    "figure": "figure t-2"
+    "figure": "t-2"
   },
   {
     "id": "T6C09",
@@ -3195,7 +3195,7 @@
       "Transformer"
     ],
     "description": "",
-    "figure": "figure t-2"
+    "figure": "t-2"
   },
   {
     "id": "T6C10",
@@ -3208,7 +3208,7 @@
       "Variable inductor"
     ],
     "description": "",
-    "figure": "figure t-3"
+    "figure": "t-3"
   },
   {
     "id": "T6C11",
@@ -3221,7 +3221,7 @@
       "Ground"
     ],
     "description": "",
-    "figure": "figure t-3"
+    "figure": "t-3"
   },
   {
     "id": "T6C12",
@@ -3364,7 +3364,7 @@
       "Convert electrical energy into radio waves"
     ],
     "description": "",
-    "figure": "figure t-1"
+    "figure": "t-1"
   },
   {
     "id": "T6D11",
