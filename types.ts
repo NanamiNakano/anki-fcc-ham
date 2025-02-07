@@ -4,4 +4,5 @@ export type Question = {
     question: string
     answers: string[]
     description: string
+    figure: string
 }

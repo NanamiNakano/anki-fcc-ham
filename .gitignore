@@ -1,3 +1,4 @@
 .vscode/
 .venv/
 *.apkg
+.DS_Store

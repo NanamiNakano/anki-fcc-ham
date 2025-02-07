@@ -9,7 +9,8 @@
       "14.348 MHz is outside the 20-meter band",
       "The upper 1 kHz of the signal is outside the 20-meter band"
     ],
-    "description": "[97.305,"
+    "description": "[97.305,",
+    "figure": ""
   },
   {
     "id": "E1A02",
@@ -21,7 +22,8 @@
       "1 kHz above the lower band edge",
       "3 kHz above the lower band edge"
     ],
-    "description": "[97.301,"
+    "description": "[97.301,",
+    "figure": ""
   },
   {
     "id": "E1A03",
@@ -33,7 +35,8 @@
       "14.1472 MHz",
       "14.3490 MHz"
     ],
-    "description": "[97.305,"
+    "description": "[97.305,",
+    "figure": ""
   },
   {
     "id": "E1A04",
@@ -45,7 +48,8 @@
       "No, the sideband components will extend beyond the edge of the phone band segment",
       "No, US stations are not permitted to use phone emissions below 3.610 MHz"
     ],
-    "description": "[97.301,"
+    "description": "[97.301,",
+    "figure": ""
   },
   {
     "id": "E1A05",
@@ -57,7 +61,8 @@
       "Any person holding an FCC issued amateur license or who is authorized for alien reciprocal operation",
       "Any person named in an amateur station license grant or a person holding an unrestricted Radiotelephone Operator Permit"
     ],
-    "description": "[97.5]"
+    "description": "[97.5]",
+    "figure": ""
   },
   {
     "id": "E1A06",
@@ -69,7 +74,8 @@
       "At the highest frequency of the channel",
       "On any frequency where the signal’s sidebands are within the channel"
     ],
-    "description": "[97.303(h)(1)]"
+    "description": "[97.303(h)(1)]",
+    "figure": ""
   },
   {
     "id": "E1A07",
@@ -81,7 +87,8 @@
       "1 watt EIRP (equivalent isotropic radiated power)",
       "5 watts EIRP (equivalent isotropic radiated power)"
     ],
-    "description": "[97.313(k)]"
+    "description": "[97.313(k)]",
+    "figure": ""
   },
   {
     "id": "E1A08",
@@ -93,7 +100,8 @@
       "The control operators of all the stations in the system",
       "The control operators of all the stations in the system not authenticating the source from which they accept communications"
     ],
-    "description": "[97.219]"
+    "description": "[97.219]",
+    "figure": ""
   },
   {
     "id": "E1A09",
@@ -105,7 +113,8 @@
       "1 watt EIRP (equivalent isotropic radiated power)",
       "5 watts EIRP (equivalent isotropic radiated power)"
     ],
-    "description": "[97.313(l)]"
+    "description": "[97.313(l)]",
+    "figure": ""
   },
   {
     "id": "E1A10",
@@ -117,7 +126,8 @@
       "The amateur station must have a power supply that is completely independent of the main ship or aircraft power supply",
       "The amateur station must operate only in specific segments of the amateur service HF and VHF bands"
     ],
-    "description": "[97.11]"
+    "description": "[97.11]",
+    "figure": ""
   },
   {
     "id": "E1A11",
@@ -129,7 +139,8 @@
       "Only General class or higher amateur licenses",
       "An unrestricted Radiotelephone Operator Permit"
     ],
-    "description": "[97.5]"
+    "description": "[97.5]",
+    "figure": ""
   },
   {
     "id": "E1B01",
@@ -141,7 +152,8 @@
       "Any transmitted signal that unintentionally interferes with another licensed radio station and whose levels exceed 40 dB below the fundamental power level",
       "An emission outside the signal’s necessary bandwidth that can be reduced or eliminated without affecting the information transmitted"
     ],
-    "description": "[97.3]"
+    "description": "[97.3]",
+    "figure": ""
   },
   {
     "id": "E1B02",
@@ -153,7 +165,8 @@
       "15 kHz",
       "20 kHz"
     ],
-    "description": "[97.307(f)(2)]"
+    "description": "[97.307(f)(2)]",
+    "figure": ""
   },
   {
     "id": "E1B03",
@@ -165,7 +178,8 @@
       "10 miles",
       "30 miles"
     ],
-    "description": "[97.13]"
+    "description": "[97.13]",
+    "figure": ""
   },
   {
     "id": "E1B04",
@@ -177,7 +191,8 @@
       "Cease operation or make changes to the repeater that mitigate the interference",
       "All these choices are correct"
     ],
-    "description": "[97.303(b)]"
+    "description": "[97.303(b)]",
+    "figure": ""
   },
   {
     "id": "E1B05",
@@ -189,7 +204,8 @@
       "An area surrounding the National Radio Astronomy Observatory",
       "An area in Florida surrounding Cape Canaveral"
     ],
-    "description": "[97.3]"
+    "description": "[97.3]",
+    "figure": ""
   },
   {
     "id": "E1B06",
@@ -201,7 +217,8 @@
       "You must file an Environmental Impact Statement with the EPA before construction begins",
       "You must obtain a construction permit from the airport zoning authority per Part 119 of the FAA regulations"
     ],
-    "description": "[97.15]"
+    "description": "[97.15]",
+    "figure": ""
   },
   {
     "id": "E1B07",
@@ -213,7 +230,8 @@
       "State and local zoning",
       "Use of wireless devices in vehicles"
     ],
-    "description": "[97.15]"
+    "description": "[97.15]",
+    "figure": ""
   },
   {
     "id": "E1B08",
@@ -225,7 +243,8 @@
       "The amateur station must cease operation on all frequencies above 30 MHz",
       "The amateur station must avoid transmitting during certain hours on frequencies that cause the interference"
     ],
-    "description": "[97.121]"
+    "description": "[97.121]",
+    "figure": ""
   },
   {
     "id": "E1B09",
@@ -237,7 +256,8 @@
       "Any FCC-licensed amateur station certified by the responsible civil defense organization for the area served",
       "Only stations meeting the FCC Part 97 technical standards for operation during an emergency"
     ],
-    "description": "[97.407]"
+    "description": "[97.407]",
+    "figure": ""
   },
   {
     "id": "E1B10",
@@ -249,7 +269,8 @@
       "Specific local government channels",
       "All these choices are correct"
     ],
-    "description": "[97.407]"
+    "description": "[97.407]",
+    "figure": ""
   },
   {
     "id": "E1B11",
@@ -261,7 +282,8 @@
       "Such structures must be permitted when use for emergency communications can be demonstrated",
       "Such structures must be permitted if certified by a registered professional engineer"
     ],
-    "description": "[97.15]"
+    "description": "[97.15]",
+    "figure": ""
   },
   {
     "id": "E1C01",
@@ -273,7 +295,8 @@
       "1.5 kHz",
       "2.8 kHz"
     ],
-    "description": "[97.303]"
+    "description": "[97.303]",
+    "figure": ""
   },
   {
     "id": "E1C02",
@@ -285,7 +308,8 @@
       "Communications must be limited to those incidental to the purpose of the amateur service and remarks of a personal nature",
       "All these choices are correct"
     ],
-    "description": "[97.117]"
+    "description": "[97.117]",
+    "figure": ""
   },
   {
     "id": "E1C03",
@@ -297,7 +321,8 @@
       "Operators may not operate until a test signal has been transmitted in coordination with the local power company",
       "Operations may commence immediately, and may continue unless interference is reported by the UTC"
     ],
-    "description": "[97.303(g)]"
+    "description": "[97.303(g)]",
+    "figure": ""
   },
   {
     "id": "E1C04",
@@ -309,7 +334,8 @@
       "An indication of increased antenna reflected power",
       "A forecast of intermittent aurora radio propagation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E1C05",
@@ -321,7 +347,8 @@
       "Only when transmitting SSB or CW",
       "On any mode approved by the National Telecommunication and Information Administration"
     ],
-    "description": "[97.221(c)(1),"
+    "description": "[97.221(c)(1),",
+    "figure": ""
   },
   {
     "id": "E1C06",
@@ -333,7 +360,8 @@
       "You must have a copy of FCC Public Notice DA 16-1048",
       "You must append \"/CEPT\" to your call sign"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E1C07",
@@ -345,7 +373,8 @@
       "Operators must inform the FAA of their intent to operate, giving their call sign and distance to the nearest runway",
       "Operators must inform the Utilities Technology Council (UTC) of their call sign and coordinates of the station"
     ],
-    "description": "[97.303(g)]"
+    "description": "[97.303(g)]",
+    "figure": ""
   },
   {
     "id": "E1C08",
@@ -357,7 +386,8 @@
       "5 minutes",
       "10 minutes"
     ],
-    "description": "[97.213]"
+    "description": "[97.213]",
+    "figure": ""
   },
   {
     "id": "E1C09",
@@ -369,7 +399,8 @@
       "2.0",
       "3.0"
     ],
-    "description": "[97.307]"
+    "description": "[97.307]",
+    "figure": ""
   },
   {
     "id": "E1C10",
@@ -381,7 +412,8 @@
       "- 63 dB",
       "- 73 dB"
     ],
-    "description": "[97.307]"
+    "description": "[97.307]",
+    "figure": ""
   },
   {
     "id": "E1C11",
@@ -393,7 +425,8 @@
       "ITU reciprocal license",
       "All these choices are correct"
     ],
-    "description": "[97.5]"
+    "description": "[97.5]",
+    "figure": ""
   },
   {
     "id": "E1C12",
@@ -405,7 +438,8 @@
       "Only the bottom 3 kHz",
       "The entire band"
     ],
-    "description": "[97.305(c)]"
+    "description": "[97.305(c)]",
+    "figure": ""
   },
   {
     "id": "E1D01",
@@ -417,7 +451,8 @@
       "Two-way transmissions of data",
       "One-way transmission that initiates, modifies, or terminates the functions of a device at a distance"
     ],
-    "description": "[97.3]"
+    "description": "[97.3]",
+    "figure": ""
   },
   {
     "id": "E1D02",
@@ -429,7 +464,8 @@
       "Auxiliary relay links carrying repeater audio ",
       "Mesh network backbone nodes"
     ],
-    "description": "[97.211(b)]"
+    "description": "[97.211(b)]",
+    "figure": ""
   },
   {
     "id": "E1D03",
@@ -441,7 +477,8 @@
       "An amateur station located in a satellite or a balloon more than 50 kilometers above the surface of the Earth",
       "An amateur station that receives telemetry from a satellite or balloon more than 50 kilometers above the surface of the Earth"
     ],
-    "description": "[97.3(a)(45)]"
+    "description": "[97.3(a)(45)]",
+    "figure": ""
   },
   {
     "id": "E1D04",
@@ -453,7 +490,8 @@
       "The station's six-character Maidenhead grid locator",
       "All these choices are correct"
     ],
-    "description": "[97.119(a)]"
+    "description": "[97.119(a)]",
+    "figure": ""
   },
   {
     "id": "E1D05",
@@ -465,7 +503,8 @@
       "A label with the name, address, and telephone number of the control operator",
       "All these choices are correct"
     ],
-    "description": "[97.213(d)]"
+    "description": "[97.213(d)]",
+    "figure": ""
   },
   {
     "id": "E1D06",
@@ -477,7 +516,8 @@
       "5 watts",
       "100 watts"
     ],
-    "description": "[97.215(c)]"
+    "description": "[97.215(c)]",
+    "figure": ""
   },
   {
     "id": "E1D07",
@@ -489,7 +529,8 @@
       "Only 10 meters",
       "Satellite operation is permitted on all HF bands"
     ],
-    "description": "[97.207]"
+    "description": "[97.207]",
+    "figure": ""
   },
   {
     "id": "E1D08",
@@ -501,7 +542,8 @@
       "2 meters and 1.25 meters",
       "2 meters"
     ],
-    "description": "[97.207]"
+    "description": "[97.207]",
+    "figure": ""
   },
   {
     "id": "E1D09",
@@ -513,7 +555,8 @@
       "70 centimeters and 33 centimeters",
       "33 centimeters and 13 centimeters"
     ],
-    "description": "[97.207]"
+    "description": "[97.207]",
+    "figure": ""
   },
   {
     "id": "E1D10",
@@ -525,7 +568,8 @@
       "Any amateur station so designated by the ITU",
       "All these choices are correct"
     ],
-    "description": "[97.211]"
+    "description": "[97.211]",
+    "figure": ""
   },
   {
     "id": "E1D11",
@@ -537,7 +581,8 @@
       "Only those of Amateur Extra class operators",
       "Any amateur station, subject to the privileges of the class of operator license held by the control operator"
     ],
-    "description": "[97.209]"
+    "description": "[97.209]",
+    "figure": ""
   },
   {
     "id": "E1D12",
@@ -549,7 +594,8 @@
       "A message forwarding station or automatically controlled digital station",
       "All these choices are correct"
     ],
-    "description": "[97.207(e),"
+    "description": "[97.207(e),",
+    "figure": ""
   },
   {
     "id": "E1E01",
@@ -561,7 +607,8 @@
       "No expenses are authorized for reimbursement",
       "Providing amateur operator license examination preparation training materials"
     ],
-    "description": "[97.527]"
+    "description": "[97.527]",
+    "figure": ""
   },
   {
     "id": "E1E02",
@@ -573,7 +620,8 @@
       "The VECs",
       "The ARRL"
     ],
-    "description": "[97.523]"
+    "description": "[97.523]",
+    "figure": ""
   },
   {
     "id": "E1E03",
@@ -585,7 +633,8 @@
       "An organization that has entered into an agreement with the FCC to coordinate, prepare, and administer amateur operator license examinations",
       "The person who has entered into an agreement with the FCC to be the VE session manager"
     ],
-    "description": "[97.521]"
+    "description": "[97.521]",
+    "figure": ""
   },
   {
     "id": "E1E04",
@@ -597,7 +646,8 @@
       "The prospective VE must obtain accreditation from the FCC",
       "A VEC must confirm that the VE applicant meets FCC requirements to serve as an examiner"
     ],
-    "description": "[97.509,"
+    "description": "[97.509,",
+    "figure": ""
   },
   {
     "id": "E1E05",
@@ -609,7 +659,8 @@
       "Send the application form to the FCC and inform the FCC of the grade",
       "Destroy the application form"
     ],
-    "description": "[97.509(j)]"
+    "description": "[97.509(j)]",
+    "figure": ""
   },
   {
     "id": "E1E06",
@@ -621,7 +672,8 @@
       "Each administering VE",
       "Only the VE session manager"
     ],
-    "description": "[97.509]"
+    "description": "[97.509]",
+    "figure": ""
   },
   {
     "id": "E1E07",
@@ -633,7 +685,8 @@
       "Allow the candidate to complete the examination, but invalidate the results",
       "Immediately terminate everyone’s examination and close the session"
     ],
-    "description": "[97.509,"
+    "description": "[97.509,",
+    "figure": ""
   },
   {
     "id": "E1E08",
@@ -645,7 +698,8 @@
       "Relatives of the VE as listed in the FCC rules",
       "All these choices are correct"
     ],
-    "description": "[97.509]"
+    "description": "[97.509]",
+    "figure": ""
   },
   {
     "id": "E1E09",
@@ -657,7 +711,8 @@
       "A sentence of up to one year in prison",
       "All these choices are correct"
     ],
-    "description": "[97.509]"
+    "description": "[97.509]",
+    "figure": ""
   },
   {
     "id": "E1E10",
@@ -669,7 +724,8 @@
       "They must submit the application document to the coordinating VEC according to the coordinating VEC instructions",
       "They must return the documents to the applicant for submission to the FCC according to the FCC instructions"
     ],
-    "description": "[97.509(m)]"
+    "description": "[97.509(m)]",
+    "figure": ""
   },
   {
     "id": "E1E11",
@@ -681,7 +737,8 @@
       "Issue the examinee the new or upgrade license",
       "All these choices are correct"
     ],
-    "description": "[97.509(i)]"
+    "description": "[97.509(i)]",
+    "figure": ""
   },
   {
     "id": "E1F01",
@@ -693,7 +750,8 @@
       "Only on amateur frequencies above 420 MHz",
       "Only on amateur frequencies above 144 MHz"
     ],
-    "description": "[97.305]"
+    "description": "[97.305]",
+    "figure": ""
   },
   {
     "id": "E1F02",
@@ -705,7 +763,8 @@
       "The operating terms and conditions of the Canadian amateur service license, not to exceed US Amateur Extra class license privileges",
       "Full privileges, up to and including those of the Amateur Extra class license, on the 80-, 40-, 20-, 15-, and 10-meter bands"
     ],
-    "description": "[97.107]"
+    "description": "[97.107]",
+    "figure": ""
   },
   {
     "id": "E1F03",
@@ -717,7 +776,8 @@
       "It was manufactured and certificated in a country which has a reciprocal certification agreement with the FCC",
       "The amplifier is constructed or modified by an amateur radio operator for use at an amateur station"
     ],
-    "description": "[97.315]"
+    "description": "[97.315]",
+    "figure": ""
   },
   {
     "id": "E1F04",
@@ -729,7 +789,8 @@
       "A line roughly parallel to and north of the border between the US and Mexico",
       "A line roughly parallel to and east of the US Pacific coastline"
     ],
-    "description": "[97.3]"
+    "description": "[97.3]",
+    "figure": ""
   },
   {
     "id": "E1F05",
@@ -741,7 +802,8 @@
       "222 MHz - 223 MHz",
       "420 MHz - 430 MHz"
     ],
-    "description": "[97.303]"
+    "description": "[97.303]",
+    "figure": ""
   },
   {
     "id": "E1F06",
@@ -753,7 +815,8 @@
       "To allow a VE group with less than three VEs to administer examinations in a remote, sparsely populated area",
       "To allow a licensee who has passed an upgrade exam to operate with upgraded privileges while waiting for posting on the FCC database"
     ],
-    "description": "[1.931]"
+    "description": "[1.931]",
+    "figure": ""
   },
   {
     "id": "E1F07",
@@ -765,7 +828,8 @@
       "At no time",
       "When neither the amateur nor their employer has a pecuniary interest in the communications"
     ],
-    "description": "[97.113]"
+    "description": "[97.113]",
+    "figure": ""
   },
   {
     "id": "E1F08",
@@ -777,7 +841,8 @@
       "Communications that have religious content",
       "Communications in a language other than English"
     ],
-    "description": "[97.113(c)]"
+    "description": "[97.113(c)]",
+    "figure": ""
   },
   {
     "id": "E1F09",
@@ -789,7 +854,8 @@
       "Messages encoded to obscure their meaning",
       "All these choices are correct"
     ],
-    "description": "[FCC"
+    "description": "[FCC",
+    "figure": ""
   },
   {
     "id": "E1F10",
@@ -801,7 +867,8 @@
       "Only General, Advanced, or Amateur Extra class operators",
       "Only Amateur Extra class operators"
     ],
-    "description": "[97.201]"
+    "description": "[97.201]",
+    "figure": ""
   },
   {
     "id": "E1F11",
@@ -813,7 +880,8 @@
       "It must exhibit a gain of less than 23 dB when driven by 10 watts or less",
       "It must satisfy the FCC’s spurious emission standards when operated at the lesser of 1500 watts or its full output power"
     ],
-    "description": "[97.317]"
+    "description": "[97.317]",
+    "figure": ""
   },
   {
     "id": "E2A01",
@@ -825,7 +893,8 @@
       "From south to north",
       "From north to south"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A02",
@@ -837,7 +906,8 @@
       "Upper sideband on the uplink becomes lower sideband on the downlink, and vice versa",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A03",
@@ -849,7 +919,8 @@
       "The signal is reduced to I and Q components, and the Q component is filtered out",
       "The signal is mixed with a local oscillator signal and the difference product is transmitted"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A04",
@@ -861,7 +932,8 @@
       "The satellite’s orientation with respect to the Earth",
       "Whether the satellite is in a polar or equatorial orbit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A05",
@@ -873,7 +945,8 @@
       "The polarization of uplink and downlink signals",
       "The uplink and downlink frequency ranges"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A06",
@@ -885,7 +958,8 @@
       "High-emission heater filaments used in magnetron tubes",
       "Encrypting codes used for spread spectrum modulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A07",
@@ -897,7 +971,8 @@
       "PSK and packet",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A08",
@@ -909,7 +984,8 @@
       "To prevent the satellite from emitting out-of-band signals",
       "To avoid interfering with terrestrial QSOs"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A09",
@@ -921,7 +997,8 @@
       "FM and digital store-and-forward systems",
       "Which sideband to use"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A10",
@@ -933,7 +1010,8 @@
       "Geomagnetic",
       "LEO"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A11",
@@ -945,7 +1023,8 @@
       "An isotropic antenna",
       "A log-periodic dipole array"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2A12",
@@ -957,7 +1036,8 @@
       "To hold digital messages in the satellite for later download",
       "To relay messages between satellites"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B01",
@@ -969,7 +1049,8 @@
       "1/4 of the time interval is used as a guard interval",
       "Three, four-bit words are used to transmit each pixel"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B02",
@@ -981,7 +1062,8 @@
       "525",
       "1080"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B03",
@@ -993,7 +1075,8 @@
       "By scanning lines from left-to-right in one field and right-to-left in the next",
       "By scanning odd-numbered lines in one field and even-numbered lines in the next"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B04",
@@ -1005,7 +1088,8 @@
       "Color is sent in a color burst at the end of each line",
       "Color is amplitude modulated on the frequency modulated intensity signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B05",
@@ -1017,7 +1101,8 @@
       "Vestigial sideband reduces the bandwidth while increasing the fidelity of low frequency video components",
       "Vestigial sideband provides high frequency emphasis to sharpen the picture"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B06",
@@ -1029,7 +1114,8 @@
       "Narrow-band FM modulation achieved by filtering one sideband from the audio before frequency modulating the carrier",
       "Spread spectrum modulation achieved by applying FM modulation following single sideband amplitude modulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B07",
@@ -1041,7 +1127,8 @@
       "AM and OOK",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B08",
@@ -1053,7 +1140,8 @@
       "Transmitting on the abandoned TV channel 2",
       "Using USB and demodulating the signal with a computer sound card"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B09",
@@ -1065,7 +1153,8 @@
       "AM",
       "SSB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B10",
@@ -1077,7 +1166,8 @@
       "Sync amplitude",
       "Sync frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B11",
@@ -1089,7 +1179,8 @@
       "To provide vertical synchronization",
       "To identify the call sign of the station transmitting"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2B12",
@@ -1101,7 +1192,8 @@
       "Specific tone amplitudes",
       "A two-tone signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C01",
@@ -1113,7 +1205,8 @@
       "/ followed by the ARRL Section of the remote station",
       "No additional indicator is required"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C02",
@@ -1125,7 +1218,8 @@
       "ADIF",
       "OCF"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C03",
@@ -1137,7 +1231,8 @@
       "70 centimeters",
       "33 centimeters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C04",
@@ -1149,7 +1244,8 @@
       "Cable TV channels 41-43",
       "The 60-meter band channel centered on 5373 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C05",
@@ -1161,7 +1257,8 @@
       "Run a net to allow many stations to contact a rare DX station",
       "Communicate to a DXpedition about propagation, band openings, pileup conditions, etc."
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C06",
@@ -1173,7 +1270,8 @@
       "In the weak signal segment of the band, with most of the activity near the calling frequency",
       "In the middle of the band, usually 25 kHz above the national calling frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C07",
@@ -1185,7 +1283,8 @@
       "The most common set of contest rules",
       "A digital protocol specifically designed for rapid contest exchanges"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C08",
@@ -1197,7 +1296,8 @@
       "Contacts for Worked All States credit",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C09",
@@ -1209,7 +1309,8 @@
       "A wireless router running custom firmware",
       "A 440 MHz transceiver with a 9,600-baud modem"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C10",
@@ -1221,7 +1322,8 @@
       "To improve operating efficiency by reducing interference",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C11",
@@ -1233,7 +1335,8 @@
       "Send your full call sign and grid square",
       "Send the call sign of the DX station three times, the words “this is,” then your call sign three times"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2C12",
@@ -1245,7 +1348,8 @@
       "Latency",
       "Anti-VOX"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D01",
@@ -1257,7 +1361,8 @@
       "Hellschreiber",
       "APRS"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D02",
@@ -1269,7 +1374,8 @@
       "Serial number",
       "Grid square"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D03",
@@ -1281,7 +1387,8 @@
       "WSPR",
       "Q65"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D04",
@@ -1293,7 +1400,8 @@
       "APRS",
       " PACTOR III"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D05",
@@ -1305,7 +1413,8 @@
       "Symbol rate is 65 baud",
       "Permits fast-scan TV transmissions over narrow bandwidth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D06",
@@ -1317,7 +1426,8 @@
       "Judging optimum transmission times by monitoring beacons reflected from the moon",
       "High-speed CW identification to avoid fading"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D07",
@@ -1329,7 +1439,8 @@
       "AX.25",
       "AMTOR"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D08",
@@ -1341,7 +1452,8 @@
       "Unnumbered Information",
       "Connect"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D09",
@@ -1353,7 +1465,8 @@
       "RTTY",
       "QAM"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D10",
@@ -1365,7 +1478,8 @@
       "Three digipeater hops are requested with one remaining",
       "Three internet gateway stations may receive one transmission"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2D11",
@@ -1377,7 +1491,8 @@
       "By DMR repeaters ",
       "By packet digipeaters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E01",
@@ -1389,7 +1504,8 @@
       "Pulse modulation",
       "Spread spectrum"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E02",
@@ -1401,7 +1517,8 @@
       "Sync-field transmission",
       "Sync-pulse timing"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E03",
@@ -1413,7 +1530,8 @@
       "Four transmit/receive cycles per minute",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E04",
@@ -1425,7 +1543,8 @@
       "Seven different tone spacings",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E05",
@@ -1437,7 +1556,8 @@
       "PSK31",
       "MFSK16"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E06",
@@ -1449,7 +1569,8 @@
       "15 seconds",
       "30 seconds"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E07",
@@ -1461,7 +1582,8 @@
       "Multiple receive cycles are averaged",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E08",
@@ -1473,7 +1595,8 @@
       "RTTY",
       "AMTOR"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E09",
@@ -1485,7 +1608,8 @@
       "MT63",
       "PSK31"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E10",
@@ -1497,7 +1621,8 @@
       "FT8",
       "PACTOR IV"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E11",
@@ -1509,7 +1634,8 @@
       "Direct FSK can transmit higher baud rates",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E12",
@@ -1521,7 +1647,8 @@
       "ALE radios send a constant tone code to establish a frequency for future use",
       "ALE radios activate when they hear their signal echoed by back scatter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E2E13",
@@ -1533,7 +1660,8 @@
       "FT8",
       "PACTOR IV"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A01",
@@ -1545,7 +1673,8 @@
       "5,000 miles, if the moon is at perigee",
       "12,000 miles, if the moon is “visible” by both stations"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A02",
@@ -1557,7 +1686,8 @@
       "A gradual loss of signal as the sun rises",
       "The returning echo is several hertz lower in frequency than the transmitted signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A03",
@@ -1569,7 +1699,8 @@
       "When the Moon is at apogee",
       "When the MUF is above 30 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A04",
@@ -1581,7 +1712,8 @@
       "It depends on the phase angle of the electric field",
       "It travels at a right angle to the electric and magnetic fields"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A05",
@@ -1593,7 +1725,8 @@
       "They are at right angles",
       "They are 90 degrees out of phase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A06",
@@ -1605,7 +1738,8 @@
       "Change to an antenna with a higher takeoff angle",
       "Change to an antenna with greater beam width"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A07",
@@ -1617,7 +1751,8 @@
       "Large bodies of water",
       "Nimbus clouds"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A08",
@@ -1629,7 +1764,8 @@
       "The F2 region",
       "The D region"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A09",
@@ -1641,7 +1777,8 @@
       "28 MHz - 148 MHz",
       "220 MHz - 450 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A10",
@@ -1653,7 +1790,8 @@
       "Birefringence",
       "The index of refraction"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A11",
@@ -1665,7 +1803,8 @@
       "1,200 miles",
       "2,500 miles"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A12",
@@ -1677,7 +1816,8 @@
       "Severe geomagnetic storms",
       "Extreme low-pressure areas in polar regions"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A13",
@@ -1689,7 +1829,8 @@
       "FM",
       "RTTY"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3A14",
@@ -1701,7 +1842,8 @@
       "Waves that circle Earth",
       "Waves produced by a loop antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B01",
@@ -1713,7 +1855,8 @@
       "Between points located at each other’s antipode",
       "Through the region where the terminator crosses the geographic equator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B02",
@@ -1725,7 +1868,8 @@
       "5,000 miles",
       "7,500 miles"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B03",
@@ -1737,7 +1881,8 @@
       "Afternoon or early evening",
       "Late at night"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B04",
@@ -1749,7 +1894,8 @@
       "Long-path and short-path waves",
       "Refracted rays and reflected waves"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B05",
@@ -1761,7 +1907,8 @@
       "A direct north-south path",
       "A path entirely in darkness"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B06",
@@ -1773,7 +1920,8 @@
       "10 meters and 6 meters",
       "6 meters and 2 meters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B07",
@@ -1785,7 +1933,8 @@
       "The distance covered by each hop increases",
       "The critical frequency increases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B08",
@@ -1797,7 +1946,8 @@
       "It decreases",
       "It peaks at roughly 8 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B09",
@@ -1809,7 +1959,8 @@
       "Around the equinoxes, especially the spring equinox",
       "Around the equinoxes, especially the fall equinox"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B10",
@@ -1821,7 +1972,8 @@
       "Atmospheric noise is reduced in the direction of chordal-hop propagation",
       "Signals travel faster along ionospheric chords"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B11",
@@ -1833,7 +1985,8 @@
       "Between sunset and sunrise",
       "Between sunrise and sunset"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B12",
@@ -1845,7 +1998,8 @@
       "Propagation across the geomagnetic equator",
       "Signals reflected back toward the transmitting station"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3B13",
@@ -1857,7 +2011,8 @@
       "Circular",
       "Elliptical"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C01",
@@ -1869,7 +2024,8 @@
       "North-oriented interplanetary magnetic field",
       "Solar flares"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C02",
@@ -1881,7 +2037,8 @@
       "Higher levels of solar UV radiation",
       "An increase in the critical frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C03",
@@ -1893,7 +2050,8 @@
       "Sporadic-E",
       "NVIS"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C04",
@@ -1905,7 +2063,8 @@
       "North-south strength of the interplanetary magnetic field",
       "Duration of long-delayed echoes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C05",
@@ -1917,7 +2076,8 @@
       "Eastward",
       "Westward"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C06",
@@ -1929,7 +2089,8 @@
       "It is approximately 50 percent farther",
       "They are approximately the same"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C07",
@@ -1941,7 +2102,8 @@
       "Class M",
       "Class X"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C08",
@@ -1953,7 +2115,8 @@
       "M9",
       "G5"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C09",
@@ -1965,7 +2128,8 @@
       "Magnetic declination",
       "Digital-mode and CW signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C10",
@@ -1977,7 +2141,8 @@
       "The solar wind velocity at an angle of 304 degrees from the solar equator, correlated to geomagnetic storms",
       "The solar emission at 304 GHz, correlated to X-ray flare levels"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C11",
@@ -1989,7 +2154,8 @@
       "HF propagation",
       "AC current and impedance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E3C12",
@@ -2001,7 +2167,8 @@
       "Transequatorial propagation on 6 meters is likely",
       "Long-path propagation on the higher HF bands is likely"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A01",
@@ -2013,7 +2180,8 @@
       "Q of the circuit",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A02",
@@ -2025,7 +2193,8 @@
       "SWR and frequency",
       "SWR and time"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A03",
@@ -2037,7 +2206,8 @@
       "Logic analyzer",
       "Network analyzer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A04",
@@ -2049,7 +2219,8 @@
       "A frequency standard is displayed, and the probe is adjusted until the deflection time is accurate",
       "A DC voltage standard is displayed, and the probe is adjusted until the displayed voltage is accurate"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A05",
@@ -2061,7 +2232,8 @@
       "Prevent oscillation in a low-frequency counter circuit",
       "Reduce the signal frequency to within the counter's operating range"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A06",
@@ -2073,7 +2245,8 @@
       "Calibration of the vertical scale is no longer valid",
       "Excessive blanking occurs, which prevents display of the waveform"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A07",
@@ -2085,7 +2258,8 @@
       "Antenna analyzers display a time-varying representation of the modulation envelope",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A08",
@@ -2097,7 +2271,8 @@
       "Antenna analyzer ",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A09",
@@ -2109,7 +2284,8 @@
       "Never use a DC-coupled probe to measure an AC circuit",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A10",
@@ -2121,7 +2297,8 @@
       "Level",
       "Line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4A11",
@@ -2133,7 +2310,8 @@
       "Resonant frequency of a tuned circuit",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B01",
@@ -2145,7 +2323,8 @@
       "Decade divider accuracy",
       "Temperature coefficient of the logic"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B02",
@@ -2157,7 +2336,8 @@
       "The reading in ohms divided by the ohms per volt rating will determine the voltage applied to the circuit",
       "The full scale reading in amps divided by ohms per volt rating will determine the size of shunt needed"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B03",
@@ -2169,7 +2349,8 @@
       "S21",
       "S22"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B04",
@@ -2181,7 +2362,8 @@
       "S21",
       "S22"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B05",
@@ -2193,7 +2375,8 @@
       "Short circuit, open circuit, and resonant circuit",
       "50 ohms through 1/8 wavelength, 1/4 wavelength, and 1/2 wavelength of coaxial cable"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B06",
@@ -2205,7 +2388,8 @@
       "112.5 watts",
       "75 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B07",
@@ -2217,7 +2401,8 @@
       "Relative quality of the data",
       "Frequency order of the measurements"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B08",
@@ -2229,7 +2414,8 @@
       "The bandwidth of the circuit's frequency response",
       "The resonant frequency of the circuit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B09",
@@ -2241,7 +2427,8 @@
       "Pulse rise time",
       "Forward power"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B10",
@@ -2253,7 +2440,8 @@
       "Modulate the transmitter using two AF signals having harmonically related frequencies and observe the RF output with a peak reading wattmeter",
       "Modulate the transmitter using two RF signals having harmonically related frequencies and observe the RF output with a logic analyzer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4B11",
@@ -2265,7 +2453,8 @@
       "Reflection coefficient",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C01",
@@ -2277,7 +2466,8 @@
       "It decreases the receiver’s third-order intercept point",
       "It can combine with strong signals on nearby frequencies to generate interference"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C02",
@@ -2289,7 +2479,8 @@
       "A notch filter",
       "A properly adjusted product detector"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C03",
@@ -2301,7 +2492,8 @@
       "Capture effect",
       "Frequency discrimination"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C04",
@@ -2313,7 +2505,8 @@
       "The ratio in dB of the noise generated in the receiver to atmospheric noise",
       "The ratio in dB of the noise generated by the receiver to the theoretical minimum noise"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C05",
@@ -2325,7 +2518,8 @@
       "The noise figure of a 1 Hz bandwidth receiver",
       "The receiver noise is 3 dB above theoretical minimum"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C06",
@@ -2337,7 +2531,8 @@
       "10 dB",
       "13 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C07",
@@ -2349,7 +2544,8 @@
       "The modulation distortion specification",
       "The maximum detectable spectrum"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C08",
@@ -2361,7 +2557,8 @@
       "The maximum count value of the analog-to-digital converter",
       "The reference voltage of the analog-to-digital converter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C09",
@@ -2373,7 +2570,8 @@
       "Easier for front-end circuitry to eliminate image responses",
       "Improved receiver noise figure"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C10",
@@ -2385,7 +2583,8 @@
       "Receive bandwidth can be set to match the modulation bandwidth, maximizing signal-to-noise ratio and minimizing interference",
       "Multiple frequencies can be received simultaneously if desired"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C11",
@@ -2397,7 +2596,8 @@
       "Signals are attenuated separately from the noise",
       "Atmospheric noise is generally greater than internally generated noise even after attenuation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C12",
@@ -2409,7 +2609,8 @@
       "It improves blocking dynamic range by attenuating strong signals near the receive frequency",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C13",
@@ -2421,7 +2622,8 @@
       "Two digital signals combining from alternate time slots",
       "Local oscillator phase noise mixing with adjacent strong signals to create interference to desired signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4C14",
@@ -2433,7 +2635,8 @@
       "To reduce interference from stations transmitting on adjacent frequencies",
       "To tune in stations slightly off frequency without changing the transmit frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D01",
@@ -2445,7 +2648,8 @@
       "The difference in dB between the noise floor and the third-order intercept point",
       "The minimum difference in dB between two signals which produce third-order intermodulation products greater than the noise floor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D02",
@@ -2457,7 +2661,8 @@
       "Poor weak signal reception caused by insufficient local oscillator injection",
       "Oscillator instability and severe audio distortion of all but the strongest received signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D03",
@@ -2469,7 +2674,8 @@
       "The input frequencies are harmonically related",
       "The output frequencies are harmonically related"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D04",
@@ -2481,7 +2687,8 @@
       "Utilizing a Class C final amplifier",
       "Utilizing a Class D final amplifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D05",
@@ -2493,7 +2700,8 @@
       "146.10 MHz and 147.30 MHz",
       "146.30 MHz and 146.90 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D06",
@@ -2505,7 +2713,8 @@
       "Desensitization",
       "Cross modulation interference"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D07",
@@ -2517,7 +2726,8 @@
       "Increase the receiver’s front-end gain",
       "Switch from fast AGC to slow AGC"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D08",
@@ -2529,7 +2739,8 @@
       "Nonlinear circuits or devices",
       "Positive feedback"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D09",
@@ -2541,7 +2752,8 @@
       "To increase the rejection of signals outside the band being received",
       "To allow selection of the optimum RF amplifier device"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D10",
@@ -2553,7 +2765,8 @@
       "A pair of 40 dBm input signals will theoretically generate a third-order intermodulation product that has the same output amplitude as either of the input signals",
       "A pair of 1 mW input signals will produce a third-order intermodulation product that is 40 dB stronger than the input signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D11",
@@ -2565,7 +2778,8 @@
       "Odd-order products are an indication of poor image rejection",
       "Odd-order intermodulation produces three products for every input signal within the band of interest"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D12",
@@ -2577,7 +2791,8 @@
       "+8dB",
       "+14dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D13",
@@ -2589,7 +2804,8 @@
       "-57 dBm",
       "-60 dBm"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4D14",
@@ -2601,7 +2817,8 @@
       "0.001 microwatts",
       "0.1 picowatts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E01",
@@ -2613,7 +2830,8 @@
       "Excessive ringing",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E02",
@@ -2625,7 +2843,8 @@
       "Power line noise",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E03",
@@ -2637,7 +2856,8 @@
       "Hum and buzz",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E04",
@@ -2649,7 +2869,8 @@
       "By installing a high-pass filter in series with the radio’s power lead and a low-pass filter in parallel with the antenna feed line",
       "By installing ferrite chokes on the charging system leads"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E05",
@@ -2661,7 +2882,8 @@
       "A bypass capacitor in series with the motor’s field winding",
       "A bypass choke in parallel with the motor’s field winding"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E06",
@@ -2673,7 +2895,8 @@
       "The appearance of unstable modulated or unmodulated signals at specific frequencies",
       "A whining-type noise that continually pulses off and on"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E07",
@@ -2685,7 +2908,8 @@
       "Use of braided shielding material",
       "Tying all ground connections to a common point resulting in differential-mode currents in the shield"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E08",
@@ -2697,7 +2921,8 @@
       "Reactive current only",
       "Magnetically-coupled current only"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E09",
@@ -2709,7 +2934,8 @@
       "Strong signals may be distorted and appear to cause spurious emissions",
       "FM signals can no longer be demodulated"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E10",
@@ -2721,7 +2947,8 @@
       "A malfunctioning illuminated advertising display",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E11",
@@ -2733,7 +2960,8 @@
       "You are receiving skywave signals from a distant station",
       "Your station receiver IF amplifier stage is overloaded"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E12",
@@ -2745,7 +2973,8 @@
       "Wireless security camera transmitters",
       "Electric fences"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E13",
@@ -2757,7 +2986,8 @@
       "On the single point ground panel",
       "On a ground rod outside the station"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E4E14",
@@ -2769,7 +2999,8 @@
       "Eliminate air gaps between protected and non-protected circuits",
       "Ensure all lightning protectors activate at the same time"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A01",
@@ -2781,7 +3012,8 @@
       "Low quality factor (Q)",
       "Resistance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A02",
@@ -2793,7 +3025,8 @@
       "3.56 MHz",
       "1.78 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A03",
@@ -2805,7 +3038,8 @@
       "Approximately equal to inductive reactance",
       "Approximately equal to circuit resistance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A04",
@@ -2817,7 +3051,8 @@
       "Low compared to the circuit resistance",
       "High compared to the circuit resistance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A05",
@@ -2829,7 +3064,8 @@
       "Losses increase",
       "Harmonics increase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A06",
@@ -2841,7 +3077,8 @@
       "It equals 1 divided by the quantity 2 times pi, times the square root of (inductance L multiplied by capacitance C)",
       "It equals 2 times pi, times the square root of (inductance L multiplied by capacitance C)"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A07",
@@ -2853,7 +3090,8 @@
       "R/L",
       "L/R"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A08",
@@ -2865,7 +3103,8 @@
       "The voltage and current are in phase",
       "The voltage and current are 180 degrees out of phase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A09",
@@ -2877,7 +3116,8 @@
       "Resistance divided by the reactance of either the inductance or capacitance",
       "Reactance of the inductance multiplied by the reactance of the capacitance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A10",
@@ -2889,7 +3129,8 @@
       "7.12 kHz",
       "23.5 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A11",
@@ -2901,7 +3142,8 @@
       "47.3 kHz",
       "23.67 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A12",
@@ -2913,7 +3155,8 @@
       "31.4 kHz",
       "15.7 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5A13",
@@ -2925,7 +3168,8 @@
       "Internal voltages increase",
       "Phase shift can become uncontrolled"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B01",
@@ -2937,7 +3181,8 @@
       "One exponential period",
       "A time factor of one"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B02",
@@ -2949,7 +3194,8 @@
       "Y",
       "B"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B03",
@@ -2961,7 +3207,8 @@
       "Take the square root of the magnitude and add 180 degrees to the angle",
       "Square the magnitude and subtract 90 degrees from the angle"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B04",
@@ -2973,7 +3220,8 @@
       "440 seconds",
       "220 seconds"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B05",
@@ -2985,7 +3233,8 @@
       "It is shifted by 90 degrees",
       "It is replaced by its reciprocal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B06",
@@ -2997,7 +3246,8 @@
       "The imaginary part of admittance",
       "A measure of the efficiency of a transformer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B07",
@@ -3009,7 +3259,8 @@
       "14.0 degrees with the voltage lagging the current",
       "68.2 degrees with the voltage lagging the current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B08",
@@ -3021,7 +3272,8 @@
       "27 degrees with the voltage leading the current",
       "27 degrees with the voltage lagging the current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B09",
@@ -3033,7 +3285,8 @@
       "Voltage leads current by 90 degrees",
       "Current leads voltage by 90 degrees"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B10",
@@ -3045,7 +3298,8 @@
       "Voltage and current are 180 degrees out of phase",
       "Voltage and current are in phase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B11",
@@ -3057,7 +3311,8 @@
       "63 degrees with the voltage lagging the current",
       "63 degrees with the voltage leading the current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5B12",
@@ -3069,7 +3324,8 @@
       "The inverse of reactance",
       "The term for the on-impedance of a field effect transistor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C01",
@@ -3081,7 +3337,8 @@
       "100 - j0",
       "100 + j0"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C02",
@@ -3093,7 +3350,8 @@
       "By magnitude and phase angle",
       "By Y and G values"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C03",
@@ -3105,7 +3363,8 @@
       "A positive 90 degree phase angle",
       "A negative 90 degree phase angle"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C04",
@@ -3117,7 +3376,8 @@
       "Random",
       "Logarithmic"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C05",
@@ -3129,7 +3389,8 @@
       "Phasor diagram",
       "Far field diagram"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C06",
@@ -3141,7 +3402,8 @@
       "25 ohms resistance in series with 50 ohms inductive reactance",
       "25 ohms resistance in series with 50 ohms capacitive reactance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C07",
@@ -3153,7 +3415,8 @@
       "On a horizontal line, offset vertically above the horizontal axis",
       "On the horizontal axis"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C08",
@@ -3165,7 +3428,8 @@
       "Elliptical coordinates",
       "Polar coordinates"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C09",
@@ -3177,7 +3441,8 @@
       "The X axis represents the phase angle, and the Y axis represents the magnitude",
       "The X axis represents the magnitude, and the Y axis represents the phase angle"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5C10",
@@ -3189,7 +3454,8 @@
       "Point 5",
       "Point 6"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e5-1"
   },
   {
     "id": "E5C11",
@@ -3201,7 +3467,8 @@
       "Point 7",
       "Point 8"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e5-1"
   },
   {
     "id": "E5C12",
@@ -3213,7 +3480,8 @@
       "Point 7",
       "Point 8"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e5-1"
   },
   {
     "id": "E5D01",
@@ -3225,7 +3493,8 @@
       "Resistance increases as temperature increases because of the change in thermal coefficient",
       "Resistance decreases as temperature increases because of the change in thermal coefficient"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D02",
@@ -3237,7 +3506,8 @@
       "To maintain component lifetime",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D03",
@@ -3249,7 +3519,8 @@
       "They are 90 degrees out of phase",
       "They are 45 degrees out of phase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D04",
@@ -3261,7 +3532,8 @@
       "To increase compensating capacitance",
       "To reduce noise figure"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D05",
@@ -3273,7 +3545,8 @@
       "Inductance",
       "Dielectric leakage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D06",
@@ -3285,7 +3558,8 @@
       "Coupling",
       "Inter-turn capacitance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D07",
@@ -3297,7 +3571,8 @@
       "The component’s inductance and capacitance",
       "The component’s electrical length and impedance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D08",
@@ -3309,7 +3584,8 @@
       "Self-discharge",
       "Skin effect"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D09",
@@ -3321,7 +3597,8 @@
       "It is canceled by Coulomb forces in the capacitor and inductor",
       "It is dissipated in the formation of inductive and capacitive fields"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D10",
@@ -3333,7 +3610,8 @@
       "It decreases",
       "It increases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D11",
@@ -3345,7 +3623,8 @@
       "141.4 watts",
       "200 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E5D12",
@@ -3357,7 +3636,8 @@
       "The power consumed in inductors and capacitors",
       "Wattless, nonproductive power"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A01",
@@ -3369,7 +3649,8 @@
       "In microwave circuits",
       "In very low-frequency RF circuits"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A02",
@@ -3381,7 +3662,8 @@
       "Bipolar",
       "Insulated gate"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A03",
@@ -3393,7 +3675,8 @@
       "Holes in P-type material and electrons in the N-type material are separated by the applied voltage, widening the depletion region",
       "Excess holes in P-type material combine with the electrons in N-type material, converting the entire diode into an insulator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A04",
@@ -3405,7 +3688,8 @@
       "Acceptor impurity",
       "Donor impurity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A05",
@@ -3417,7 +3701,8 @@
       "An FET has higher input impedance",
       "They are both high impedance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A06",
@@ -3429,7 +3714,8 @@
       "The breakdown voltage of the base-to-collector junction",
       "The switching speed"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A07",
@@ -3441,7 +3727,8 @@
       "Base-to-emitter voltage of approximately 6 volts to 7 volts",
       "Base-to-emitter voltage of approximately 0.6 volts to 0.7 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A08",
@@ -3453,7 +3740,8 @@
       "Beta cutoff frequency",
       "Alpha cutoff frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A09",
@@ -3465,7 +3753,8 @@
       "An FET that exhibits very high electron mobility due to a lack of holes in the N-type material",
       "An FET for which holes are the majority carriers"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6A10",
@@ -3477,7 +3766,8 @@
       "5",
       "6"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e6-1"
   },
   {
     "id": "E6A11",
@@ -3489,7 +3779,8 @@
       "3",
       "6"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e6-1"
   },
   {
     "id": "E6A12",
@@ -3501,7 +3792,8 @@
       "To keep the gate voltage within specifications and prevent the device from overheating",
       "To protect the gate from static damage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B01",
@@ -3513,7 +3805,8 @@
       "A negative resistance region",
       "An internal capacitance that varies with the applied voltage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B02",
@@ -3525,7 +3818,8 @@
       "Longer carrier retention time",
       "Lower forward voltage drop"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B03",
@@ -3537,7 +3831,8 @@
       "Junction capacitance",
       "Junction depth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B04",
@@ -3549,7 +3844,8 @@
       "Silicon-controlled rectifier",
       "Zener diode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B05",
@@ -3561,7 +3857,8 @@
       "Reverse bias controls its forward voltage drop",
       "Low junction capacitance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B06",
@@ -3573,7 +3870,8 @@
       "In power supplies as a constant voltage reference",
       "As a VHF/UHF mixer or detector"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B07",
@@ -3585,7 +3883,8 @@
       "Insufficient forward voltage",
       "Charge carrier depletion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B08",
@@ -3597,7 +3896,8 @@
       "PIN junction",
       "Thermionic emission diode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B09",
@@ -3609,7 +3909,8 @@
       "As an RF detector",
       "As a high-voltage rectifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6B10",
@@ -3621,7 +3922,8 @@
       "2",
       "3"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e6-2"
   },
   {
     "id": "E6B11",
@@ -3633,7 +3935,8 @@
       "Reverse voltage larger than the RF signal",
       "Capacitance of an RF coupling capacitor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C01",
@@ -3645,7 +3948,8 @@
       "To cause the output to continually change states",
       "To increase the sensitivity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C02",
@@ -3657,7 +3961,8 @@
       "The reference level appears at the output",
       "The feedback loop becomes unstable"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C03",
@@ -3669,7 +3974,8 @@
       "Logic with three output impedances which can be selected to better match the load impedance",
       "A counter with eight states"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C04",
@@ -3681,7 +3987,8 @@
       "It has the high input impedance of CMOS and the low output impedance of bipolar transistors",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C05",
@@ -3693,7 +4000,8 @@
       "NMOS",
       "CMOS"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C06",
@@ -3705,7 +4013,8 @@
       "The input switching threshold is about half the power supply voltage",
       "Bandwidth is very limited"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C07",
@@ -3717,7 +4026,8 @@
       "A resistor that ensures that an oscillator frequency does not drift",
       "A resistor connected to an op-amp output that prevents signals from exceeding the power supply voltage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C08",
@@ -3729,7 +4039,8 @@
       "3",
       "4"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e6-3"
   },
   {
     "id": "E6C09",
@@ -3741,7 +4052,8 @@
       "An auto-router",
       "Machine and assembly language"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6C10",
@@ -3753,7 +4065,8 @@
       "3",
       "4"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e6-3"
   },
   {
     "id": "E6C11",
@@ -3765,7 +4078,8 @@
       "5",
       "6"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e6-3"
   },
   {
     "id": "E6D01",
@@ -3777,7 +4091,8 @@
       "A characteristic of materials that generate a voltage when stressed and that flex when a voltage is applied",
       "The ability of materials to generate voltage when an electromagnetic wave of a certain frequency is applied"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D02",
@@ -3789,7 +4104,8 @@
       "Series RLC, where C is the parallel combination of resonance capacitance of the crystal and electrode and stray capacitance",
       "Parallel RLC, where C is the series combination of resonance capacitance of the crystal and electrode and stray capacitance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D03",
@@ -3801,7 +4117,8 @@
       "Generation of electrical energy in the presence of light",
       "Increased conductivity in the presence of light"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D04",
@@ -3813,7 +4130,8 @@
       "To increase the cutoff frequency by reducing capacitance",
       "To save cost by reducing the amount of magnetic material"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D05",
@@ -3825,7 +4143,8 @@
       "Ferrite cores generally require fewer turns to produce a given inductance value",
       "Ferrite cores are easier to use with surface-mount technology"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D06",
@@ -3837,7 +4156,8 @@
       "Reactivity",
       "Permeability"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D07",
@@ -3849,7 +4169,8 @@
       "Excitation current",
       "Magnetizing current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D08",
@@ -3861,7 +4182,8 @@
       "Ferrite",
       "Aluminum"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D09",
@@ -3873,7 +4195,8 @@
       "Ferrite beads",
       "Steel-core toroids"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D10",
@@ -3885,7 +4208,8 @@
       "Toroidal cores exhibit greater hysteresis",
       "Toroidal cores have lower Q characteristics"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D11",
@@ -3897,7 +4221,8 @@
       "Ferrite",
       "Aluminum"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6D12",
@@ -3909,7 +4234,8 @@
       "Operation at excessive magnetic flux",
       "Selecting a core with excessive permittivity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E01",
@@ -3921,7 +4247,8 @@
       "Lower junction voltage drop",
       "Lower transconductance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E02",
@@ -3933,7 +4260,8 @@
       "BGA",
       "SOT"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E03",
@@ -3945,7 +4273,8 @@
       "Silicon dioxide",
       "Gallium nitride"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E04",
@@ -3957,7 +4286,8 @@
       "450 ohms",
       "75 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E05",
@@ -3969,7 +4299,8 @@
       "44 dBm",
       "-20 dBm"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E06",
@@ -3981,7 +4312,8 @@
       "Nearly infinite gain, very high input impedance, and very low output impedance",
       "Controlled gain, low noise figure, and constant input and output impedance over the specified frequency range"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E07",
@@ -3993,7 +4325,8 @@
       "Parallel wire",
       "Microstrip"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E08",
@@ -4005,7 +4338,8 @@
       "Through a resistor and/or RF choke connected to the amplifier output lead",
       "Directly to the bias voltage (Vcc) lead"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E09",
@@ -4017,7 +4351,8 @@
       "Radial lead",
       "Surface mount"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E10",
@@ -4029,7 +4364,8 @@
       "Components have less parasitic inductance and capacitance",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E11",
@@ -4041,7 +4377,8 @@
       "Two chips in each package (dual in package)",
       "Two rows of connecting pins on opposite sides of package (dual in-line package)"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6E12",
@@ -4053,7 +4390,8 @@
       "Excessive lead length",
       "Unsuitable for combining analog and digital signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F01",
@@ -4065,7 +4403,8 @@
       "Electrons",
       "Holes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F02",
@@ -4077,7 +4416,8 @@
       "Reflectivity increases",
       "Reflectivity decreases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F03",
@@ -4089,7 +4429,8 @@
       "An amplitude-modulated helium-neon laser",
       "An LED and a phototransistor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F04",
@@ -4101,7 +4442,8 @@
       "The effect that causes a photodiode to emit light when a voltage is applied",
       "The effect that causes a phototransistor’s beta to decrease when exposed to light"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F05",
@@ -4113,7 +4455,8 @@
       "An optical computing device in which light is coupled between devices by fiber optics",
       "A device for generating RTTY signals by means of a rotating light source"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F06",
@@ -4125,7 +4468,8 @@
       "Crystalline semiconductor",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F07",
@@ -4137,7 +4481,8 @@
       "A mechanical relay that latches in the on or off state each time it is pulsed",
       "A semiconductor switch that uses a monostable multivibrator circuit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F08",
@@ -4149,7 +4494,8 @@
       "Optoisolators provide an electrical isolation between a control circuit and the circuit being switched",
       "Optoisolators eliminate the effects of reflected light in the control circuit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F09",
@@ -4161,7 +4507,8 @@
       "The open-circuit voltage divided by the short-circuit current under full illumination",
       "The relative fraction of light that is converted to current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F10",
@@ -4173,7 +4520,8 @@
       "Cadmium sulfide",
       "Indium arsenide"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E6F11",
@@ -4185,7 +4533,8 @@
       "1.1 volts",
       "1.5 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A01",
@@ -4197,7 +4546,8 @@
       "A flip-flop",
       "A bipolar amplifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A02",
@@ -4209,7 +4559,8 @@
       "It produces 10 output pulses for every input pulse",
       "It decodes a binary number for display on a seven-segment LED display"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A03",
@@ -4221,7 +4572,8 @@
       "An OR gate",
       "A multiplexer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A04",
@@ -4233,7 +4585,8 @@
       "8",
       "16"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A05",
@@ -4245,7 +4598,8 @@
       "T flip-flop",
       "Astable multivibrator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A06",
@@ -4257,7 +4611,8 @@
       "It stores one bit of data",
       "It maintains a constant output voltage, regardless of variations in the input voltage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A07",
@@ -4269,7 +4624,8 @@
       "It produces a 0 at its output if some but not all inputs are 1",
       "It produces a 0 at its output only if all inputs are 1"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A08",
@@ -4281,7 +4637,8 @@
       "It produces a 0 at its output if some but not all inputs are 1",
       "It produces a 1 at its output if all inputs are 0"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A09",
@@ -4293,7 +4650,8 @@
       "It produces a 0 at its output if one and only one of its inputs is 1",
       "It produces a 1 at its output if one and only one input is 1"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A10",
@@ -4305,7 +4663,8 @@
       "A diagram showing logic states when the digital gate output is true",
       "A table of logic symbols that indicate the logic states of an op-amp"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7A11",
@@ -4317,7 +4676,8 @@
       "The logic circuit is in the “true” condition",
       "1s and 0s are defined as different positive voltage levels"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B01",
@@ -4329,7 +4689,8 @@
       "The entire cycle",
       "Less than 180 degrees"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B02",
@@ -4341,7 +4702,8 @@
       "An amplifier that uses drift-mode FETs for high efficiency",
       "An amplifier biased to be relatively free from distortion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B03",
@@ -4353,7 +4715,8 @@
       "A matched load resistor to prevent damage by switching transients",
       "A temperature compensating load resistor to improve linearity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B04",
@@ -4365,7 +4728,8 @@
       "At a point where the bias resistor equals the load resistor",
       "At a point where the load line intersects the zero bias current curve"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B05",
@@ -4377,7 +4741,8 @@
       "Install parasitic suppressors and/or neutralize the stage",
       "Use a phase inverter in the output filter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B06",
@@ -4389,7 +4754,8 @@
       "High electrostatic damage protection",
       "Low bandwidth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B07",
@@ -4401,7 +4767,8 @@
       "Reduced third-order intermodulation",
       "Signal distortion and excessive bandwidth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B08",
@@ -4413,7 +4780,8 @@
       "Linear amplifiers have high gain resulting in higher harmonic content",
       "Switching amplifiers use push-pull circuits"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B09",
@@ -4425,7 +4793,8 @@
       "Acts as an OR circuit if one input is grounded",
       "Input and output signals in-phase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7B10",
@@ -4437,7 +4806,8 @@
       "Self bias",
       "Feedback"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-1"
   },
   {
     "id": "E7B11",
@@ -4449,7 +4819,8 @@
       "Output load resistor",
       "Self bias"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-1"
   },
   {
     "id": "E7B12",
@@ -4461,7 +4832,8 @@
       "Common emitter",
       "Emitter follower"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-1"
   },
   {
     "id": "E7C01",
@@ -4473,7 +4845,8 @@
       "An inductor is connected between the input and ground, another inductor is connected between the output and ground, and a capacitor is connected between the input and output",
       "A capacitor is connected between the input and ground, another capacitor is connected between the output and ground, and an inductor is connected between the input and output"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C02",
@@ -4485,7 +4858,8 @@
       "Band-pass ",
       "Notch"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C03",
@@ -4497,7 +4871,8 @@
       "To eliminate one capacitor",
       "Greater transformation range"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C04",
@@ -4509,7 +4884,8 @@
       "It cancels the reactive part of the impedance and changes the resistive part to the desired value",
       "Reactive currents are dissipated in matched resistances"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C05",
@@ -4521,7 +4897,8 @@
       "A passive op-amp filter",
       "A Chebyshev filter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C06",
@@ -4533,7 +4910,8 @@
       "Extremely sharp cutoff with one or more notches in the stop band",
       "Gradual passband rolloff with extreme stop-band ripple"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C07",
@@ -4545,7 +4923,8 @@
       "A network with only three discrete parts",
       "A matching network in which all components are isolated from ground"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C08",
@@ -4557,7 +4936,8 @@
       "A swinging choke filter",
       "A finite impulse response filter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C09",
@@ -4569,7 +4949,8 @@
       "A filter using lattice-shaped quartz crystals for high-Q performance",
       "A filter for low-level signals made using quartz crystals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C10",
@@ -4581,7 +4962,8 @@
       "A DSP filter",
       "An L-C filter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7C11",
@@ -4593,7 +4975,8 @@
       "Shape factor",
       "Noise factor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D01",
@@ -4605,7 +4988,8 @@
       "The control element duty cycle is proportional to the line or load conditions",
       "The conduction of a control element is varied to maintain a constant output voltage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D02",
@@ -4617,7 +5001,8 @@
       "By varying the conductivity of a pass element",
       "By switching between two Zener diode reference voltages"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D03",
@@ -4629,7 +5014,8 @@
       "An SCR",
       "An analog-to-digital converter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D04",
@@ -4641,7 +5027,8 @@
       "A shunt regulator",
       "A shunt current source"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D05",
@@ -4653,7 +5040,8 @@
       "A shunt current source",
       "A shunt regulator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D06",
@@ -4665,7 +5053,8 @@
       "It controls the current to keep the output voltage constant",
       "It provides regulation by switching or “chopping” the input DC voltage"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-2"
   },
   {
     "id": "E7D07",
@@ -4677,7 +5066,8 @@
       "To prevent self-oscillation",
       "To provide fixed DC bias for Q1"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-2"
   },
   {
     "id": "E7D08",
@@ -4689,7 +5079,8 @@
       "Linear voltage regulator",
       "Common base amplifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-2"
   },
   {
     "id": "E7D09",
@@ -4701,7 +5092,8 @@
       "Capacity in amp-hours divided by average current",
       "Internal resistance divided by average current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D10",
@@ -4713,7 +5105,8 @@
       "The high frequency inverter design uses much smaller transformers and filter components for an equivalent power output",
       "It recovers power from the unused portion of the AC cycle, thus using fewer components"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D11",
@@ -4725,7 +5118,8 @@
       "Prevent discharge when panel is not illuminated",
       "Convert the panel’s output from DC to AC"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D12",
@@ -4737,7 +5131,8 @@
       "Minimum input-to-output voltage required to maintain regulation",
       "Maximum that the output voltage may decrease at rated load"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D13",
@@ -4749,7 +5144,8 @@
       "Voltage difference from input to output multiplied by output current",
       "Output voltage multiplied by output current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D14",
@@ -4761,7 +5157,8 @@
       "Provide a minimum load on the supply",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7D15",
@@ -4773,7 +5170,8 @@
       "To prevent arcing across the input power switch or relay contacts",
       "To allow the filter capacitors to charge gradually"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E01",
@@ -4785,7 +5183,8 @@
       "Reactance modulation of the final amplifier",
       "Balanced modulation of a local oscillator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E02",
@@ -4797,7 +5196,8 @@
       "Produce AM signals by varying a resistance",
       "Produce PM or FM signals by varying a capacitance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E03",
@@ -4809,7 +5209,8 @@
       "An automatic band-switching circuit",
       "A circuit for detecting FM signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E04",
@@ -4821,7 +5222,8 @@
       "Use a loop modulator followed by a mixer",
       "Use a product detector with a DSB signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E05",
@@ -4833,7 +5235,8 @@
       "A heterodyne enhancer",
       "A pre-emphasis network"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E06",
@@ -4845,7 +5248,8 @@
       "For higher efficiency",
       "To remove third-order distortion products"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E07",
@@ -4857,7 +5261,8 @@
       "The unmodulated bandwidth of the transmitted signal",
       "The basic oscillator frequency in an FM transmitter that is multiplied to increase the deviation and carrier frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E08",
@@ -4869,7 +5274,8 @@
       "The two input frequencies along with their sum and difference frequencies",
       "1.414 and 0.707 times the input frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E09",
@@ -4881,7 +5287,8 @@
       "Automatic limiting occurs",
       "Excessive AGC voltage levels are generated"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E10",
@@ -4893,7 +5300,8 @@
       "By mixing signals with noise in the transition region of the diode",
       "By sensing the change of reactance in the diode with respect to frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7E11",
@@ -4905,7 +5313,8 @@
       "Product detector",
       "Phase comparator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F01",
@@ -4917,7 +5326,8 @@
       "Incoming RF is digitized by an analog-to-digital converter without being mixed with a local oscillator signal",
       "A switching mixer is used to generate I and Q signals directly from the RF input"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F02",
@@ -4929,7 +5339,8 @@
       "A Hilbert-transform filter",
       "A phase-inverting filter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F03",
@@ -4941,7 +5352,8 @@
       "A Hilbert-transform filter",
       "An elliptical filter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F04",
@@ -4953,7 +5365,8 @@
       "Varying quartz crystal characteristics are emulated in digital form",
       "Signals are combined in quadrature phase relationship"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F05",
@@ -4965,7 +5378,8 @@
       "At the same rate as the highest frequency component of the signal",
       "At four times the rate of the highest frequency component of the signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F06",
@@ -4977,7 +5391,8 @@
       "8 bits",
       "10 bits"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F07",
@@ -4989,7 +5404,8 @@
       "Converting signals from the time domain to the frequency domain",
       "Converting signals from the frequency domain to the time domain"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F08",
@@ -5001,7 +5417,8 @@
       "Attenuating the signal",
       "Removing unnecessary significant digits"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F09",
@@ -5013,7 +5430,8 @@
       "It removes low-frequency signal components to eliminate the need for DC restoration",
       "It notches out the sampling frequency to avoid sampling errors"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F10",
@@ -5025,7 +5443,8 @@
       "Integral non-linearity",
       "Differential non-linearity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F11",
@@ -5037,7 +5456,8 @@
       "Data storage transfer rate",
       "Missing codes and jitter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F12",
@@ -5049,7 +5469,8 @@
       "FIR filters can respond faster to impulses",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F13",
@@ -5061,7 +5482,8 @@
       "Select the point at which baseband signals are generated",
       "Provide incremental signal delays for filter algorithms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7F14",
@@ -5073,7 +5495,8 @@
       "Lower Q",
       "Double-precision math routines"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G01",
@@ -5085,7 +5508,8 @@
       "100 ohms",
       "10,000 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G02",
@@ -5097,7 +5521,8 @@
       "Band-pass filter",
       "Notch filter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G03",
@@ -5109,7 +5534,8 @@
       "Very low",
       "Very high"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G04",
@@ -5121,7 +5547,8 @@
       "The differential input voltage needed to bring the open loop output voltage to zero",
       "The potential between the amplifier input terminals of the op-amp in an open loop condition"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G05",
@@ -5133,7 +5560,8 @@
       "Restrict Q but increase gain",
       "Increase both gain and Q"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G06",
@@ -5145,7 +5573,8 @@
       "The gain of the amplifier at a filter’s cutoff frequency",
       "The frequency at which the amplifier’s offset voltage is zero"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G07",
@@ -5157,7 +5586,8 @@
       "47",
       "24"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G08",
@@ -5169,7 +5599,8 @@
       "It decreases logarithmically with increasing frequency",
       "It does not vary with frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7G09",
@@ -5181,7 +5612,8 @@
       "-0.23 volts",
       "-2.3 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-3"
   },
   {
     "id": "E7G10",
@@ -5193,7 +5625,8 @@
       "38",
       "76"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-3"
   },
   {
     "id": "E7G11",
@@ -5205,7 +5638,8 @@
       "7",
       "0.07"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e7-3"
   },
   {
     "id": "E7G12",
@@ -5217,7 +5651,8 @@
       "An amplifier used to increase the average output of frequency modulated amateur signals to the legal limit",
       "A RF amplifier used in the UHF and microwave regions"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H01",
@@ -5229,7 +5664,8 @@
       "Taft, Hartley, and Pierce",
       "Colpitts, Hartley, and Pierce"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H02",
@@ -5241,7 +5677,8 @@
       "Changes in oscillator frequency caused by mechanical vibration",
       "Excess loading of the microphone by an oscillator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H03",
@@ -5253,7 +5690,8 @@
       "An electronic servo loop consisting of a phase detector, a low-pass filter, a voltage-controlled oscillator, and a stable reference oscillator",
       "An electronic circuit consisting of a precision push-pull amplifier with a differential phase input"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H04",
@@ -5265,7 +5703,8 @@
       "Through a capacitive divider",
       "Through a neutralizing capacitor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H05",
@@ -5277,7 +5716,8 @@
       "Through a neutralizing capacitor",
       "Through a quartz crystal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H06",
@@ -5289,7 +5729,8 @@
       "Photovoltaic conversion and optical coupling",
       "Comparison of two digital input signals and digital pulse counting"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H07",
@@ -5301,7 +5742,8 @@
       "Increase the gain",
       "Mechanically isolate the oscillator circuitry from its enclosure"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H08",
@@ -5313,7 +5755,8 @@
       "Wirewound resistors",
       "Non-inductive resistors"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H09",
@@ -5325,7 +5768,8 @@
       "A phase-locked loop synthesizer",
       "A direct conversion synthesizer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H10",
@@ -5337,7 +5781,8 @@
       "The phase relationship between a voltage-controlled oscillator and the output waveform",
       "Frequently used receiver and transmitter frequencies"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H11",
@@ -5349,7 +5794,8 @@
       "Spurious signals at discrete frequencies",
       "Harmonics of the local oscillator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H12",
@@ -5361,7 +5807,8 @@
       "Bias the crystal at a specified voltage",
       "Bias the crystal at a specified current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E7H13",
@@ -5373,7 +5820,8 @@
       "Use a temperature-controlled high Q dielectric resonator",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A01",
@@ -5385,7 +5833,8 @@
       "Numerical analysis",
       "Differential analysis"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A02",
@@ -5397,7 +5846,8 @@
       "Level shifting",
       "Phase reversal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A03",
@@ -5409,7 +5859,8 @@
       "Frequency at different times",
       "Discrete impulses in time order"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A04",
@@ -5421,7 +5872,8 @@
       "An error caused by irregular quantization step size",
       "A method of decimation by randomly skipping samples"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A05",
@@ -5433,7 +5885,8 @@
       "The calculated RMS value can be converted directly into phasor form",
       "RMS is measured for both sinusoidal and non-sinusoidal signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A06",
@@ -5445,7 +5898,8 @@
       "1 to 1",
       "13 to 1"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A07",
@@ -5457,7 +5911,8 @@
       "The degree of carrier suppression ",
       "Amplifier gain"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A08",
@@ -5469,7 +5924,8 @@
       "Very high speed allows digitizing high frequencies",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A09",
@@ -5481,7 +5937,8 @@
       "256 divided by the gain of the input amplifier",
       "256"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A10",
@@ -5493,7 +5950,8 @@
       "Remove spurious sampling artifacts from the output signal",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8A11",
@@ -5505,7 +5963,8 @@
       "Reciprocal mixing",
       "Power factor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B01",
@@ -5517,7 +5976,8 @@
       "The modulating signal frequency divided by the bandwidth of the transmitted signal",
       "The bandwidth of the transmitted signal divided by the modulating signal frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B02",
@@ -5529,7 +5989,8 @@
       "It varies with the square root of the RF carrier frequency",
       "It does not depend on the RF carrier frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B03",
@@ -5541,7 +6002,8 @@
       "6",
       "0.6"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B04",
@@ -5553,7 +6015,8 @@
       "0.6",
       "6"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B05",
@@ -5565,7 +6028,8 @@
       "0.6",
       "1.67"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B06",
@@ -5577,7 +6041,8 @@
       "0.47",
       "47"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B07",
@@ -5589,7 +6054,8 @@
       "EME",
       "OFDM signals are not allowed on amateur bands"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B08",
@@ -5601,7 +6067,8 @@
       "A digital mode for narrow-band, slow-speed transmissions",
       "A digital modulation technique using subcarriers at frequencies chosen to avoid intersymbol interference"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B09",
@@ -5613,7 +6080,8 @@
       "The ratio of the carrier center frequency to the audio modulating frequency",
       "The ratio of the highest audio modulating frequency to the average audio modulating frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B10",
@@ -5625,7 +6093,8 @@
       "The transmitted signal is divided into packets of information",
       "Two or more information streams are merged into a digital combiner, which then pulse position modulates the transmitter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8B11",
@@ -5637,7 +6106,8 @@
       "Two or more data streams share the same channel by transmitting time of transmission as the sub-carrier",
       "Two or more signals are quadrature modulated to increase bandwidth efficiency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C01",
@@ -5649,7 +6119,8 @@
       "A method of performing single sideband modulation by shifting the phase of the carrier and modulation components of the signal",
       "A technique for analog modulation of television video signals using phase modulation and compression"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C02",
@@ -5661,7 +6132,8 @@
       "The rate at which the waveform changes to convey information",
       "The number of characters carried per second by the station-to-station link"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C03",
@@ -5673,7 +6145,8 @@
       "To improve carrier suppression",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C04",
@@ -5685,7 +6158,8 @@
       "Use of sinusoidal data pulses",
       "Use of linear data pulses"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C05",
@@ -5697,7 +6171,8 @@
       "52 Hz",
       "104 Hz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C06",
@@ -5709,7 +6184,8 @@
       "600 Hz",
       "2.4 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C07",
@@ -5721,7 +6197,8 @@
       "4.8 kHz",
       "5.76 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C08",
@@ -5733,7 +6210,8 @@
       "If errors are detected, redundant data is substituted",
       "If errors are detected, a retransmission is requested"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C09",
@@ -5745,7 +6223,8 @@
       "Extended ASCII",
       "Gray code"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C10",
@@ -5757,7 +6236,8 @@
       "Using a more efficient digital code",
       "Using forward error correction"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C11",
@@ -5769,7 +6249,8 @@
       "Baud rate is half the symbol rate",
       "The relationship depends on the specific code used"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C12",
@@ -5781,7 +6262,8 @@
       "Keying speed and shape factor (rise and fall time)",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C13",
@@ -5793,7 +6275,8 @@
       "Frequency response of the signal stream",
       "The number of bits used for error correction in the protocol"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C14",
@@ -5805,7 +6288,8 @@
       "Internet Protocol (IP)",
       "Talk group"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8C15",
@@ -5817,7 +6301,8 @@
       "Discovery and link establishment protocols",
       "Custom code plugs for the local trunking systems"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D01",
@@ -5829,7 +6314,8 @@
       "Built-in error correction codes minimize interference",
       "If the receiver detects interference, it will signal the transmitter to change frequencies"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D02",
@@ -5841,7 +6327,8 @@
       "Binary phase-shift keying",
       "Phase compandored spread spectrum"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D03",
@@ -5853,7 +6340,8 @@
       "A binary bit stream is used to shift the phase of an RF carrier very rapidly in a pseudorandom sequence",
       "Rapidly varying the frequency of a transmitted signal according to a pseudorandom sequence"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D04",
@@ -5865,7 +6353,8 @@
       "The generation of key clicks",
       "More difficult to tune"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D05",
@@ -5877,7 +6366,8 @@
       "Reduce keying waveform rise and fall times",
       "Insert high-pass filters at the transmitter output"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D06",
@@ -5889,7 +6379,8 @@
       "A larger character set is available",
       "Some types of errors can be detected"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D07",
@@ -5901,7 +6392,8 @@
       "Bit errors in the modem",
       "Excessive transmit audio levels"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D08",
@@ -5913,7 +6405,8 @@
       "Repeat Request Rate (RRR)",
       "Intermodulation Distortion (IMD)"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D09",
@@ -5925,7 +6418,8 @@
       "+15 dB",
       "-30 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D10",
@@ -5937,7 +6431,8 @@
       "Baudot uses 6 data bits per character, ASCII uses 7 or 8; Baudot has no letters/figures shift code, ASCII uses 2 letters/figures shift codes",
       "Baudot uses 7 data bits per character, ASCII uses 8; Baudot has no letters/figures shift code, ASCII uses 2 letters/figures shift codes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E8D11",
@@ -5949,7 +6444,8 @@
       "It is possible to transmit both uppercase and lowercase text",
       "It uses one character as a shift code to send numeric and special characters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A01",
@@ -5961,7 +6457,8 @@
       "A hypothetical, lossless antenna having equal radiation intensity in all directions used as a reference for antenna gain",
       "A spacecraft antenna used to direct signals toward Earth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A02",
@@ -5973,7 +6470,8 @@
       "420 watts",
       "286 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A03",
@@ -5985,7 +6483,8 @@
       "Effective radiated power",
       "Apparent power"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A04",
@@ -5997,7 +6496,8 @@
       "The settings of an antenna tuner at the transmitter",
       "The input power level"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A05",
@@ -6009,7 +6509,8 @@
       "To force net gain to 0 dB by grounding part of the antenna",
       "An increase in signal strength from ground reflections in the environment of the antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A06",
@@ -6021,7 +6522,8 @@
       "126 watts",
       "300 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A07",
@@ -6033,7 +6535,8 @@
       "632 watts",
       "63.2 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A08",
@@ -6045,7 +6548,8 @@
       "2.4 GHz",
       "900 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A09",
@@ -6057,7 +6561,8 @@
       "Total resistance divided by radiation resistance",
       "Effective radiated power divided by transmitter output"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A10",
@@ -6069,7 +6574,8 @@
       "Shortening the radiating element",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A11",
@@ -6081,7 +6587,8 @@
       "Soil conductivity",
       "Take-off angle"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9A12",
@@ -6093,7 +6600,8 @@
       "8.15 dB",
       "2.79 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9B01",
@@ -6105,7 +6613,8 @@
       "25 degrees",
       "30 degrees"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e9-1"
   },
   {
     "id": "E9B02",
@@ -6117,7 +6626,8 @@
       "24 dB",
       "18 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e9-1"
   },
   {
     "id": "E9B03",
@@ -6129,7 +6639,8 @@
       "18 dB",
       "14 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e9-1"
   },
   {
     "id": "E9B04",
@@ -6141,7 +6652,8 @@
       "3 dB",
       "38 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9B05",
@@ -6153,7 +6665,8 @@
       "Near field",
       "Polarization"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e9-2"
   },
   {
     "id": "E9B06",
@@ -6165,7 +6678,8 @@
       "7.5 degrees",
       "25 degrees"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e9-2"
   },
   {
     "id": "E9B07",
@@ -6177,7 +6691,8 @@
       "They are the same",
       "The power radiated from the isotropic radiator is 2.15 dB greater than that from the directional antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9B08",
@@ -6189,7 +6704,8 @@
       "The region where radiated field strengths are constant",
       "The region where the shape of the radiation pattern no longer varies with distance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9B09",
@@ -6201,7 +6717,8 @@
       "Mutual impedance analysis",
       "Calculus differentiation with respect to physical properties"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9B10",
@@ -6213,7 +6730,8 @@
       "A wire is modeled as a single sine-wave voltage source",
       "A wire is modeled as a series of segments, each having a distinct value of voltage across it"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9B11",
@@ -6225,7 +6743,8 @@
       "The computed feed point impedance may be incorrect",
       "The antenna will become mechanically unstable"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C01",
@@ -6237,7 +6756,8 @@
       "A figure-eight broadside to the axis of the array",
       "A figure-eight oriented along the axis of the array"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C02",
@@ -6249,7 +6769,8 @@
       "A figure-eight broadside to the axis of the array",
       "Omni-directional"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C03",
@@ -6261,7 +6782,8 @@
       "A figure-eight broadside to the axis of the array",
       "A figure-eight end-fire along the axis of the array"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C04",
@@ -6273,7 +6795,8 @@
       "The elevation angle increases, and the front-to-rear ratio decreases",
       "The elevation angle increases, while the front-to-rear ratio is unaffected"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C05",
@@ -6285,7 +6808,8 @@
       "To resonate the antenna across a wider range of frequencies",
       "To reduce common-mode current coupling on the feed line shield"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C06",
@@ -6297,7 +6821,8 @@
       "It changes the radiation pattern from horizontal to vertical polarization",
       "It decreases the ground loss"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C07",
@@ -6309,7 +6834,8 @@
       "50 ohms",
       "450 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C08",
@@ -6321,7 +6847,8 @@
       "A half-wave dipole with an additional parallel wire connecting its two ends",
       "A dipole configured to provide forward gain"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C09",
@@ -6333,7 +6860,8 @@
       "A phased array antenna consisting of multiple loops",
       "A wide band dipole using shorted coaxial cable for the radiating elements and fed with a 4:1 balun"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C10",
@@ -6345,7 +6873,8 @@
       "An omni-directional antenna commonly used for satellite communications",
       "A vertical array capable of quickly changing the direction of maximum radiation by changing phasing lines"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C11",
@@ -6357,7 +6886,8 @@
       "Separate elevation lobes will combine into a single lobe",
       "Radiation at low angles increases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C12",
@@ -6369,7 +6899,8 @@
       "A center-fed 1.25-wavelength dipole antenna",
       "An end-fed 2-wavelength dipole antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C13",
@@ -6381,7 +6912,8 @@
       "The horizontal beamwidth increases",
       "The horizontal beamwidth decreases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9C14",
@@ -6393,7 +6925,8 @@
       "The horizontal beamwidth decreases in the downhill direction",
       "The horizontal beamwidth increases in the uphill direction"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D01",
@@ -6405,7 +6938,8 @@
       "4 dB",
       "6 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D02",
@@ -6417,7 +6951,8 @@
       "Arrange two Yagis on the same axis and perpendicular to each other with the driven elements at the same point on the boom and fed 90 degrees out of phase",
       "Arrange two Yagis collinear to each other with the driven elements fed 180 degrees out of phase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D03",
@@ -6429,7 +6964,8 @@
       "At a voltage maximum",
       "At a voltage null"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D04",
@@ -6441,7 +6977,8 @@
       "To maximize efficiency",
       "To minimize the Q"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D05",
@@ -6453,7 +6990,8 @@
       "1/4 wavelength",
       "1/2 wavelength"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D06",
@@ -6465,7 +7003,8 @@
       "It is unchanged if the loading coil is located at the feed point",
       "It is unchanged if the loading coil is located at a voltage maximum point"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D07",
@@ -6477,7 +7016,8 @@
       "Higher losses",
       "Improved radiation efficiency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D08",
@@ -6489,7 +7029,8 @@
       "Gain is reduced",
       "More common-mode current is present on the feed line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D09",
@@ -6501,7 +7042,8 @@
       "To lower the Q",
       "To resonate the antenna by cancelling the capacitive reactance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D10",
@@ -6513,7 +7055,8 @@
       "Radiation resistance becomes imaginary",
       "Radiation resistance does not depend on frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D11",
@@ -6525,7 +7068,8 @@
       "Greater front-to-side",
       "Higher gain"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9D12",
@@ -6537,7 +7081,8 @@
       "Control of phase shift",
       "Minimize losses"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E01",
@@ -6549,7 +7094,8 @@
       "Shunt-fed",
       "T-match"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E02",
@@ -6561,7 +7107,8 @@
       "T-match",
       "Stub match"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E03",
@@ -6573,7 +7120,8 @@
       "T-match",
       "Stub match"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E04",
@@ -6585,7 +7133,8 @@
       "To provide a rejection notch that prevents the radiation of harmonics",
       "To transform the antenna impedance to a higher value"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E05",
@@ -6597,7 +7146,8 @@
       "Purely resistive",
       "Purely reactive"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E06",
@@ -6609,7 +7159,8 @@
       "75 ohms",
       "90 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E07",
@@ -6621,7 +7172,8 @@
       "Velocity factor",
       "Dielectric constant"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E08",
@@ -6633,7 +7185,8 @@
       "To divide power equally between two 50-ohm loads while maintaining 50-ohm input impedance",
       "To divide the frequency of the input to a counter to increase its frequency range"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E09",
@@ -6645,7 +7198,8 @@
       "Gamma match",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9E11",
@@ -6657,7 +7211,8 @@
       "To allow single-band antennas to operate on other bands",
       "To create a low-angle radiation pattern"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F01",
@@ -6669,7 +7224,8 @@
       "The velocity of a wave in the transmission line multiplied by the velocity of light in a vacuum",
       "The velocity of a wave in the transmission line divided by the velocity of light in a vacuum"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F02",
@@ -6681,7 +7237,8 @@
       "The insulating dielectric material",
       "The center conductor resistivity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F03",
@@ -6693,7 +7250,8 @@
       "Electromagnetic waves move faster in coaxial cable than in air",
       "Electromagnetic waves move more slowly in a coaxial cable than in air"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F04",
@@ -6705,7 +7263,8 @@
       "The same as the characteristic impedance of the line",
       "The same as the output impedance of the RF generator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F05",
@@ -6717,7 +7276,8 @@
       "Short lengths of coax mounted on printed circuit boards to minimize time delay between microwave circuits",
       "Precision printed circuit conductors above a ground plane that provide constant impedance interconnects at microwave frequencies"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F06",
@@ -6729,7 +7289,8 @@
       "10.6 meters",
       "13.3 meters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F07",
@@ -6741,7 +7302,8 @@
       "Smaller reflection coefficient",
       "Lower velocity factor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F08",
@@ -6753,7 +7315,8 @@
       "Foam dielectric coaxial cable has higher velocity factor",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F09",
@@ -6765,7 +7328,8 @@
       "The same as the characteristic impedance of the transmission line",
       "The same as the generator output impedance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F10",
@@ -6777,7 +7341,8 @@
       "An inductive reactance",
       "Zero"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F11",
@@ -6789,7 +7354,8 @@
       "A capacitive reactance",
       "Infinite"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9F12",
@@ -6801,7 +7367,8 @@
       "Very high impedance",
       "Very low impedance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G01",
@@ -6813,7 +7380,8 @@
       "Antenna radiation pattern",
       "Radio propagation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G02",
@@ -6825,7 +7393,8 @@
       "Voltage chords and current chords",
       "Resistance lines and reactance chords"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G03",
@@ -6837,7 +7406,8 @@
       "Impedance and SWR values in transmission lines",
       "Point-to-point propagation reliability as a function of frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G04",
@@ -6849,7 +7419,8 @@
       "Resistance and reactance",
       "Voltage and impedance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G05",
@@ -6861,7 +7432,8 @@
       "Determine the gain of an antenna given the physical and electrical parameters",
       "Determine the loss/100 feet of a transmission line, given the velocity factor and conductor materials"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G06",
@@ -6873,7 +7445,8 @@
       "Impedance axis",
       "Polar axis"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e9-3"
   },
   {
     "id": "E9G07",
@@ -6885,7 +7458,8 @@
       "The voltage axis",
       "The resistance axis"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure e9-3"
   },
   {
     "id": "E9G08",
@@ -6897,7 +7471,8 @@
       "Reassign the prime center’s impedance value",
       "Reassign the prime center to the reactance axis"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G09",
@@ -6909,7 +7484,8 @@
       "Coaxial-length circles",
       "Radiation-pattern circles"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G10",
@@ -6921,7 +7497,8 @@
       "Points with constant resistance",
       "Points with constant reactance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9G11",
@@ -6933,7 +7510,8 @@
       "In fractions of antenna electrical wavelength",
       "In fractions of antenna electrical frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H01",
@@ -6945,7 +7523,8 @@
       "It should be configured as a four-sided loop",
       "It should be at least one wavelength long"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H02",
@@ -6957,7 +7536,8 @@
       "Low loss coax transmission line is essential for good performance",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H03",
@@ -6969,7 +7549,8 @@
       "Relative directivity compared to a dipole",
       "Peak antenna gain compared to average gain over the hemisphere around and above the antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H04",
@@ -6981,7 +7562,8 @@
       "It eliminates tracking errors caused by strong out-of-band signals",
       "It increases signal strength by providing a better match to the feed line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H05",
@@ -6993,7 +7575,8 @@
       "It is practical for use only on VHF and higher bands",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H06",
@@ -7005,7 +7588,8 @@
       "Maximum DC current in the terminating resistor",
       "Minimum variation in SWR over the desired frequency range"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H07",
@@ -7017,7 +7601,8 @@
       "Decrease SWR bandwidth",
       "Eliminate harmonic reception"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H08",
@@ -7029,7 +7614,8 @@
       "It allows DF antennas to receive signals at different vertical angles",
       "It provides diversity reception that cancels multipath signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H09",
@@ -7041,7 +7627,8 @@
       "Omnidirectional",
       "Hyperbolic"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H10",
@@ -7053,7 +7640,8 @@
       "By increasing the number of turns and/or the area enclosed by the loop",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E9H11",
@@ -7065,7 +7653,8 @@
       "Broadband response",
       "High radiation angle"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A01",
@@ -7077,7 +7666,8 @@
       "Reduce RF current flow between pieces of equipment",
       "Protect breaker panel from power surges"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A02",
@@ -7089,7 +7679,8 @@
       "Ensure signals from your station are less than the controlled maximum permissible emission (MPE) limits",
       "Ensure signals from your station are less than the uncontrolled maximum permissible emission (MPE) limits"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A03",
@@ -7101,7 +7692,8 @@
       "30 - 300 MHz",
       "300 - 3000 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A04",
@@ -7113,7 +7705,8 @@
       "Each transmitter that produces 5 percent or more of its MPE limit in areas where the total MPE limit is exceeded",
       "Each transmitter operating with a duty cycle greater than 50 percent"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A05",
@@ -7125,7 +7718,8 @@
       "Microwaves are in the frequency range where wave velocity is higher",
       "The extremely high frequency energy can damage the joints of antenna structures"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A06",
@@ -7137,7 +7731,8 @@
       "E field and H field radiation intensity peaks can occur at different locations",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A07",
@@ -7149,7 +7744,8 @@
       "All tools secured to the climber’s harness",
       "All circuit breakers feeding power to the tower must be tied closed with tape, cable, or ties"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A08",
@@ -7161,7 +7757,8 @@
       "The rate at which RF energy is absorbed by the body",
       "The rate of RF energy reflected from stationary terrain"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A09",
@@ -7173,7 +7770,8 @@
       "Hand-held transceivers sold before May 3, 2021",
       "Dish antennas less than one meter in diameter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A10",
@@ -7185,7 +7783,8 @@
       "When the station’s operating mode is CW",
       "When the output power from the transmitter is less than 100 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A11",
@@ -7197,7 +7796,8 @@
       "Tower rungs",
       "Tower legs"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "E0A12",
@@ -7209,6 +7809,7 @@
       "Even with the climber's waist",
       "To the next lowest set of guys"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   }
 ]

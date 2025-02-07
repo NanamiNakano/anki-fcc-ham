@@ -9,7 +9,8 @@
       "Advancing skills in the technical and communication phases of the radio art",
       "All these choices are correct"
     ],
-    "description": "[97.1]"
+    "description": "[97.1]",
+    "figure": ""
   },
   {
     "id": "T1A02",
@@ -21,7 +22,8 @@
       "The FCC",
       "All these choices are correct"
     ],
-    "description": "[97.1]"
+    "description": "[97.1]",
+    "figure": ""
   },
   {
     "id": "T1A03",
@@ -33,7 +35,8 @@
       "It is required when in contact with foreign stations",
       "All these choices are correct"
     ],
-    "description": "[97.119(b)(2)]"
+    "description": "[97.119(b)(2)]",
+    "figure": ""
   },
   {
     "id": "T1A04",
@@ -45,7 +48,8 @@
       "One for each band on which the person plans to operate",
       "One for each permanent station location from which the person plans to operate"
     ],
-    "description": "[97.5(b)(1)]"
+    "description": "[97.5(b)(1)]",
+    "figure": ""
   },
   {
     "id": "T1A05",
@@ -57,7 +61,8 @@
       "The license appears in the FCC ULS database",
       "All these choices are correct"
     ],
-    "description": "[97.7]"
+    "description": "[97.7]",
+    "figure": ""
   },
   {
     "id": "T1A06",
@@ -69,7 +74,8 @@
       "A continuous transmission of weather information authorized in the amateur bands by the National Weather Service",
       "An amateur station transmitting communications for the purposes of observing propagation or related experimental activities"
     ],
-    "description": "[97.3(a)(9)]"
+    "description": "[97.3(a)(9)]",
+    "figure": ""
   },
   {
     "id": "T1A07",
@@ -81,7 +87,8 @@
       "An amateur station located more than 50 km above Earth's surface",
       "An amateur station using amateur radio satellites for relay of signals"
     ],
-    "description": "[97.3(a)(41)]"
+    "description": "[97.3(a)(41)]",
+    "figure": ""
   },
   {
     "id": "T1A08",
@@ -93,7 +100,8 @@
       "FCC Regional Field Office ",
       "International Telecommunication Union"
     ],
-    "description": "[97.3(a)(22)]"
+    "description": "[97.3(a)(22)]",
+    "figure": ""
   },
   {
     "id": "T1A09",
@@ -105,7 +113,8 @@
       "Amateur operators in a local or regional area whose stations are eligible to be repeater or auxiliary stations",
       "FCC Regional Field Office"
     ],
-    "description": "[97.3(a)(22)]"
+    "description": "[97.3(a)(22)]",
+    "figure": ""
   },
   {
     "id": "T1A10",
@@ -117,7 +126,8 @@
       "An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization",
       "All these choices are correct"
     ],
-    "description": "[97.3(a)(38),"
+    "description": "[97.3(a)(38),",
+    "figure": ""
   },
   {
     "id": "T1A11",
@@ -129,7 +139,8 @@
       "When making short test transmissions",
       "At any time, stations in the Amateur Radio Service are not protected from willful interference"
     ],
-    "description": "[97.101"
+    "description": "[97.101",
+    "figure": ""
   },
   {
     "id": "T1B01",
@@ -141,7 +152,8 @@
       "28.300 MHz to 28.500 MHz",
       "28.500 MHz to 28.600 MHz"
     ],
-    "description": "[97.301"
+    "description": "[97.301",
+    "figure": ""
   },
   {
     "id": "T1B02",
@@ -153,7 +165,8 @@
       "Any amateur holding a General class or higher license who has applied for and received approval from NASA",
       "Any amateur holding a Technician class or higher license who has applied for and received approval from NASA"
     ],
-    "description": "[97.301,"
+    "description": "[97.301,",
+    "figure": ""
   },
   {
     "id": "T1B03",
@@ -165,7 +178,8 @@
       "28.50 MHz",
       "222.15 MHz"
     ],
-    "description": "[97.301(a)]"
+    "description": "[97.301(a)]",
+    "figure": ""
   },
   {
     "id": "T1B04",
@@ -177,7 +191,8 @@
       "70 centimeters",
       "2 meters"
     ],
-    "description": "[97.301(a)]"
+    "description": "[97.301(a)]",
+    "figure": ""
   },
   {
     "id": "T1B05",
@@ -189,7 +204,8 @@
       "Emergency traffic only",
       "Fixed digital message forwarding systems only"
     ],
-    "description": "[97.305(c)]"
+    "description": "[97.305(c)]",
+    "figure": ""
   },
   {
     "id": "T1B06",
@@ -201,7 +217,8 @@
       "80 meter, 40 meter, 15 meter, and 10 meter bands",
       "30 meter band only"
     ],
-    "description": "[97.301(e),"
+    "description": "[97.301(e),",
+    "figure": ""
   },
   {
     "id": "T1B07",
@@ -213,7 +230,8 @@
       "902.0 MHz to 902.1 MHz",
       "All these choices are correct"
     ],
-    "description": "[97.305(a),"
+    "description": "[97.305(a),",
+    "figure": ""
   },
   {
     "id": "T1B08",
@@ -225,7 +243,8 @@
       "International communications are not permitted in those segments",
       "Digital transmissions are not permitted in those segments"
     ],
-    "description": "[97.303]"
+    "description": "[97.303]",
+    "figure": ""
   },
   {
     "id": "T1B09",
@@ -237,7 +256,8 @@
       "To allow for transmitter frequency drift",
       "All these choices are correct"
     ],
-    "description": "[97.101(a),"
+    "description": "[97.101(a),",
+    "figure": ""
   },
   {
     "id": "T1B10",
@@ -249,7 +269,8 @@
       "In at least some segment of all these bands",
       "On any band if the power is limited to 25 watts"
     ],
-    "description": "[97.305(c)]"
+    "description": "[97.305(c)]",
+    "figure": ""
   },
   {
     "id": "T1B11",
@@ -261,7 +282,8 @@
       "50 watts",
       "10 watts"
     ],
-    "description": "[97.313]"
+    "description": "[97.313]",
+    "figure": ""
   },
   {
     "id": "T1B12",
@@ -273,7 +295,8 @@
       "500 watts",
       "1500 watts"
     ],
-    "description": "[97.313(b)]"
+    "description": "[97.313(b)]",
+    "figure": ""
   },
   {
     "id": "T1C01",
@@ -285,7 +308,8 @@
       "Novice, Technician Plus, General, Advanced",
       "Technician, General, Amateur Extra"
     ],
-    "description": "[97.9(a),"
+    "description": "[97.9(a),",
+    "figure": ""
   },
   {
     "id": "T1C02",
@@ -297,7 +321,8 @@
       "Only a licensed amateur who has been licensed continuously for more than 10 years",
       "Any licensed amateur"
     ],
-    "description": "[97.19]"
+    "description": "[97.19]",
+    "figure": ""
   },
   {
     "id": "T1C03",
@@ -309,7 +334,8 @@
       "Only communications incidental to contest exchanges; all other communications are prohibited",
       "Any communications that would be permitted by an international broadcast station"
     ],
-    "description": "[97.117]"
+    "description": "[97.117]",
+    "figure": ""
   },
   {
     "id": "T1C04",
@@ -321,7 +347,8 @@
       "Revocation of access to the license record in the FCC system",
       "Nothing; there is no such requirement"
     ],
-    "description": "[97.23]"
+    "description": "[97.23]",
+    "figure": ""
   },
   {
     "id": "T1C05",
@@ -333,7 +360,8 @@
       "W1XX",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T1C06",
@@ -345,7 +373,8 @@
       "From anywhere within International Telecommunication Union (ITU) Regions 2 and 3",
       "From any vessel or craft located in international waters and documented or registered in the United States"
     ],
-    "description": "[97.5(a)(2)]"
+    "description": "[97.5(a)(2)]",
+    "figure": ""
   },
   {
     "id": "T1C07",
@@ -357,7 +386,8 @@
       "Failure to obtain FCC type acceptance prior to using a home-built transmitter",
       "Failure to have a copy of your license available at your station"
     ],
-    "description": "[97.23]"
+    "description": "[97.23]",
+    "figure": ""
   },
   {
     "id": "T1C08",
@@ -369,7 +399,8 @@
       "Ten years",
       "Eight years"
     ],
-    "description": "[97.25]"
+    "description": "[97.25]",
+    "figure": ""
   },
   {
     "id": "T1C09",
@@ -381,7 +412,8 @@
       "Five years",
       "Ten years"
     ],
-    "description": "[97.21(a)(b)]"
+    "description": "[97.21(a)(b)]",
+    "figure": ""
   },
   {
     "id": "T1C10",
@@ -393,7 +425,8 @@
       "As soon as your operator/station license grant appears in the FCC’s license database",
       "As soon as you receive your license in the mail from the FCC"
     ],
-    "description": "[97.5a]"
+    "description": "[97.5a]",
+    "figure": ""
   },
   {
     "id": "T1C11",
@@ -405,7 +438,8 @@
       "Yes, for up to one year",
       "No, you must wait until the license has been renewed"
     ],
-    "description": "[97.21(b)]"
+    "description": "[97.21(b)]",
+    "figure": ""
   },
   {
     "id": "T1D01",
@@ -417,7 +451,8 @@
       "Any country banned from such communications by the International Amateur Radio Union (IARU)",
       "Any country banned from making such communications by the American Radio Relay League (ARRL)"
     ],
-    "description": "[97.111(a)(1)]"
+    "description": "[97.111(a)(1)]",
+    "figure": ""
   },
   {
     "id": "T1D02",
@@ -429,7 +464,8 @@
       "International Morse Code Practice",
       "Telecommand or transmissions of telemetry"
     ],
-    "description": "[97.113(b),"
+    "description": "[97.113(b),",
+    "figure": ""
   },
   {
     "id": "T1D03",
@@ -441,7 +477,8 @@
       "Only when transmitting control commands to space stations or radio control craft",
       "Never"
     ],
-    "description": "[97.211(b),"
+    "description": "[97.211(b),",
+    "figure": ""
   },
   {
     "id": "T1D04",
@@ -453,7 +490,8 @@
       "When transmissions are limited to less than three minutes per hour",
       "When the music is transmitted above 1280 MHz"
     ],
-    "description": "[97.113(a)(4),"
+    "description": "[97.113(a)(4),",
+    "figure": ""
   },
   {
     "id": "T1D05",
@@ -465,7 +503,8 @@
       "When no profit is made on the sale",
       "When selling amateur radio equipment and not on a regular basis"
     ],
-    "description": "[97.113(a)(3)(ii)]"
+    "description": "[97.113(a)(3)(ii)]",
+    "figure": ""
   },
   {
     "id": "T1D06",
@@ -477,7 +516,8 @@
       "The ITU maintains a list of words that are not permitted to be used on amateur frequencies",
       "There is no such prohibition"
     ],
-    "description": "[97.113(a)(4)]"
+    "description": "[97.113(a)(4)]",
+    "figure": ""
   },
   {
     "id": "T1D07",
@@ -489,7 +529,8 @@
       "Beacon, repeater, or space stations",
       "Repeater, auxiliary, or space stations"
     ],
-    "description": "[97.113(d)]"
+    "description": "[97.113(d)]",
+    "figure": ""
   },
   {
     "id": "T1D08",
@@ -501,7 +542,8 @@
       "When the communication is made to obtain emergency information for a local broadcast station",
       "All these choices are correct"
     ],
-    "description": "[97.113(a)(3)(iii)]"
+    "description": "[97.113(a)(3)(iii)]",
+    "figure": ""
   },
   {
     "id": "T1D09",
@@ -513,7 +555,8 @@
       "Where noncommercial programming is gathered and supplied exclusively to the National Public Radio network ",
       "Never"
     ],
-    "description": "[97.113(5)(b)]"
+    "description": "[97.113(5)(b)]",
+    "figure": ""
   },
   {
     "id": "T1D10",
@@ -525,7 +568,8 @@
       "Transmission of messages directed only to amateur operators",
       "Transmissions intended for reception by the general public"
     ],
-    "description": "[97.3(a)(10)]"
+    "description": "[97.3(a)(10)]",
+    "figure": ""
   },
   {
     "id": "T1D11",
@@ -537,7 +581,8 @@
       "When the transmitted power level is below 1 watt",
       "When transmitting signals to control model craft"
     ],
-    "description": "[97.119(a)]"
+    "description": "[97.119(a)]",
+    "figure": ""
   },
   {
     "id": "T1E01",
@@ -549,7 +594,8 @@
       "When the transmitting station is an auxiliary station",
       "Never"
     ],
-    "description": "[97.7(a)]"
+    "description": "[97.7(a)]",
+    "figure": ""
   },
   {
     "id": "T1E02",
@@ -561,7 +607,8 @@
       "Only an Amateur Extra Class operator who is also an AMSAT member",
       "Any amateur allowed to transmit on the satellite uplink frequency"
     ],
-    "description": "[97.301,"
+    "description": "[97.301,",
+    "figure": ""
   },
   {
     "id": "T1E03",
@@ -573,7 +620,8 @@
       "The frequency coordinator",
       "Any licensed operator"
     ],
-    "description": "[97.103(b)]"
+    "description": "[97.103(b)]",
+    "figure": ""
   },
   {
     "id": "T1E04",
@@ -585,7 +633,8 @@
       "The highest class of operator license held by anyone on the premises",
       "The class of operator license held by the control operator"
     ],
-    "description": "[97.103(b)]"
+    "description": "[97.103(b)]",
+    "figure": ""
   },
   {
     "id": "T1E05",
@@ -597,7 +646,8 @@
       "The location at which the control operator function is performed",
       "The mailing address of the station licensee"
     ],
-    "description": "[97.3(a)(14)]"
+    "description": "[97.3(a)(14)]",
+    "figure": ""
   },
   {
     "id": "T1E06",
@@ -609,7 +659,8 @@
       "As part of a multi-operator contest team",
       "When using a club station whose trustee holds an Amateur Extra Class license"
     ],
-    "description": "[97.301]"
+    "description": "[97.301]",
+    "figure": ""
   },
   {
     "id": "T1E07",
@@ -621,7 +672,8 @@
       "Only the control operator",
       "The control operator and the station licensee"
     ],
-    "description": "[97.103(a)]"
+    "description": "[97.103(a)]",
+    "figure": ""
   },
   {
     "id": "T1E08",
@@ -633,7 +685,8 @@
       "Using a computer or other device to send CW automatically",
       "Using a computer or other device to identify automatically"
     ],
-    "description": "[97.3(a)(6),"
+    "description": "[97.3(a)(6),",
+    "figure": ""
   },
   {
     "id": "T1E09",
@@ -645,7 +698,8 @@
       "The control operator must indirectly manipulate the controls",
       "All these choices are correct"
     ],
-    "description": "[97.109(c)]"
+    "description": "[97.109(c)]",
+    "figure": ""
   },
   {
     "id": "T1E10",
@@ -657,7 +711,8 @@
       "Controlling a model aircraft, boat, or car by amateur radio",
       "All these choices are correct"
     ],
-    "description": "[97.3(a)(39)]"
+    "description": "[97.3(a)(39)]",
+    "figure": ""
   },
   {
     "id": "T1E11",
@@ -669,7 +724,8 @@
       "The person operating the station equipment",
       "The station licensee"
     ],
-    "description": "[97.103(a)]"
+    "description": "[97.103(a)]",
+    "figure": ""
   },
   {
     "id": "T1F01",
@@ -681,7 +737,8 @@
       "At any time after written notification by the FCC of such inspection",
       "Only when presented with a valid warrant by an FCC official or government agent"
     ],
-    "description": "[97.103(c)]"
+    "description": "[97.103(c)]",
+    "figure": ""
   },
   {
     "id": "T1F02",
@@ -693,7 +750,8 @@
       "At the end of each communication and every ten minutes during a communication",
       "At the end of every transmission"
     ],
-    "description": "[97.119"
+    "description": "[97.119",
+    "figure": ""
   },
   {
     "id": "T1F03",
@@ -705,7 +763,8 @@
       "At least every 15 minutes during and at the end of a communication",
       "At least every 10 minutes during and at the end of a communication"
     ],
-    "description": "[97.119(a)]"
+    "description": "[97.119(a)]",
+    "figure": ""
   },
   {
     "id": "T1F04",
@@ -717,7 +776,8 @@
       "English",
       "English, French, or Spanish"
     ],
-    "description": "[97.119(b)(2)]"
+    "description": "[97.119(b)(2)]",
+    "figure": ""
   },
   {
     "id": "T1F05",
@@ -729,7 +789,8 @@
       "Send the call sign followed by the indicator R",
       "Send the call sign using only a phone emission"
     ],
-    "description": "[97.119(b)(2)]"
+    "description": "[97.119(b)(2)]",
+    "figure": ""
   },
   {
     "id": "T1F06",
@@ -741,7 +802,8 @@
       "KL7CC slash W3",
       "All these choices are correct"
     ],
-    "description": "[97.119(c)]"
+    "description": "[97.119(c)]",
+    "figure": ""
   },
   {
     "id": "T1F07",
@@ -753,7 +815,8 @@
       "The licensed control operator must do the station identification",
       "All these choices are correct"
     ],
-    "description": "[97.115(a)(2)]"
+    "description": "[97.115(a)(2)]",
+    "figure": ""
   },
   {
     "id": "T1F08",
@@ -765,7 +828,8 @@
       "Operation when the transmitting equipment is licensed to a person other than the control operator",
       "Temporary authorization for an unlicensed person to transmit on the amateur bands for technical experiments"
     ],
-    "description": "[97.3(a)(47)]"
+    "description": "[97.3(a)(47)]",
+    "figure": ""
   },
   {
     "id": "T1F09",
@@ -777,7 +841,8 @@
       "Repeater station",
       "Message forwarding station"
     ],
-    "description": "[97.3(a)(40)]"
+    "description": "[97.3(a)(40)]",
+    "figure": ""
   },
   {
     "id": "T1F10",
@@ -789,7 +854,8 @@
       "The owner of the repeater",
       "Both the originating station and the repeater owner"
     ],
-    "description": "[97.205(g)]"
+    "description": "[97.205(g)]",
+    "figure": ""
   },
   {
     "id": "T1F11",
@@ -801,7 +867,8 @@
       "The club must be registered with the American Radio Relay League",
       "All these choices are correct"
     ],
-    "description": "[97.5(b)(2)]"
+    "description": "[97.5(b)(2)]",
+    "figure": ""
   },
   {
     "id": "T2A01",
@@ -813,7 +880,8 @@
       "Plus or minus 500 kHz",
       "Plus or minus 1 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A02",
@@ -825,7 +893,8 @@
       "432.100 MHz",
       "446.000 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A03",
@@ -837,7 +906,8 @@
       "Plus or minus 500 kHz",
       "Plus or minus 1 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A04",
@@ -849,7 +919,8 @@
       "Say \"CQ\" three times, then the other station's call sign",
       "Wait for the station to call CQ, then answer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A05",
@@ -861,7 +932,8 @@
       "Transmit the other station’s call sign followed by your call sign",
       "Transmit a signal report followed by your call sign"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A06",
@@ -873,7 +945,8 @@
       "Notify the FCC of the transmissions",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A07",
@@ -885,7 +958,8 @@
       "The repeater station identification is done on a separate frequency",
       "The number of simultaneous transmit frequencies used by a repeater"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A08",
@@ -897,7 +971,8 @@
       "Only the called station should transmit",
       "Calling any station"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A09",
@@ -909,7 +984,8 @@
       "The repeater call sign followed by the station’s call sign",
       "“QSY” followed by your call sign"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A10",
@@ -921,7 +997,8 @@
       "A list of available net frequencies",
       "A plan devised by a club to indicate frequency band usage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A11",
@@ -933,7 +1010,8 @@
       "Simplex",
       "Multiplex"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2A12",
@@ -945,7 +1023,8 @@
       "Make sure you are authorized to use that frequency",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B01",
@@ -957,7 +1036,8 @@
       "To listen on a repeater’s input frequency",
       "To listen on a repeater’s output frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B02",
@@ -969,7 +1049,8 @@
       "DTMF",
       "CTCSS"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B03",
@@ -981,7 +1062,8 @@
       "Multiple repeaters with the same control operator",
       "A system of repeaters linked by APRS"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B04",
@@ -993,7 +1075,8 @@
       "You are using the wrong DCS code",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B05",
@@ -1005,7 +1088,8 @@
       "You are talking too loudly",
       "Your transmit power is too high"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B06",
@@ -1017,7 +1101,8 @@
       "GPRS",
       "D-STAR"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B07",
@@ -1029,7 +1114,8 @@
       "Program your radio with the group’s ID or code",
       "Sign your call after the courtesy tone"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B08",
@@ -1041,7 +1127,8 @@
       "Interference is inevitable, so no action is required",
       "Use subaudible tones so both stations can share the frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B09",
@@ -1053,7 +1140,8 @@
       "For working DX only",
       "So stations with simple transmitters can access the repeater without automated offset"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B10",
@@ -1065,7 +1153,8 @@
       "QTH",
       "QSB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B11",
@@ -1077,7 +1166,8 @@
       "QSL",
       "QRZ"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B12",
@@ -1089,7 +1179,8 @@
       "Identifies the codec used",
       "Defines the minimum signal level required for access"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2B13",
@@ -1101,7 +1192,8 @@
       "Eliminate parasitic oscillations in an RF amplifier",
       "Reduce interference from impulse noise"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C01",
@@ -1113,7 +1205,8 @@
       "When operating under special ARES rules",
       "FCC rules always apply"
     ],
-    "description": "[97.103(a)]"
+    "description": "[97.103(a)]",
+    "figure": ""
   },
   {
     "id": "T2C02",
@@ -1125,7 +1218,8 @@
       "Call the net to order and direct communications between stations checking in",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C03",
@@ -1137,7 +1231,8 @@
       "Spell the words using a standard phonetic alphabet",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C04",
@@ -1149,7 +1244,8 @@
       "A radio contest held in a short period, sometimes called a “sprint”",
       "An FCC part 97 amateur radio service for civil defense communications during national emergencies"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C05",
@@ -1161,7 +1257,8 @@
       "Operation by mobile or portable stations",
       "Requests to activate the net by a served agency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C06",
@@ -1173,7 +1270,8 @@
       "A training program that provides licensing courses for those interested in obtaining an amateur license to use during emergencies",
       "A training program that certifies amateur operators for membership in the Radio Amateur Civil Emergency Service"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C07",
@@ -1185,7 +1283,8 @@
       "Unless you are reporting an emergency, transmit only when directed by the net control station",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C08",
@@ -1197,7 +1296,8 @@
       "Ensuring that any newsworthy messages are relayed to the news media",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C09",
@@ -1209,7 +1309,8 @@
       "Yes, but only when part of a RACES emergency plan",
       "Yes, but only in situations involving the immediate safety of human life or protection of property"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C10",
@@ -1221,7 +1322,8 @@
       "The telephone number of the addressee",
       "Information needed to track the message"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T2C11",
@@ -1233,7 +1335,8 @@
       "A list of stations that have relayed the message",
       "A box on the message form that indicates that the message was received and/or relayed"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A01",
@@ -1245,7 +1348,8 @@
       "Multipath propagation cancels or reinforces signals",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A02",
@@ -1257,7 +1361,8 @@
       "Amplification",
       "Polarization rotation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A03",
@@ -1269,7 +1374,8 @@
       "Horizontal",
       "Vertical"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A04",
@@ -1281,7 +1387,8 @@
       "Signals have an echo effect",
       "Nothing significant will happen"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A05",
@@ -1293,7 +1400,8 @@
       "Try the long path",
       "Increase the antenna SWR"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A06",
@@ -1305,7 +1413,8 @@
       "A type of ground system used with vertical antennas",
       "Local vs long-distance communications"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A07",
@@ -1317,7 +1426,8 @@
       "Precipitation ",
       "Colder temperatures"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A08",
@@ -1329,7 +1439,8 @@
       "Intermodulation distortion ",
       "Random combining of signals arriving via different paths"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A09",
@@ -1341,7 +1452,8 @@
       "FM voice is unusable",
       "Both the transmitting and receiving antennas must be of the same polarization"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A10",
@@ -1353,7 +1465,8 @@
       "No significant changes will occur if the signals are transmitted using FM",
       "Error rates are likely to increase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A11",
@@ -1365,7 +1478,8 @@
       "The ionosphere",
       "The mesosphere"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3A12",
@@ -1377,7 +1491,8 @@
       "Deflection",
       "Range increase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B01",
@@ -1389,7 +1504,8 @@
       "They revolve in opposite directions ",
       "They are at right angles"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B02",
@@ -1401,7 +1517,8 @@
       "The ratio of the energy in the magnetic field to the energy in the electric field",
       "The ratio of the velocity to the wavelength"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B03",
@@ -1413,7 +1530,8 @@
       "Electric and magnetic fields",
       "Ionizing and non-ionizing radiation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B04",
@@ -1425,7 +1543,8 @@
       "Speed inversely proportional to its wavelength",
       "Speed that increases as the frequency increases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B05",
@@ -1437,7 +1556,8 @@
       "Wavelength and frequency are unrelated",
       "Wavelength and frequency increase as path length increases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B06",
@@ -1449,7 +1569,8 @@
       "Wavelength in meters equals frequency in megahertz divided by 300",
       "Wavelength in meters equals 300 divided by frequency in megahertz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B07",
@@ -1461,7 +1582,8 @@
       "Channel numbers",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B08",
@@ -1473,7 +1595,8 @@
       "300 kHz to 3000 kHz",
       "300 MHz to 3000 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B09",
@@ -1485,7 +1608,8 @@
       "300 to 3000 kHz",
       "300 to 3000 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B10",
@@ -1497,7 +1621,8 @@
       "3 to 30 MHz",
       "300 to 3000 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3B11",
@@ -1509,7 +1634,8 @@
       "300,000,000 miles per hour",
       "150,000 miles per hour"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C01",
@@ -1521,7 +1647,8 @@
       "UHF signals are usually not propagated by the ionosphere",
       "UHF signals are absorbed by the ionospheric D region"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C02",
@@ -1533,7 +1660,8 @@
       "Long-distance ionospheric propagation is far more common on HF",
       "There is less atmospheric interference (static) on HF"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C03",
@@ -1545,7 +1673,8 @@
       "They occur only during winter nighttime hours",
       "They are generally strongest when your antenna is aimed west"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C04",
@@ -1557,7 +1686,8 @@
       "D region absorption",
       "Gray-line propagation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C05",
@@ -1569,7 +1699,8 @@
       "Quantum tunneling",
       "Doppler shift"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C06",
@@ -1581,7 +1712,8 @@
       "F2 region refraction",
       "Faraday rotation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C07",
@@ -1593,7 +1725,8 @@
       "2 meters",
       "70 centimeters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C08",
@@ -1605,7 +1738,8 @@
       "Updrafts from hurricanes and tornadoes",
       "Temperature inversions in the atmosphere"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C09",
@@ -1617,7 +1751,8 @@
       "From dawn to shortly after sunset during periods of low sunspot activity",
       "From shortly after sunset to dawn during periods of low sunspot activity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C10",
@@ -1629,7 +1764,8 @@
       "70 centimeters and 1.25 meters ",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T3C11",
@@ -1641,7 +1777,8 @@
       "The atmosphere refracts radio waves slightly",
       "Radio waves are blocked by dust particles"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A01",
@@ -1653,7 +1790,8 @@
       "24.0 volts at 12 amperes",
       "13.8 volts at 12 amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A02",
@@ -1665,7 +1803,8 @@
       "The types of modulation being used at the station",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A03",
@@ -1677,7 +1816,8 @@
       "To avoid RF interference",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A04",
@@ -1689,7 +1829,8 @@
       "To an FT8 conversion unit, a keyboard, and a computer monitor ",
       "To a computer connected to the FT8converter.com website"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A05",
@@ -1701,7 +1842,8 @@
       "In parallel with the push-to-talk line and the antenna",
       "In the power supply cable, as close as possible to the radio"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A06",
@@ -1713,7 +1855,8 @@
       "Receive audio, transmit audio, and transmitter keying",
       "NMEA GPS location and DC power"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A07",
@@ -1725,7 +1868,8 @@
       "Computer “line in” to transceiver speaker connector",
       "Computer “line out” to transceiver speaker connector"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A08",
@@ -1737,7 +1881,8 @@
       "Twisted-pair cable",
       "Flat copper strap"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A09",
@@ -1749,7 +1894,8 @@
       "Multiply the watts per hour consumed by the equipment by the battery power rating",
       "Multiply the square of the current rating of the battery by the input resistance of the equipment"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A10",
@@ -1761,7 +1907,8 @@
       "RTTY encoding and decoding without a computer",
       "High-speed digital communications for meteor scatter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A11",
@@ -1773,7 +1920,8 @@
       "To any metal part of the vehicle",
       "Through the transceiver’s mounting bracket"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4A12",
@@ -1785,7 +1933,8 @@
       "A device that assists in manual sending of Morse code",
       "An interlock to prevent unauthorized use of a radio"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B01",
@@ -1797,7 +1946,8 @@
       "Increased SWR",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B02",
@@ -1809,7 +1959,8 @@
       "The Automatic Frequency Control",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B03",
@@ -1821,7 +1972,8 @@
       "Turn on the anti-squelch function",
       "Enable squelch enhancement"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B04",
@@ -1833,7 +1985,8 @@
       "Enable the VOX",
       "Use the scan mode to select the desired frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B05",
@@ -1845,7 +1998,8 @@
       "Tunes through a range of frequencies to check for activity",
       "Checks for messages left on a digital bulletin board"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B06",
@@ -1857,7 +2011,8 @@
       "The tone squelch",
       "The RIT or Clarifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B07",
@@ -1869,7 +2024,8 @@
       "The codec for digitizing audio",
       "The DMR software version"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B08",
@@ -1881,7 +2037,8 @@
       "Increases the number of frequencies that can be stored in memory",
       "Increases the amount of offset between receive and transmit frequencies"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B09",
@@ -1893,7 +2050,8 @@
       "By entering the group’s identification code",
       "By activating automatic identification"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B10",
@@ -1905,7 +2063,8 @@
       "2400 Hz",
       "5000 Hz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B11",
@@ -1917,7 +2076,8 @@
       "The codec type being used",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T4B12",
@@ -1929,7 +2089,8 @@
       "Generation of a heterodyne tone",
       "Distortion of the signal’s audio"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A01",
@@ -1941,7 +2102,8 @@
       "Ohms",
       "Amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A02",
@@ -1953,7 +2115,8 @@
       "Watt-hours",
       "Amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A03",
@@ -1965,7 +2128,8 @@
       "Capacitance",
       "Current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A04",
@@ -1977,7 +2141,8 @@
       "Ohms",
       "Coulombs"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A05",
@@ -1989,7 +2154,8 @@
       "Capacitance",
       "Inductance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A06",
@@ -2001,7 +2167,8 @@
       "Farad",
       "Tesla"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A07",
@@ -2013,7 +2180,8 @@
       "They have many free protons",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A08",
@@ -2025,7 +2193,8 @@
       "Aluminum",
       "Mercury"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A09",
@@ -2037,7 +2206,8 @@
       "Current that alternates between positive and negative directions",
       "All these answers are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A10",
@@ -2049,7 +2219,8 @@
       "Power",
       "Voltage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A11",
@@ -2061,7 +2232,8 @@
       "RF current",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5A12",
@@ -2073,7 +2245,8 @@
       "Wavelength",
       "Frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B01",
@@ -2085,7 +2258,8 @@
       "1500 milliamperes",
       "15,000 milliamperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B02",
@@ -2097,7 +2271,8 @@
       "15 GHz",
       "150 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B03",
@@ -2109,7 +2284,8 @@
       "One thousand volts",
       "One million volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B04",
@@ -2121,7 +2297,8 @@
       "One thousand kilovolts",
       "One one-thousandth of a volt"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B05",
@@ -2133,7 +2310,8 @@
       "5 watts",
       "50 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B06",
@@ -2145,7 +2323,8 @@
       "3,000,000 amperes",
       "3 amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B07",
@@ -2157,7 +2336,8 @@
       "3525 kHz",
       "3,525,000 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B08",
@@ -2169,7 +2349,8 @@
       "1000 microfarads",
       "1,000,000,000 microfarads"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B09",
@@ -2181,7 +2362,8 @@
       "5 dB",
       "10 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B10",
@@ -2193,7 +2375,8 @@
       "-6 dB",
       "-9 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B11",
@@ -2205,7 +2388,8 @@
       "18 dB",
       "28 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B12",
@@ -2217,7 +2401,8 @@
       "284.00 MHz",
       "28.400 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5B13",
@@ -2229,7 +2414,8 @@
       "2.425 GHz",
       "2425 GHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C01",
@@ -2241,7 +2427,8 @@
       "Tolerance ",
       "Capacitance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C02",
@@ -2253,7 +2440,8 @@
       "The volt",
       "The henry"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C03",
@@ -2265,7 +2453,8 @@
       "Resistance",
       "Inductance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C04",
@@ -2277,7 +2466,8 @@
       "The henry",
       "The ohm"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C05",
@@ -2289,7 +2479,8 @@
       "The coulomb",
       "The ohm"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C06",
@@ -2301,7 +2492,8 @@
       "The real frequency transmitted as opposed to the apparent frequency",
       "Reflective force in antenna transmission lines"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C07",
@@ -2313,7 +2505,8 @@
       "Mhz",
       "MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C08",
@@ -2325,7 +2518,8 @@
       "P = E – I",
       "P = I + E"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C09",
@@ -2337,7 +2531,8 @@
       "23.8 watts",
       "3.8 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C10",
@@ -2349,7 +2544,8 @@
       "14.5 watts",
       "0.208 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C11",
@@ -2361,7 +2557,8 @@
       "12 amperes",
       "132 amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C12",
@@ -2373,7 +2570,8 @@
       "The Q or Quality Factor of a component",
       "The power handling capability of a component"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5C13",
@@ -2385,7 +2583,8 @@
       "khZ",
       "kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D01",
@@ -2397,7 +2596,8 @@
       "I = E + R",
       "I = E - R"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D02",
@@ -2409,7 +2609,8 @@
       "E = I + R",
       "E = I - R"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D03",
@@ -2421,7 +2622,8 @@
       "R = E + I",
       "R = E - I"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D04",
@@ -2433,7 +2635,8 @@
       "93 ohms",
       "270 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D05",
@@ -2445,7 +2648,8 @@
       "8 ohms",
       "13.5 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D06",
@@ -2457,7 +2661,8 @@
       "48 ohms",
       "8 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D07",
@@ -2469,7 +2674,8 @@
       "0.667 amperes",
       "1.5 amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D08",
@@ -2481,7 +2687,8 @@
       "2 amperes",
       "100 amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D09",
@@ -2493,7 +2700,8 @@
       "10 amperes",
       "216 amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D10",
@@ -2505,7 +2713,8 @@
       "2.5 volts",
       "1.5 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D11",
@@ -2517,7 +2726,8 @@
       "11 volts",
       "9 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D12",
@@ -2529,7 +2739,8 @@
       "12 volts",
       "20 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D13",
@@ -2541,7 +2752,8 @@
       "Resonant",
       "Branch"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T5D14",
@@ -2553,7 +2765,8 @@
       "Resonant",
       "Branch"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A01",
@@ -2565,7 +2778,8 @@
       "Inverter",
       "Transformer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A02",
@@ -2577,7 +2791,8 @@
       "Potentiometer",
       "Transformer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A03",
@@ -2589,7 +2804,8 @@
       "Capacitance",
       "Field strength"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A04",
@@ -2601,7 +2817,8 @@
       "Inductor",
       "Diode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A05",
@@ -2613,7 +2830,8 @@
       "Oscillator",
       "Capacitor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A06",
@@ -2625,7 +2843,8 @@
       "Inductor",
       "Diode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A07",
@@ -2637,7 +2856,8 @@
       "Diode",
       "Inductor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A08",
@@ -2649,7 +2869,8 @@
       "A single circuit is switched between one of two other circuits",
       "Two circuits are each switched between one of two other circuits"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A09",
@@ -2661,7 +2882,8 @@
       "Varactor",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A10",
@@ -2673,7 +2895,8 @@
       "Lead-acid ",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A11",
@@ -2685,7 +2908,8 @@
       "Lead-acid ",
       "Lithium-ion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6A12",
@@ -2697,7 +2921,8 @@
       "Double-pole single-throw",
       "Double-pole double-throw"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-2"
   },
   {
     "id": "T6B01",
@@ -2709,7 +2934,8 @@
       "It indicates that the diode is defective",
       "It has no impact on the voltage delivered to the load"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B02",
@@ -2721,7 +2947,8 @@
       "Diode",
       "Driven element"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B03",
@@ -2733,7 +2960,8 @@
       "Transistor",
       "Thermistor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B04",
@@ -2745,7 +2973,8 @@
       "Triode",
       "Pentagrid converter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B05",
@@ -2757,7 +2986,8 @@
       "Tesla-effect",
       "Bipolar junction"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B06",
@@ -2769,7 +2999,8 @@
       "With the letter C",
       "With the letter K"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B07",
@@ -2781,7 +3012,8 @@
       "Capacitively-coupled RF signal",
       "Inductively-coupled RF signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B08",
@@ -2793,7 +3025,8 @@
       "Free Electron Transmitter",
       "Field Effect Transistor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B09",
@@ -2805,7 +3038,8 @@
       "Anode and cathode",
       "Gate and base"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B10",
@@ -2817,7 +3051,8 @@
       "Reactor",
       "Resistor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B11",
@@ -2829,7 +3064,8 @@
       "Forward voltage drop",
       "On resistance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6B12",
@@ -2841,7 +3077,8 @@
       "Input, output, supply",
       "Pole one, pole two, output"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6C01",
@@ -2853,7 +3090,8 @@
       "Schematic",
       "Flow chart"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6C02",
@@ -2865,7 +3103,8 @@
       "Battery",
       "Connector"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-1"
   },
   {
     "id": "T6C03",
@@ -2877,7 +3116,8 @@
       "Indicator lamp",
       "Connector"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-1"
   },
   {
     "id": "T6C04",
@@ -2889,7 +3129,8 @@
       "Lamp",
       "Ground symbol"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-1"
   },
   {
     "id": "T6C05",
@@ -2901,7 +3142,8 @@
       "Ground symbol",
       "Battery"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-1"
   },
   {
     "id": "T6C06",
@@ -2913,7 +3155,8 @@
       "Regulator IC",
       "Transistor"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-2"
   },
   {
     "id": "T6C07",
@@ -2925,7 +3168,8 @@
       "Regulator IC",
       "Light emitting diode"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-2"
   },
   {
     "id": "T6C08",
@@ -2937,7 +3181,8 @@
       "Variable resistor",
       "Variable transformer"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-2"
   },
   {
     "id": "T6C09",
@@ -2949,7 +3194,8 @@
       "Potentiometer",
       "Transformer"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-2"
   },
   {
     "id": "T6C10",
@@ -2961,7 +3207,8 @@
       "Variable capacitor",
       "Variable inductor"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-3"
   },
   {
     "id": "T6C11",
@@ -2973,7 +3220,8 @@
       "Dummy load",
       "Ground"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-3"
   },
   {
     "id": "T6C12",
@@ -2985,7 +3233,8 @@
       "Component connections",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D01",
@@ -2997,7 +3246,8 @@
       "Amplifier",
       "Reflector"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D02",
@@ -3009,7 +3259,8 @@
       "An inverting amplifier",
       "A pass transistor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D03",
@@ -3021,7 +3272,8 @@
       "To prevent coupling of unwanted signals to or from the wire",
       "To couple the wire to other signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D04",
@@ -3033,7 +3285,8 @@
       "Meter",
       "Relay"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D05",
@@ -3045,7 +3298,8 @@
       "Filter",
       "Phase inverter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D06",
@@ -3057,7 +3311,8 @@
       "Transistor",
       "Diode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D07",
@@ -3069,7 +3324,8 @@
       "Zener diode",
       "Bipolar transistor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D08",
@@ -3081,7 +3337,8 @@
       "Potentiometer",
       "Capacitor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D09",
@@ -3093,7 +3350,8 @@
       "Integrated circuit",
       "Transformer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T6D10",
@@ -3105,7 +3363,8 @@
       "Control the flow of current",
       "Convert electrical energy into radio waves"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure t-1"
   },
   {
     "id": "T6D11",
@@ -3117,7 +3376,8 @@
       "A resistor circuit used for reducing standing wave ratio",
       "A circuit designed to provide high-fidelity audio"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A01",
@@ -3129,7 +3389,8 @@
       "Selectivity",
       "Total Harmonic Distortion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A02",
@@ -3141,7 +3402,8 @@
       "A device for automatically sending and decoding Morse code",
       "A device for converting receiver and transmitter frequencies to another band"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A03",
@@ -3153,7 +3415,8 @@
       "Inverter",
       "Amplifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A04",
@@ -3165,7 +3428,8 @@
       "Selectivity",
       "Harmonic distortion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A05",
@@ -3177,7 +3441,8 @@
       "Low-pass filter",
       "Oscillator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A06",
@@ -3189,7 +3454,8 @@
       "Transverter",
       "Phase converter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A07",
@@ -3201,7 +3467,8 @@
       "Provides a transmit tuning tone when grounded",
       "Input for a preamplifier tuning tone"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A08",
@@ -3213,7 +3480,8 @@
       "Modulation",
       "Low-pass filtering"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A09",
@@ -3225,7 +3493,8 @@
       "Change the frequency range of the amplifier to operate in the proper segment of the band",
       "Reduce the received signal noise"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A10",
@@ -3237,7 +3506,8 @@
       "An impedance network",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7A11",
@@ -3249,7 +3519,8 @@
       "Between the transmitter and the antenna tuner",
       "At the output of the receiver audio amplifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B01",
@@ -3261,7 +3532,8 @@
       "Change to a higher power level",
       "Talk farther away from the microphone"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B02",
@@ -3273,7 +3545,8 @@
       "The audio amplifier of the transmitter is overloaded",
       "The deviation of an FM transmitter is set too low"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B03",
@@ -3285,7 +3558,8 @@
       "Spurious emissions",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B04",
@@ -3297,7 +3571,8 @@
       "Preamplifier",
       "Ferrite choke"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B05",
@@ -3309,7 +3584,8 @@
       "Switch the transmitter from FM to SSB",
       "Switch the transmitter to a narrow-band mode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B06",
@@ -3321,7 +3597,8 @@
       "Install a harmonic doubler on the output of your transmitter and tune it until the interference is eliminated",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B07",
@@ -3333,7 +3610,8 @@
       "Installing bypass capacitors on the microphone cable",
       "Installing a band-reject filter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B08",
@@ -3345,7 +3623,8 @@
       "Make sure your station meets the standards of good amateur practice",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B09",
@@ -3357,7 +3636,8 @@
       "Add a preamplifier to the TV antenna input",
       "Be sure all TV feed line coaxial connectors are installed properly"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B10",
@@ -3369,7 +3649,8 @@
       "You are in a bad location",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7B11",
@@ -3381,7 +3662,8 @@
       "Reports of garbled, distorted, or unintelligible voice transmissions",
       "Frequent blowing of power supply fuses"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C01",
@@ -3393,7 +3675,8 @@
       "To improve the efficiency of an antenna",
       "To improve the signal-to-noise ratio of a receiver"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C02",
@@ -3405,7 +3688,8 @@
       "A Q meter",
       "A frequency counter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C03",
@@ -3417,7 +3701,8 @@
       "A low-voltage power supply and a DC relay",
       "A 50-ohm reactance used to terminate a transmission line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C04",
@@ -3429,7 +3714,8 @@
       "1:1",
       "Full Scale"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C05",
@@ -3441,7 +3727,8 @@
       "Because power supplies cannot supply enough current at high SWR",
       "To lower the SWR on the transmission line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C06",
@@ -3453,7 +3740,8 @@
       "Gain of +4 dB",
       "Impedance mismatch"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C07",
@@ -3465,7 +3753,8 @@
       "It is converted into heat",
       "It distorts the signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C08",
@@ -3477,7 +3766,8 @@
       "Iambic pentameter",
       "Directional wattmeter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C09",
@@ -3489,7 +3779,8 @@
       "Rapid fluctuation in transmitter output power",
       "Operation at 100% duty cycle for an extended period"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C10",
@@ -3501,7 +3792,8 @@
       "Ultraviolet and RF signals can mix, causing interference",
       "Ultraviolet light can damage the jacket and allow water to enter the cable"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7C11",
@@ -3513,7 +3805,8 @@
       "It requires special techniques to prevent moisture in the cable",
       "It cannot be used at below freezing temperatures"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D01",
@@ -3525,7 +3818,8 @@
       "A wavemeter",
       "An ohmmeter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D02",
@@ -3537,7 +3831,8 @@
       "In quadrature",
       "In phase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D03",
@@ -3549,7 +3844,8 @@
       "In quadrature",
       "In phase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D04",
@@ -3561,7 +3857,8 @@
       "A voltmeter",
       "An ammeter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D06",
@@ -3573,7 +3870,8 @@
       "Attempting to measure voltage when using the resistance setting",
       "Not allowing it to warm up properly"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D07",
@@ -3585,7 +3883,8 @@
       "Voltage and resistance",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D08",
@@ -3597,7 +3896,8 @@
       "Rosin-core solder",
       "Tin-copper solder"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D09",
@@ -3609,7 +3909,8 @@
       "A rough or lumpy surface",
       "Excessive solder"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D10",
@@ -3621,7 +3922,8 @@
       "Steady full-scale reading",
       "Alternating between open and short circuit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T7D11",
@@ -3633,7 +3935,8 @@
       "Ensure that the circuit is grounded",
       "Ensure that the circuit is operating at the correct frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A01",
@@ -3645,7 +3948,8 @@
       "Single sideband",
       "Phase shift keying (PSK)"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A02",
@@ -3657,7 +3961,8 @@
       "AM",
       "PSK"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A03",
@@ -3669,7 +3974,8 @@
       "SSB",
       "PM"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A04",
@@ -3681,7 +3987,8 @@
       "PSK",
       "FM or PM"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A05",
@@ -3693,7 +4000,8 @@
       "CW",
       "Slow-scan TV"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A06",
@@ -3705,7 +4013,8 @@
       "Suppressed sideband",
       "Inverted sideband"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A07",
@@ -3717,7 +4026,8 @@
       "SSB signals have narrower bandwidth",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A08",
@@ -3729,7 +4039,8 @@
       "6 kHz",
       "15 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A09",
@@ -3741,7 +4052,8 @@
       "Between 10 and 15 kHz",
       "Between 50 and 125 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A10",
@@ -3753,7 +4065,8 @@
       "About 3 MHz",
       "About 1 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A11",
@@ -3765,7 +4078,8 @@
       "1000 Hz",
       "15 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8A12",
@@ -3777,7 +4091,8 @@
       "FM signals are harder to tune",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B01",
@@ -3789,7 +4104,8 @@
       "Health and status of the satellite",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B02",
@@ -3801,7 +4117,8 @@
       "Overloading the satellite batteries",
       "Possibility of rebooting the satellite control computer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B03",
@@ -3813,7 +4130,8 @@
       "The apparent frequency of the satellite transmission, including effects of Doppler shift",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B04",
@@ -3825,7 +4143,8 @@
       "CW/data",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B05",
@@ -3837,7 +4156,8 @@
       "A reflective surface on the satellite",
       "A transmission from a satellite that contains status information"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B06",
@@ -3849,7 +4169,8 @@
       "The last observed time of zero Doppler shift",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B07",
@@ -3861,7 +4182,8 @@
       "An observed change in signal frequency caused by relative motion between the satellite and Earth station",
       "A special digital communications mode for some satellites"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B08",
@@ -3873,7 +4195,8 @@
       "The satellite operates using ultraviolet frequencies",
       "The satellite frequencies are usually variable"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B09",
@@ -3885,7 +4208,8 @@
       "Doppler shift of the received signal",
       "Interfering signals within the satellite uplink band"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B10",
@@ -3897,7 +4221,8 @@
       "A satellite in low energy operation mode",
       "A satellite in low earth orbit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B11",
@@ -3909,7 +4234,8 @@
       "A licensed radio amateur who has been certified by the protocol developer",
       "A licensed radio amateur who has registered for an access code from AMSAT"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8B12",
@@ -3921,7 +4247,8 @@
       "Your signal strength on the downlink should be about the same as the beacon",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C01",
@@ -3933,7 +4260,8 @@
       "Radio direction finding",
       "Phase locking"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C02",
@@ -3945,7 +4273,8 @@
       "A calibrated noise bridge",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C03",
@@ -3957,7 +4286,8 @@
       "Public service events",
       "Contesting"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C04",
@@ -3969,7 +4299,8 @@
       "Send only the minimum information needed for proper identification and the contest exchange",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C05",
@@ -3981,7 +4312,8 @@
       "An instrument for neutralizing a final amplifier",
       "An instrument for radio direction finding"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C06",
@@ -3993,7 +4325,8 @@
       "By entering the proper internet password",
       "By using CTCSS tone codes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C07",
@@ -4005,7 +4338,8 @@
       "A technique for measuring the modulation quality of a transmitter using remote sites monitored via the internet",
       "A method of delivering voice communications over the internet using digital techniques"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C08",
@@ -4017,7 +4351,8 @@
       "A system for informing amateurs in real time of the frequency of active DX stations",
       "A technique for measuring signal strength of an amateur transmitter via the internet"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C09",
@@ -4029,7 +4364,8 @@
       "DMR",
       "EchoLink"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C10",
@@ -4041,7 +4377,8 @@
       "Register your call sign and provide proof of license ",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8C11",
@@ -4053,7 +4390,8 @@
       "A digipeater",
       "A beacon"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D01",
@@ -4065,7 +4403,8 @@
       "FT8",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D02",
@@ -4077,7 +4416,8 @@
       "A protocol that increases the signal-to-noise ratio when multiple repeaters are linked together",
       "A net that meets at a specified time"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D03",
@@ -4089,7 +4429,8 @@
       "Weather data ",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D04",
@@ -4101,7 +4442,8 @@
       "An analog fast-scan color TV signal",
       "A frame compression scheme for TV signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D05",
@@ -4113,7 +4455,8 @@
       "Providing voice over internet connection between repeaters",
       "Providing information on the number of stations signed into a repeater"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D06",
@@ -4125,7 +4468,8 @@
       "Packet Short Keying",
       "Phased Slide Keying"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D07",
@@ -4137,7 +4481,8 @@
       "An automatic computer logging technique for hands-off logging when communicating while operating a vehicle",
       "A digital technique for transmitting on two repeater inputs simultaneously for automatic error correction"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D08",
@@ -4149,7 +4494,8 @@
       "Automatic repeat request in case of error",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D09",
@@ -4161,7 +4507,8 @@
       "A technique for coil winding",
       "Another name for a Morse code transmission"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D10",
@@ -4173,7 +4520,8 @@
       "Meteor scatter",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D11",
@@ -4185,7 +4533,8 @@
       "An error correction method in which the receiving station detects errors and sends a request for retransmission",
       "A method of compressing data using autonomous reiterative Q codes prior to final encoding"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D12",
@@ -4197,7 +4546,8 @@
       "A satellite communications network using modified commercial satellite TV hardware",
       "An internet linking protocol used to network repeaters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T8D13",
@@ -4209,7 +4559,8 @@
       "An eight channel multiplex mode for FM repeaters",
       "A digital slow-scan TV mode with forward error correction and automatic color compensation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A01",
@@ -4221,7 +4572,8 @@
       "An antenna that concentrates signals in one direction",
       "An antenna that reverses the phase of received signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A02",
@@ -4233,7 +4585,8 @@
       "Installing a spring in the base of a mobile vertical antenna to make it more flexible",
       "Strengthening the radiating elements of a beam antenna to better resist wind damage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A03",
@@ -4245,7 +4598,8 @@
       "A travelling-wave antenna",
       "A vertically polarized antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A04",
@@ -4257,7 +4611,8 @@
       "It is mechanically fragile",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A05",
@@ -4269,7 +4624,8 @@
       "Shortening it",
       "Adding capacitive loading to the ends of the radiating wires"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A06",
@@ -4281,7 +4637,8 @@
       "J pole",
       "Yagi"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A07",
@@ -4293,7 +4650,8 @@
       "The SWR might decrease, decreasing the signal strength",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A08",
@@ -4305,7 +4663,8 @@
       "19",
       "12"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A09",
@@ -4317,7 +4676,8 @@
       "112",
       "236"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A10",
@@ -4329,7 +4689,8 @@
       "In the direction of the feed line",
       "Broadside to the antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A11",
@@ -4341,7 +4702,8 @@
       "The increase in signal strength in a specified direction compared to a reference antenna",
       "The increase in impedance on receive or transmit compared to a reference antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9A12",
@@ -4353,7 +4715,8 @@
       "It eliminates distortion caused by reflected signals",
       "It has 10 times the power gain of a 1/4 wavelength whip"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B01",
@@ -4365,7 +4728,8 @@
       "Less antenna wear",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B02",
@@ -4377,7 +4741,8 @@
       "600 ohms",
       "12 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B03",
@@ -4389,7 +4754,8 @@
       "It can handle more power than any other type of feed line",
       "It is less expensive than any other type of feed line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B04",
@@ -4401,7 +4767,8 @@
       "It allows an antenna to be used on both transmit and receive",
       "It automatically selects the proper antenna for the frequency band being used"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B05",
@@ -4413,7 +4780,8 @@
       "The characteristic impedance increases",
       "The loss increases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B06",
@@ -4425,7 +4793,8 @@
       "RS-213",
       "DB-25"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B07",
@@ -4437,7 +4806,8 @@
       "They are commonly used at HF and VHF frequencies",
       "They are a bayonet-type connector"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B08",
@@ -4449,7 +4819,8 @@
       "Multiple connectors in the line",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B09",
@@ -4461,7 +4832,8 @@
       "Over-modulation",
       "Overload from a strong local station"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B10",
@@ -4473,7 +4845,8 @@
       "RG-213 cable has less loss at a given frequency",
       "RG-58 cable can handle higher power levels"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B11",
@@ -4485,7 +4858,8 @@
       "Air-insulated hardline",
       "75-ohm flexible coax"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T9B12",
@@ -4497,7 +4871,8 @@
       "The transmitter efficiency ratio",
       "An indication of the quality of your station’s ground connection"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A01",
@@ -4509,7 +4884,8 @@
       "RF emissions from a nearby transmitter can cause the electrolyte to emit poison gas",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A02",
@@ -4521,7 +4897,8 @@
       "It may cause involuntary muscle contractions",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A03",
@@ -4533,7 +4910,8 @@
       "Equipment ground",
       "Black insulation is never used"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A04",
@@ -4545,7 +4923,8 @@
       "To limit current to prevent shocks",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A05",
@@ -4557,7 +4936,8 @@
       "Excessive current could cause a fire",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A06",
@@ -4569,7 +4949,8 @@
       "Install mechanical interlocks in high-voltage circuits",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A07",
@@ -4581,7 +4962,8 @@
       "At the ac power service panel",
       "On a grounded panel near where feed lines enter the building"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A08",
@@ -4593,7 +4975,8 @@
       "In parallel with the hot conductor only",
       "In parallel with the hot and neutral conductors"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A09",
@@ -4605,7 +4988,8 @@
       "Bond them together with heavy wire or conductive strap",
       "Tune them for resonance on the lowest frequency of operation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A10",
@@ -4617,7 +5001,8 @@
       "Half-wave rectification",
       "Inverse memory effect"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A11",
@@ -4629,7 +5014,8 @@
       "Voltage transients from kickback diodes",
       "Charge stored in filter capacitors"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0A12",
@@ -4641,7 +5027,8 @@
       "Ensure that the circuit is grounded through the voltmeter",
       "Ensure that the voltmeter is set to the correct frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B01",
@@ -4653,7 +5040,8 @@
       "Ensure that connections are short and direct",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B02",
@@ -4665,7 +5053,8 @@
       "Always wear an approved climbing harness",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B03",
@@ -4677,7 +5066,8 @@
       "When the work being done is not more than 20 feet above the ground",
       "Never"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B04",
@@ -4689,7 +5079,8 @@
       "Look for and stay clear of any overhead electrical wires",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B05",
@@ -4701,7 +5092,8 @@
       "Provide a ground path for lightning strikes",
       "Provide an ability to measure for proper tensioning"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B06",
@@ -4713,7 +5105,8 @@
       "1/2 wavelength at the operating frequency",
       "Enough so that if the antenna falls, no part of it can come closer than 10 feet to the power wires"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B07",
@@ -4725,7 +5118,8 @@
       "This type of tower must not be climbed unless it is retracted, or mechanical safety locking devices have been installed",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B08",
@@ -4737,7 +5131,8 @@
       "A connection between the tower base and a cold water pipe",
       "Separate eight-foot ground rods for each tower leg, bonded to the tower and each other"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B09",
@@ -4749,7 +5144,8 @@
       "The antenna could contact high-voltage power lines",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B10",
@@ -4761,7 +5157,8 @@
       "Sharp bends must be avoided",
       "Common grounds must be avoided"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0B11",
@@ -4773,7 +5170,8 @@
       "FAA tower lighting regulations",
       "UL recommended practices"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C01",
@@ -4785,7 +5183,8 @@
       "Alpha radiation",
       "Non-ionizing radiation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C02",
@@ -4797,7 +5196,8 @@
       "440 MHz",
       "1296 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C03",
@@ -4809,7 +5209,8 @@
       "It increases by a factor of 2",
       "There is no adjustment allowed for lower duty cycle"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C04",
@@ -4821,7 +5222,8 @@
       "Radiation pattern of the antenna",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C05",
@@ -4833,7 +5235,8 @@
       "Higher frequency RF fields are transient in nature",
       "The human body absorbs more RF energy at some frequencies than at others"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C06",
@@ -4845,7 +5248,8 @@
       "By measurement of field strength using calibrated equipment",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C07",
@@ -4857,7 +5261,8 @@
       "Radiation poisoning",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C08",
@@ -4869,7 +5274,8 @@
       "Increase the duty cycle",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C09",
@@ -4881,7 +5287,8 @@
       "By making sure your antennas have low SWR",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C10",
@@ -4893,7 +5300,8 @@
       "It takes into account the antenna feed line loss",
       "It takes into account the thermal effects of the final amplifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C11",
@@ -4905,7 +5313,8 @@
       "The percentage of time that a transmitter is transmitting",
       "The percentage of time that a transmitter is not transmitting"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C12",
@@ -4917,7 +5326,8 @@
       "RF radiation is limited in range to a few feet",
       "RF radiation is perfectly safe"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "T0C13",
@@ -4929,6 +5339,7 @@
       "Anyone who is near an antenna",
       "The local zoning board"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   }
 ]

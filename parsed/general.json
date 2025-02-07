@@ -9,7 +9,8 @@
       "80 meters, 40 meters, 20 meters, and 15 meters",
       "80 meters, 20 meters, 15 meters, and 10 meters"
     ],
-    "description": "[97.301(d)]"
+    "description": "[97.301(d)]",
+    "figure": ""
   },
   {
     "id": "G1A02",
@@ -21,7 +22,8 @@
       "17 meters",
       "12 meters"
     ],
-    "description": "[97.305]"
+    "description": "[97.305]",
+    "figure": ""
   },
   {
     "id": "G1A03",
@@ -33,7 +35,8 @@
       "20 meters",
       "12 meters"
     ],
-    "description": "[97.305]"
+    "description": "[97.305]",
+    "figure": ""
   },
   {
     "id": "G1A04",
@@ -45,7 +48,8 @@
       "30 meters",
       "60 meters"
     ],
-    "description": "[97.303(h)]"
+    "description": "[97.303(h)]",
+    "figure": ""
   },
   {
     "id": "G1A05",
@@ -57,7 +61,8 @@
       "21.275 MHz to 21.300 MHz",
       "All these choices are correct"
     ],
-    "description": "[97.301(d)]"
+    "description": "[97.301(d)]",
+    "figure": ""
   },
   {
     "id": "G1A06",
@@ -69,7 +74,8 @@
       "Amateur stations must not cause harmful interference to primary users and must accept interference from primary users",
       "Amateur stations may only operate during specific hours of the day, while primary users are permitted 24-hour use of the band"
     ],
-    "description": "[97.303]"
+    "description": "[97.303]",
+    "figure": ""
   },
   {
     "id": "G1A07",
@@ -81,7 +87,8 @@
       "28.025 MHz to 28.300 MHz only",
       "The entire band"
     ],
-    "description": "[97.305(a)]"
+    "description": "[97.305(a)]",
+    "figure": ""
   },
   {
     "id": "G1A08",
@@ -93,7 +100,8 @@
       "All HF bands except 160 meters and 10 meters",
       "60 meters, 30 meters, 17 meters, and 12 meters"
     ],
-    "description": "[97.301(b)]"
+    "description": "[97.301(b)]",
+    "figure": ""
   },
   {
     "id": "G1A09",
@@ -105,7 +113,8 @@
       "21300 kHz",
       "24900 kHz"
     ],
-    "description": "[97.301(d)]"
+    "description": "[97.301(d)]",
+    "figure": ""
   },
   {
     "id": "G1A10",
@@ -117,7 +126,8 @@
       "The portion between 28.3 MHz and 28.5 MHz",
       "The portion above 29.5 MHz"
     ],
-    "description": "[97.205(b)]"
+    "description": "[97.205(b)]",
+    "figure": ""
   },
   {
     "id": "G1A11",
@@ -129,7 +139,8 @@
       "The lower frequency portion on frequencies below 7.3 MHz, and the upper portion on frequencies above 14.150 MHz",
       "The upper frequency portion on frequencies below 7.3 MHz, and the lower portion on frequencies above 14.150 MHz"
     ],
-    "description": "[97.301]"
+    "description": "[97.301]",
+    "figure": ""
   },
   {
     "id": "G1B01",
@@ -141,7 +152,8 @@
       "200 feet",
       "250 feet"
     ],
-    "description": "[97.15(a)]"
+    "description": "[97.15(a)]",
+    "figure": ""
   },
   {
     "id": "G1B02",
@@ -153,7 +165,8 @@
       "The frequency must be posted on the internet or published in a national periodical",
       "All these choices are correct"
     ],
-    "description": "[97.203(b)]"
+    "description": "[97.203(b)]",
+    "figure": ""
   },
   {
     "id": "G1B03",
@@ -165,7 +178,8 @@
       "Transmission of bulletins of general interest to amateur radio licensees",
       "All these choices are correct"
     ],
-    "description": "[97.3(a)(9)]"
+    "description": "[97.3(a)(9)]",
+    "figure": ""
   },
   {
     "id": "G1B04",
@@ -177,7 +191,8 @@
       "Occasional retransmission of weather and propagation forecast information from US government stations",
       "Encrypted messages, if not intended to facilitate a criminal act"
     ],
-    "description": "[97.113(c)]"
+    "description": "[97.113(c)]",
+    "figure": ""
   },
   {
     "id": "G1B05",
@@ -189,7 +204,8 @@
       "Regular transmissions offering equipment for sale, if intended for amateur radio use",
       "All these choices are correct"
     ],
-    "description": "[97.111((5)(b)]"
+    "description": "[97.111((5)(b)]",
+    "figure": ""
   },
   {
     "id": "G1B06",
@@ -201,7 +217,8 @@
       "Only when such structures exceed 50 feet in height and are clearly visible 1,000 feet from the structure",
       "Amateur Service communications must be reasonably accommodated, and regulations must constitute the minimum practical to accommodate a legitimate purpose of the state or local entity"
     ],
-    "description": "[97.15(b),"
+    "description": "[97.15(b),",
+    "figure": ""
   },
   {
     "id": "G1B07",
@@ -213,7 +230,8 @@
       "They are not permitted",
       "They are limited to those expressly listed in Part 97 of the FCC rules"
     ],
-    "description": "[97.113(a)(4)]"
+    "description": "[97.113(a)(4)]",
+    "figure": ""
   },
   {
     "id": "G1B08",
@@ -225,7 +243,8 @@
       "Only when the contact is with amateurs licensed by a country which is a member of the United Nations, or by a territory possessed by such a country",
       "Only when the contact is with amateurs licensed by a country which is a member of the International Amateur Radio Union, or by a territory possessed by such a country"
     ],
-    "description": "[97.111(a)(1)]"
+    "description": "[97.111(a)(1)]",
+    "figure": ""
   },
   {
     "id": "G1B09",
@@ -237,7 +256,8 @@
       "21.08 MHz to 21.09 MHz",
       "28.20 MHz to 28.30 MHz"
     ],
-    "description": "[97.203(d)]"
+    "description": "[97.203(d)]",
+    "figure": ""
   },
   {
     "id": "G1B10",
@@ -249,7 +269,8 @@
       "100 watts PEP output",
       "200 watts PEP output"
     ],
-    "description": "[97.203(c)]"
+    "description": "[97.203(c)]",
+    "figure": ""
   },
   {
     "id": "G1B11",
@@ -261,7 +282,8 @@
       "The IEEE",
       "The ITU"
     ],
-    "description": "[97.101(a)]"
+    "description": "[97.101(a)]",
+    "figure": ""
   },
   {
     "id": "G1C01",
@@ -273,7 +295,8 @@
       "1500 watts PEP output",
       "2000 watts PEP output"
     ],
-    "description": "[97.313(c)(1)]"
+    "description": "[97.313(c)(1)]",
+    "figure": ""
   },
   {
     "id": "G1C02",
@@ -285,7 +308,8 @@
       "1500 watts PEP output",
       "An effective radiated power equivalent to 100 watts from a half-wave dipole"
     ],
-    "description": "[97.313]"
+    "description": "[97.313]",
+    "figure": ""
   },
   {
     "id": "G1C03",
@@ -297,7 +321,8 @@
       "1.8 kHz",
       "3 kHz"
     ],
-    "description": "[97.303(h)(1)]"
+    "description": "[97.303(h)(1)]",
+    "figure": ""
   },
   {
     "id": "G1C04",
@@ -309,7 +334,8 @@
       "You must keep a record of all third-party traffic",
       "You must keep a record of the manufacturer of your equipment and the antenna used"
     ],
-    "description": "[97.303(i)]"
+    "description": "[97.303(i)]",
+    "figure": ""
   },
   {
     "id": "G1C05",
@@ -321,7 +347,8 @@
       "1500 watts PEP output",
       "2000 watts PEP output"
     ],
-    "description": "[97.313]"
+    "description": "[97.313]",
+    "figure": ""
   },
   {
     "id": "G1C06",
@@ -333,7 +360,8 @@
       "1200 watts PEP output",
       "1500 watts PEP output"
     ],
-    "description": "[97.313]"
+    "description": "[97.313]",
+    "figure": ""
   },
   {
     "id": "G1C07",
@@ -345,7 +373,8 @@
       "Publicly document the technical characteristics of the protocol",
       "Submit a rule-making proposal to the FCC describing the codes and methods of the technique"
     ],
-    "description": "[97.309(a)(4)]"
+    "description": "[97.309(a)(4)]",
+    "figure": ""
   },
   {
     "id": "G1C09",
@@ -357,7 +386,8 @@
       "ERP of 100 watts PEP with respect to a dipole",
       "ERP of 100 watts PEP with respect to an isotropic antenna"
     ],
-    "description": "[97.313(i)]"
+    "description": "[97.313(i)]",
+    "figure": ""
   },
   {
     "id": "G1C11",
@@ -369,7 +399,8 @@
       "PEP input to the antenna",
       "PEP output from the transmitter"
     ],
-    "description": "[97.313]"
+    "description": "[97.313]",
+    "figure": ""
   },
   {
     "id": "G1D01",
@@ -381,7 +412,8 @@
       "Any person who previously held an amateur license issued by another country, but only if that country has a current reciprocal licensing agreement with the FCC",
       "Only persons who once held an FCC issued Novice, Technician, or Technician Plus license"
     ],
-    "description": "[97.501,"
+    "description": "[97.501,",
+    "figure": ""
   },
   {
     "id": "G1D02",
@@ -393,7 +425,8 @@
       "Technician only",
       "Amateur Extra, General, and Technician"
     ],
-    "description": "[97.509(b)(3)(i)]"
+    "description": "[97.509(b)(3)(i)]",
+    "figure": ""
   },
   {
     "id": "G1D03",
@@ -405,7 +438,8 @@
       "On any General or Technician class band segment",
       "On any General or Technician class band segment except 30 meters and 60 meters"
     ],
-    "description": "[97.9(b)]"
+    "description": "[97.9(b)]",
+    "figure": ""
   },
   {
     "id": "G1D04",
@@ -417,7 +451,8 @@
       "At least two Volunteer Examiners of Technician class or higher",
       "At least three Volunteer Examiners of Technician class"
     ],
-    "description": "[97.509(3)(i)(c)]"
+    "description": "[97.509(3)(i)(c)]",
+    "figure": ""
   },
   {
     "id": "G1D05",
@@ -429,7 +464,8 @@
       "Only a license from the foreign country, as long as the call sign includes identification of portable operation in the US",
       "A license from the foreign country and a special remote station permit from the FCC"
     ],
-    "description": "[97.7]"
+    "description": "[97.7]",
+    "figure": ""
   },
   {
     "id": "G1D06",
@@ -441,7 +477,8 @@
       "Whenever they operate using Technician frequency privileges",
       "A special identifier is not required if their General class license application has been filed with the FCC"
     ],
-    "description": "[97.119(f)(2)]"
+    "description": "[97.119(f)(2)]",
+    "figure": ""
   },
   {
     "id": "G1D07",
@@ -453,7 +490,8 @@
       "A Volunteer Examiner Coordinator",
       "The Wireless Telecommunications Bureau"
     ],
-    "description": "[97.509(b)(1)]"
+    "description": "[97.509(b)(1)]",
+    "figure": ""
   },
   {
     "id": "G1D08",
@@ -465,7 +503,8 @@
       "The person’s home citizenship must be in ITU region 2",
       "None of these choices is correct; a non-US citizen cannot be a Volunteer Examiner"
     ],
-    "description": "[97.509(b)(3)]"
+    "description": "[97.509(b)(3)]",
+    "figure": ""
   },
   {
     "id": "G1D09",
@@ -477,7 +516,8 @@
       "365 days",
       "For as long as your current license is valid"
     ],
-    "description": "[97.9(b)]"
+    "description": "[97.9(b)]",
+    "figure": ""
   },
   {
     "id": "G1D10",
@@ -489,7 +529,8 @@
       "21 years",
       "There is no age limit"
     ],
-    "description": "[97.509(b)(2)]"
+    "description": "[97.509(b)(2)]",
+    "figure": ""
   },
   {
     "id": "G1D11",
@@ -501,7 +542,8 @@
       "Contact the FCC to have the license reinstated",
       "The applicant must show proof of the appropriate expired license grant and pass the current Element 2 exam"
     ],
-    "description": "[97.505]"
+    "description": "[97.505]",
+    "figure": ""
   },
   {
     "id": "G1D12",
@@ -513,7 +555,8 @@
       "Only those of the remote station’s country",
       "Only those of the FCC"
     ],
-    "description": "[97.507]"
+    "description": "[97.507]",
+    "figure": ""
   },
   {
     "id": "G1E01",
@@ -525,7 +568,8 @@
       "The third party is speaking in a language other than English",
       "All these choices are correct"
     ],
-    "description": "[97.115(b)(2)]"
+    "description": "[97.115(b)(2)]",
+    "figure": ""
   },
   {
     "id": "G1E02",
@@ -537,7 +581,8 @@
       "Only during an FCC-declared general state of communications emergency",
       "Only if the 10-meter repeater control operator holds at least a General class license"
     ],
-    "description": "[97.205(b)]"
+    "description": "[97.205(b)]",
+    "figure": ""
   },
   {
     "id": "G1E03",
@@ -549,7 +594,8 @@
       "No third-party traffic may be transmitted",
       "The control operator of the interrogating station must hold an Amateur Extra class license"
     ],
-    "description": "[97.221]"
+    "description": "[97.221]",
+    "figure": ""
   },
   {
     "id": "G1E04",
@@ -561,7 +607,8 @@
       "When a station is transmitting spread spectrum emissions",
       "All these choices are correct"
     ],
-    "description": "[97.13(b),"
+    "description": "[97.13(b),",
+    "figure": ""
   },
   {
     "id": "G1E05",
@@ -573,7 +620,8 @@
       "They must relate to amateur radio, or remarks of a personal character, or messages relating to emergencies or disaster relief",
       "The message must be limited to no longer than 1 minute in duration and the name of the third party must be recorded in the station log"
     ],
-    "description": "[97.115(a)(2),"
+    "description": "[97.115(a)(2),",
+    "figure": ""
   },
   {
     "id": "G1E06",
@@ -585,7 +633,8 @@
       "Region 2",
       "Region 1"
     ],
-    "description": "[97.301,"
+    "description": "[97.301,",
+    "figure": ""
   },
   {
     "id": "G1E07",
@@ -597,7 +646,8 @@
       "Channels 42 through 45",
       "No part"
     ],
-    "description": "[97.111]"
+    "description": "[97.111]",
+    "figure": ""
   },
   {
     "id": "G1E08",
@@ -609,7 +659,8 @@
       "100 watts",
       "1500 watts"
     ],
-    "description": "[97.313(j)]"
+    "description": "[97.313(j)]",
+    "figure": ""
   },
   {
     "id": "G1E10",
@@ -621,7 +672,8 @@
       "These frequencies are set aside for emergency operations",
       "These frequencies are set aside for bulletins from the FCC"
     ],
-    "description": "[97.101]"
+    "description": "[97.101]",
+    "figure": ""
   },
   {
     "id": "G1E11",
@@ -633,7 +685,8 @@
       "Only in the non-phone Extra Class segments of the bands",
       "Anywhere in the 6-meter or shorter wavelength bands, and in limited segments of some of the HF bands"
     ],
-    "description": "[97.221,"
+    "description": "[97.221,",
+    "figure": ""
   },
   {
     "id": "G1E12",
@@ -645,7 +698,8 @@
       "Only when the message is intended for licensed radio amateurs",
       "Only when the message is intended for third parties in areas where licensing is controlled by the FCC"
     ],
-    "description": "[97.115]"
+    "description": "[97.115]",
+    "figure": ""
   },
   {
     "id": "G2A01",
@@ -657,7 +711,8 @@
       "Suppressed sideband",
       "Double sideband"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A02",
@@ -669,7 +724,8 @@
       "Suppressed sideband",
       "Double sideband"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A03",
@@ -681,7 +737,8 @@
       "Suppressed sideband",
       "Double sideband"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A04",
@@ -693,7 +750,8 @@
       "Suppressed sideband",
       "Double sideband"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A05",
@@ -705,7 +763,8 @@
       "Single sideband",
       "Single phase modulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A06",
@@ -717,7 +776,8 @@
       "Ease of tuning on receive and immunity to impulse noise",
       "Less bandwidth used and greater power efficiency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A07",
@@ -729,7 +789,8 @@
       "SSB is the only voice mode authorized on the 20-, 15-, and 10-meter amateur bands",
       "SSB is the only voice mode authorized on the 160-, 75-, and 40-meter amateur bands"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A08",
@@ -741,7 +802,8 @@
       "Say “Breaker Breaker”",
       "Say “CQ” followed by the call sign of either station"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A09",
@@ -753,7 +815,8 @@
       "Because it is fully compatible with an AM detector",
       "It is commonly accepted amateur practice"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A10",
@@ -765,7 +828,8 @@
       "It occupies less bandwidth",
       "It provides more power output"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A11",
@@ -777,7 +841,8 @@
       "Any stations outside the lower 48 states",
       "Only contest stations"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2A12",
@@ -789,7 +854,8 @@
       "Antenna inductance or capacitance",
       "Attenuator level"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B01",
@@ -801,7 +867,8 @@
       "Except during emergencies, no amateur station has priority access to any frequency",
       "Contest operations should yield to non-contest use of frequencies"
     ],
-    "description": "[97.101(b),"
+    "description": "[97.101(b),",
+    "figure": ""
   },
   {
     "id": "G2B02",
@@ -813,7 +880,8 @@
       "Immediately decrease power to avoid interfering with the station in distress",
       "Immediately cease all transmissions"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B03",
@@ -825,7 +893,8 @@
       "Attempt to resolve the interference problem with the other stations in a mutually acceptable manner",
       "Switch to the opposite sideband"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B04",
@@ -837,7 +906,8 @@
       "1 kHz to 3 kHz",
       "3 kHz to 6 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B05",
@@ -849,7 +919,8 @@
       "2 kHz to 3 kHz",
       "Approximately 6 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B06",
@@ -861,7 +932,8 @@
       "Send the letter “V” in Morse code several times and listen for a response, or say “test” several times and listen for a response",
       "Send “QSY” on CW or if using phone, announce “the frequency is in use,” then give your call sign and listen for a response"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B07",
@@ -873,7 +945,8 @@
       "Follow the voluntary band plan",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B08",
@@ -885,7 +958,8 @@
       "Only digital contacts",
       "Only SSTV contacts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B09",
@@ -897,7 +971,8 @@
       "A person holding an FCC-issued amateur operator license or an appropriate government official",
       "Any control operator when normal communication systems are operational"
     ],
-    "description": "[97.407(a)]"
+    "description": "[97.407(a)]",
+    "figure": ""
   },
   {
     "id": "G2B10",
@@ -909,7 +984,8 @@
       "Transmit the full net roster at the beginning of every session",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2B11",
@@ -921,7 +997,8 @@
       "No more than 1 hour per week",
       "No more than 2 hours per week"
     ],
-    "description": "[97.407(d)(4)]"
+    "description": "[97.407(d)(4)]",
+    "figure": ""
   },
   {
     "id": "G2C01",
@@ -933,7 +1010,8 @@
       "An operator must activate a manual send/receive switch before and after every transmission",
       "Transmitting stations can receive between code characters and elements"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C02",
@@ -945,7 +1023,8 @@
       "Increase your power",
       "Repeat everything twice"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C03",
@@ -957,7 +1036,8 @@
       "Listening only for a specific station or stations",
       "Closing station now"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C04",
@@ -969,7 +1049,8 @@
       "“Are you listening only for a specific station?”",
       "“Are you busy?” or “Is this frequency in use?”"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C05",
@@ -981,7 +1062,8 @@
       "At the standard calling speed of 10 wpm",
       "At the standard calling speed of 5 wpm"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C06",
@@ -993,7 +1075,8 @@
       "Sending without error",
       "Matching the transmit frequency to the frequency of a received signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C07",
@@ -1005,7 +1088,8 @@
       "100 percent copy",
       "Key clicks"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C08",
@@ -1017,7 +1101,8 @@
       "AR",
       "KN"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C09",
@@ -1029,7 +1114,8 @@
       "I have received and understood",
       "We have worked before"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C10",
@@ -1041,7 +1127,8 @@
       "Zero beat my signal",
       "I am troubled by static"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2C11",
@@ -1053,7 +1140,8 @@
       "I am quitting for the day",
       "I am ready to receive"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D01",
@@ -1065,7 +1153,8 @@
       "Amateur volunteers who conduct frequency coordination for amateur VHF repeaters",
       "Amateur volunteers who use their station equipment to help civil defense organizations in times of emergency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D02",
@@ -1077,7 +1166,8 @@
       "To coordinate repeaters for efficient and orderly spectrum usage",
       "To encourage amateur radio operators to self-regulate and comply with the rules"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D03",
@@ -1089,7 +1179,8 @@
       "Compare signal strengths between the input and output of the repeater",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D04",
@@ -1101,7 +1192,8 @@
       "A map that shows the angle at which an amateur satellite crosses the equator",
       "A map that shows the number of degrees longitude that an amateur satellite appears to move westward at the equator with each orbit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D05",
@@ -1113,7 +1205,8 @@
       "Repeat “CQ” a few times, followed by “this is,” then your call sign a few times, then pause to listen, repeat as necessary",
       "Transmit an unmodulated carried for approximately 10 seconds, followed by “this is” and your call sign, and pause to listen -- repeat as necessary"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D06",
@@ -1125,7 +1218,8 @@
       "180 degrees from the station’s short-path heading",
       "Toward the north"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D07",
@@ -1137,7 +1231,8 @@
       "America, Boston, Canada, Denmark",
       "Alpha, Bravo, Charlie, Delta"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D08",
@@ -1149,7 +1244,8 @@
       "The log provides evidence of operation needed to renew a license without retest",
       "To help with a reply if the FCC requests information about your station"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D09",
@@ -1161,7 +1257,8 @@
       "Identify your station according to normal FCC regulations",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D10",
@@ -1173,7 +1270,8 @@
       "Transmission using Quick Response Protocol",
       "Traffic relay procedure net operation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2D11",
@@ -1185,7 +1283,8 @@
       "To follow standard radiogram structure",
       "To allow each station to calibrate their frequency display"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E01",
@@ -1197,7 +1296,8 @@
       "CW",
       "LSB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E02",
@@ -1209,7 +1309,8 @@
       "A radio direction finding system used on VHF and UHF",
       "D.A DX spotting system using a network of software defined radios"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E03",
@@ -1221,7 +1322,8 @@
       "Failure to establish a connection between stations",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E04",
@@ -1233,7 +1335,8 @@
       "Find a clear frequency during the same time slot as the calling station",
       "Find a clear frequency during the alternate time slot to the calling station"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E05",
@@ -1245,7 +1348,8 @@
       "DSB",
       "SSB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E06",
@@ -1257,7 +1361,8 @@
       "425 Hz",
       "850 Hz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E07",
@@ -1269,7 +1374,8 @@
       "Receiver attenuator set to -12 dB",
       "A vertically polarized antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E08",
@@ -1281,7 +1387,8 @@
       "In the middle of the CW segment, near 14.100 MHz",
       "Between 14.070 MHz and 14.100 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E09",
@@ -1293,7 +1400,8 @@
       "Joining an existing contact is not possible, PACTOR connections are limited to two stations",
       "Send a NAK code"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E10",
@@ -1305,7 +1413,8 @@
       "Respond when the station broadcasts its SSID",
       "Transmit a connect message on the station’s published frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E11",
@@ -1317,7 +1426,8 @@
       "To provide high-speed data services during an emergency or community event",
       "To provide DX spotting reports to aid contesters and DXers"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E12",
@@ -1329,7 +1439,8 @@
       "A wireless network capable of both VHF and HF band operation",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E13",
@@ -1341,7 +1452,8 @@
       "RJ-45",
       "Printer/Server"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E14",
@@ -1353,7 +1465,8 @@
       "You may be listening on the wrong sideband",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G2E15",
@@ -1365,7 +1478,8 @@
       "Approximately 14.074 MHz to 14.077 MHz",
       "Approximately 14.110 MHz to 14.113 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A01",
@@ -1377,7 +1491,8 @@
       "A zero sunspot number indicates that radio propagation is not possible on any band",
       "A zero sunspot number indicates undisturbed conditions"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A02",
@@ -1389,7 +1504,8 @@
       "It disrupts communications via satellite more than direct communications",
       "None, because only areas on the night side of the Earth are affected"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A03",
@@ -1401,7 +1517,8 @@
       "8 minutes",
       "20 to 40 hours"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A04",
@@ -1413,7 +1530,8 @@
       "30 meters and 20 meters",
       "15 meters, 12 meters, and 10 meters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A05",
@@ -1425,7 +1543,8 @@
       "Another name for the American sunspot number",
       "A measure of solar radiation with a wavelength of 10.7 centimeters"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A06",
@@ -1437,7 +1556,8 @@
       "Ripples in the geomagnetic force",
       "A temporary disturbance in Earth’s geomagnetic field"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A07",
@@ -1449,7 +1569,8 @@
       "Only at the minimum point",
       "At any point"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A08",
@@ -1461,7 +1582,8 @@
       "Improve ground wave propagation",
       "Degrade high-latitude HF propagation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A09",
@@ -1473,7 +1595,8 @@
       "Improve HF long path propagation",
       "Reduce long delayed echoes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A10",
@@ -1485,7 +1608,8 @@
       "Rotation of the Sun’s surface layers around its axis",
       "The position of the Moon in its orbit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A11",
@@ -1497,7 +1621,8 @@
       "4 to 8 minutes",
       "15 hours to several days"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A12",
@@ -1509,7 +1634,8 @@
       "The short-term stability of the Sun’s magnetic field",
       "The solar radio flux at Boulder, Colorado"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A13",
@@ -1521,7 +1647,8 @@
       "The long-term stability of Earth’s geomagnetic field",
       "The solar radio flux at Boulder, Colorado"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3A14",
@@ -1533,7 +1660,8 @@
       "VHF/UHF ducting is improved",
       "VHF/UHF ducting is disturbed"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B01",
@@ -1545,7 +1673,8 @@
       "The signal might be cancelled causing severe attenuation",
       "A slightly delayed echo might be heard"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B02",
@@ -1557,7 +1686,8 @@
       "Solar radiation and ionospheric disturbances",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B03",
@@ -1569,7 +1699,8 @@
       "Just below the critical frequency",
       "Just above the critical frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B04",
@@ -1581,7 +1712,8 @@
       "Send a series of dots and listen for echoes",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B05",
@@ -1593,7 +1725,8 @@
       "They are amplified by interaction with the ionosphere",
       "They are refracted and trapped in the ionosphere to circle Earth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B06",
@@ -1605,7 +1738,8 @@
       "They are attenuated before reaching the destination",
       "They are refracted and trapped in the ionosphere to circle Earth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B07",
@@ -1617,7 +1751,8 @@
       "The Lowest Usable Frequency during a 24-hour period",
       "The Lowest Usable Frequency during the past 60 minutes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B08",
@@ -1629,7 +1764,8 @@
       "The Minimum Usable Frequency during a 24-hour period",
       "The Maximum Usable Frequency during a 24-hour period"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B09",
@@ -1641,7 +1777,8 @@
       "2,500 miles",
       "12,000 miles"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B10",
@@ -1653,7 +1790,8 @@
       "2,500 miles",
       "12,000 miles"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B11",
@@ -1665,7 +1803,8 @@
       "Double-hop propagation along the path is more common",
       "Propagation over the path on all HF frequencies is enhanced"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3B12",
@@ -1677,7 +1816,8 @@
       "Heavy distortion on signals due to photon absorption",
       "High levels of atmospheric noise or static"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C01",
@@ -1689,7 +1829,8 @@
       "The F1 region",
       "The F2 region"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C02",
@@ -1701,7 +1842,8 @@
       "The frequency at which the signal-to-noise ratio approaches unity",
       "The frequency at which the signal-to-noise ratio is 6 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C03",
@@ -1713,7 +1855,8 @@
       "Because it is the highest",
       "Because of temperature inversions"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C04",
@@ -1725,7 +1868,8 @@
       "The lowest takeoff angle that will return a radio wave to Earth under specific ionospheric conditions",
       "The highest takeoff angle that will return a radio wave to Earth under specific ionospheric conditions"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C05",
@@ -1737,7 +1881,8 @@
       "The D region absorbs signals at these frequencies during daylight hours",
       "The E region is unstable during daylight hours"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C06",
@@ -1749,7 +1894,8 @@
       "There are very large, sudden swings in signal strength",
       "Scatter propagation occurs only at night"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C07",
@@ -1761,7 +1907,8 @@
       "The E region is not present",
       "Energy is scattered into the skip zone through several different paths"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C08",
@@ -1773,7 +1920,8 @@
       "Propagation is via ground waves, which absorb most of the signal energy",
       "Propagation is via ducts in the F region, which absorb most of the energy"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C09",
@@ -1785,7 +1933,8 @@
       "Chordal hop",
       "Short-path"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C10",
@@ -1797,7 +1946,8 @@
       "Long path HF propagation at sunrise and sunset",
       "Double hop propagation near the LUF"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G3C11",
@@ -1809,7 +1959,8 @@
       "The E region",
       "The D region"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A01",
@@ -1821,7 +1972,8 @@
       "To eliminate receiver interference from impulse noise sources",
       "To remove interfering splatter generated by signals on adjacent frequencies"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A02",
@@ -1833,7 +1985,8 @@
       "It may be possible to reduce or eliminate interference from other signals",
       "Accidental out-of-band operation can be prevented"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A03",
@@ -1845,7 +1998,8 @@
       "By reducing receiver gain during a noise pulse",
       "By clipping noise peaks"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A04",
@@ -1857,7 +2011,8 @@
       "No change will be observed",
       "A slow, rhythmic oscillation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A05",
@@ -1869,7 +2024,8 @@
       "To prevent excessive drive",
       "To increase overall efficiency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A06",
@@ -1881,7 +2037,8 @@
       "Increase power transfer from the transmitter to the feed line",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A07",
@@ -1893,7 +2050,8 @@
       "CW signals may become severely attenuated",
       "Received frequency may shift several kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A08",
@@ -1905,7 +2063,8 @@
       "Highest plate voltage while minimizing grid current",
       "Desired power output without exceeding maximum allowable plate current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A09",
@@ -1917,7 +2076,8 @@
       "To allow time for the amplifier to switch the antenna between the transceiver and the amplifier output",
       "To allow time for the amplifier power supply to reach operating level"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A10",
@@ -1929,7 +2089,8 @@
       "To allow time for switching the antenna from the receiver to the transmitter",
       "Computer interface for PSK and RTTY operation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A11",
@@ -1941,7 +2102,8 @@
       "When using digital modes, too much ALC activity can cause the transmitter to overheat",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A12",
@@ -1953,7 +2115,8 @@
       "To transmit on one frequency and listen on another",
       "To improve frequency accuracy by allowing variable frequency output (VFO) operation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4A13",
@@ -1965,7 +2128,8 @@
       "To reduce power consumption when operating from batteries",
       "To reduce excessive audio level on strong signals"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B01",
@@ -1977,7 +2141,8 @@
       "An ammeter",
       "An oscilloscope"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B02",
@@ -1989,7 +2154,8 @@
       "Greater precision",
       "Complex waveforms can be measured"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B03",
@@ -2001,7 +2167,8 @@
       "A sidetone monitor",
       "A wavemeter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B04",
@@ -2013,7 +2180,8 @@
       "The transmitter balanced mixer output",
       "The attenuated RF output of the transmitter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B05",
@@ -2025,7 +2193,8 @@
       "It improves the resolution of the readings",
       "It decreases the loading on circuits being measured"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B06",
@@ -2037,7 +2206,8 @@
       "Higher precision",
       "Faster response"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B07",
@@ -2049,7 +2219,8 @@
       "Two swept frequency tones",
       "Two audio frequency range square wave signals of equal amplitude"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B08",
@@ -2061,7 +2232,8 @@
       "Percentage of frequency modulation",
       "Percentage of carrier phase shift"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B09",
@@ -2073,7 +2245,8 @@
       "When measuring the frequency of an oscillator",
       "When adjusting circuits for maximum or minimum values"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B10",
@@ -2085,7 +2258,8 @@
       "RF interference",
       "Radio wave propagation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B11",
@@ -2097,7 +2271,8 @@
       "Antenna and feed line",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B12",
@@ -2109,7 +2284,8 @@
       "Generation of harmonics which interfere with frequency readings",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4B13",
@@ -2121,7 +2297,8 @@
       "Impedance of coaxial cable",
       "Gain of a directional antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C01",
@@ -2133,7 +2310,8 @@
       "Forward-biased diode",
       "Reverse-biased diode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C02",
@@ -2145,7 +2323,8 @@
       "Arcing at a poor electrical connection",
       "Using a balun to feed an unbalanced antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C03",
@@ -2157,7 +2336,8 @@
       "Distorted speech",
       "Clearly audible speech"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C04",
@@ -2169,7 +2349,8 @@
       "A chirpy CW signal",
       "Severely distorted audio"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C05",
@@ -2181,7 +2362,8 @@
       "The ground rod is resonant",
       "The ground wire has high impedance on that frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C06",
@@ -2193,7 +2375,8 @@
       "High RF voltages on the enclosures of station equipment",
       "A ground loop"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C07",
@@ -2205,7 +2388,8 @@
       "Solder has too high a dielectric constant to provide adequate lightning protection",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C08",
@@ -2217,7 +2401,8 @@
       "Ground the center conductor of the audio cable causing the interference",
       "Add an additional insulating jacket to the cable"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C09",
@@ -2229,7 +2414,8 @@
       "Avoid using lock washers and star washers when making ground connections",
       "Bond equipment enclosures together"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C10",
@@ -2241,7 +2427,8 @@
       "An item of station equipment starts to draw excessive amounts of current",
       "You receive reports of harmonic interference from your station"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C11",
@@ -2253,7 +2440,8 @@
       "Bonding all equipment enclosures together",
       "Placing low-pass filters on all feed lines"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4C12",
@@ -2265,7 +2453,8 @@
       "It ensures that the neutral wire is grounded",
       "It ensures that hazardous voltages cannot appear on the chassis"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D01",
@@ -2277,7 +2466,8 @@
       "Prevent distortion of voice signals",
       "Decrease high-frequency voice output to prevent out-of-band operation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D02",
@@ -2289,7 +2479,8 @@
       "It reduces harmonic distortion",
       "It reduces intermodulation distortion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D03",
@@ -2301,7 +2492,8 @@
       "Excessive background noise",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D04",
@@ -2313,7 +2505,8 @@
       "Received signal strength",
       "Transmitter power output"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D05",
@@ -2325,7 +2518,8 @@
       "It is 20 times more powerful",
       "It is 100 times more powerful"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D06",
@@ -2337,7 +2531,8 @@
       "15 dB",
       "18 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D07",
@@ -2349,7 +2544,8 @@
       "Approximately 4 times",
       "Approximately 8 times"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D08",
@@ -2361,7 +2557,8 @@
       "7.175 MHz to 7.178 MHz",
       "7.1765 MHz to 7.1795 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D09",
@@ -2373,7 +2570,8 @@
       "14.344 MHz to 14.347 MHz",
       "14.3455 MHz to 14.3485 MHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D10",
@@ -2385,7 +2583,8 @@
       "At least 1 kHz below the edge of the segment",
       "At least 1 kHz above the edge of the segment"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4D11",
@@ -2397,7 +2596,8 @@
       "At least 1 kHz above the edge of the segment",
       "At least 1 kHz below the edge of the segment"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E01",
@@ -2409,7 +2609,8 @@
       "To electrically lengthen a physically short antenna",
       "To lower the radiation angle"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E02",
@@ -2421,7 +2622,8 @@
       "To reduce the chance of damage if the antenna should strike an object",
       "To reduce RF voltage discharge from the tip of the antenna while transmitting"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E03",
@@ -2433,7 +2635,8 @@
       "To the battery using insulated heavy duty balanced transmission line",
       "To the alternator or generator using insulated heavy duty balanced transmission line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E04",
@@ -2445,7 +2648,8 @@
       "The DC polarity of the socket is reversed from the polarity of modern HF transceivers",
       "Drawing more than 50 watts from this socket could cause the engine to overheat"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E05",
@@ -2457,7 +2661,8 @@
       "Efficiency of the electrically short antenna",
       "FCC rules limiting mobile output power on the 75-meter band"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E06",
@@ -2469,7 +2674,8 @@
       "Operating bandwidth may be very limited",
       "Harmonic radiation may increase"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E07",
@@ -2481,7 +2687,8 @@
       "The control computers",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E08",
@@ -2493,7 +2700,8 @@
       "Bypass",
       "Full-wave bridge"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E09",
@@ -2505,7 +2713,8 @@
       "0.2 VDC",
       "1.38 VDC"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E10",
@@ -2517,7 +2726,8 @@
       "To limit the current flowing from the panel to a safe value",
       "To prevent damage to the battery due to excessive voltage at high illumination levels"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G4E11",
@@ -2529,7 +2739,8 @@
       "A series resistor must be in place",
       "The solar panel must have a charge controller"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A01",
@@ -2541,7 +2752,8 @@
       "Resonance causes impedance to be very low",
       "Impedance is equal to the arithmetic mean of the inductance and capacitance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A02",
@@ -2553,7 +2765,8 @@
       "Reinforcement of the flow of direct current caused by resistance",
       "Reinforcement of the flow of alternating current caused by capacitance or inductance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A03",
@@ -2565,7 +2778,8 @@
       "Admittance",
       "Reactance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A04",
@@ -2577,7 +2791,8 @@
       "Reactance",
       "Admittance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A05",
@@ -2589,7 +2804,8 @@
       "As the amplitude of the applied AC increases, the reactance decreases",
       "As the frequency of the applied AC increases, the reactance increases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A06",
@@ -2601,7 +2817,8 @@
       "As the amplitude of the applied AC increases, the reactance increases",
       "As the amplitude of the applied AC increases, the reactance decreases"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A07",
@@ -2613,7 +2830,8 @@
       "Reluctance",
       "Admittance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A08",
@@ -2625,7 +2843,8 @@
       "The ratio of voltage to current",
       "The product of current and reactance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A09",
@@ -2637,7 +2856,8 @@
       "Ampere",
       "Siemens"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A10",
@@ -2649,7 +2869,8 @@
       "A length of transmission line",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A11",
@@ -2661,7 +2882,8 @@
       "B",
       "Y"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5A12",
@@ -2673,7 +2895,8 @@
       "The circuit radiates all its energy in the form of radio waves",
       "Inductive reactance and capacitive reactance cancel"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B01",
@@ -2685,7 +2908,8 @@
       "Approximately 6 dB",
       "Approximately 9 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B02",
@@ -2697,7 +2921,8 @@
       "It equals the sum of the currents through each branch",
       "It is the sum of the reciprocal of each individual voltage drop"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B03",
@@ -2709,7 +2934,8 @@
       "400 watts",
       "3200 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B04",
@@ -2721,7 +2947,8 @@
       "6 watts",
       "60 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B05",
@@ -2733,7 +2960,8 @@
       "Approximately 11 milliwatts",
       "Approximately 11 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B06",
@@ -2745,7 +2973,8 @@
       "353.5 watts",
       "400 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B07",
@@ -2757,7 +2986,8 @@
       "The RMS value",
       "The reciprocal of the RMS value"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B08",
@@ -2769,7 +2999,8 @@
       "240.0 volts",
       "339.4 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B09",
@@ -2781,7 +3012,8 @@
       "24 volts",
       "34 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B10",
@@ -2793,7 +3025,8 @@
       "20.6 percent",
       "25.9 percent"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B11",
@@ -2805,7 +3038,8 @@
       "1.414",
       "2.00"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B12",
@@ -2817,7 +3051,8 @@
       "346 volts",
       "692 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B13",
@@ -2829,7 +3064,8 @@
       "1500 watts",
       "2120 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5B14",
@@ -2841,7 +3077,8 @@
       "2500 watts",
       "5000 watts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C01",
@@ -2853,7 +3090,8 @@
       "Mutual inductance",
       "Mutual capacitance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C02",
@@ -2865,7 +3103,8 @@
       "Additional resistance must be added in series with the primary to prevent overload",
       "Additional resistance must be added in parallel with the secondary to prevent overload"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C03",
@@ -2877,7 +3116,8 @@
       "17 ohms",
       "80 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C04",
@@ -2889,7 +3129,8 @@
       "75 ohms",
       "67 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C05",
@@ -2901,7 +3142,8 @@
       "To prevent parasitic oscillations due to resistive losses in the primary",
       "To ensure that the volume of the primary winding is equal to the volume of the secondary winding"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C06",
@@ -2913,7 +3155,8 @@
       "40 volts",
       "25.5 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C07",
@@ -2925,7 +3168,8 @@
       "24 to 1",
       "144 to 1"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C08",
@@ -2937,7 +3181,8 @@
       "3,583 picofarads",
       "10.750 nanofarads"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C09",
@@ -2949,7 +3194,8 @@
       "33.3 microfarads",
       "300 microfarads"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C10",
@@ -2961,7 +3207,8 @@
       "3.3 millihenries",
       "30 millihenries"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C11",
@@ -2973,7 +3220,8 @@
       "70 millihenries",
       "1,000 millihenries"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C12",
@@ -2985,7 +3233,8 @@
       "70 microfarads",
       "1,000 microfarads"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C13",
@@ -2997,7 +3246,8 @@
       "A capacitor in parallel",
       "A capacitor in series"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G5C14",
@@ -3009,7 +3259,8 @@
       "An inductor in parallel",
       "An inductor in series"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A01",
@@ -3021,7 +3272,8 @@
       "10.5 volts",
       "12 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A02",
@@ -3033,7 +3285,8 @@
       "High voltage",
       "Rapid recharge"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A03",
@@ -3045,7 +3298,8 @@
       "0.7 volts",
       "1.0 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A04",
@@ -3057,7 +3311,8 @@
       "High capacitance for a given volume",
       "Inexpensive RF capacitor"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A05",
@@ -3069,7 +3324,8 @@
       "0.7 volts",
       "1.0 volts"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A06",
@@ -3081,7 +3337,8 @@
       "The resistor could overheat",
       "The resistor’s internal capacitance would detune the circuit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A07",
@@ -3093,7 +3350,8 @@
       "Peak and valley current points",
       "Enhancement and depletion modes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A08",
@@ -3105,7 +3363,8 @@
       "High capacitance for given volume",
       "Comparatively low cost"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A09",
@@ -3117,7 +3376,8 @@
       "The source is separated from the drain by a thin insulating layer",
       "The source is formed by depositing metal on silicon"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A10",
@@ -3129,7 +3389,8 @@
       "Screen grid",
       "Trigger electrode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A11",
@@ -3141,7 +3402,8 @@
       "It becomes capacitive",
       "Catastrophic failure is likely"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6A12",
@@ -3153,7 +3415,8 @@
       "To increase the control grid resistance",
       "To decrease plate resistance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B01",
@@ -3165,7 +3428,8 @@
       "The composition, or “mix,” of materials used",
       "The ratio of outer diameter to inner diameter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B02",
@@ -3177,7 +3441,8 @@
       "Metal Monolayer Integrated Circuit",
       "Mode Modulated Integrated Circuit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B03",
@@ -3189,7 +3454,8 @@
       "Better suited for RF amplification",
       "Better suited for power supply regulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B04",
@@ -3201,7 +3467,8 @@
       "4 GHz",
       "40 GHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B05",
@@ -3213,7 +3480,8 @@
       "Most of the magnetic field is contained in the core",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B06",
@@ -3225,7 +3493,8 @@
       "Programmable Logic",
       "Analog"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B07",
@@ -3237,7 +3506,8 @@
       "A low noise figure VHF connector",
       "A nickel plated version of the PL-259"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B08",
@@ -3249,7 +3519,8 @@
       "Reverse biased",
       "Forward biased"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B10",
@@ -3261,7 +3532,8 @@
       "By creating an out-of-phase current to cancel the common-mode current",
       "Ferrites expel magnetic fields"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B11",
@@ -3273,7 +3545,8 @@
       "A connector designed for serial multiple access signals",
       "A type of push-on connector intended for high-voltage applications"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G6B12",
@@ -3285,7 +3558,8 @@
       "RCA Phono",
       "Type N"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A01",
@@ -3297,7 +3571,8 @@
       "It removes shock hazards from the induction coils",
       "It eliminates ground loop current"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A02",
@@ -3309,7 +3584,8 @@
       "Capacitors and inductors",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A03",
@@ -3321,7 +3597,8 @@
       "Half-wave",
       "Synchronous"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A04",
@@ -3333,7 +3610,8 @@
       "More current can be drawn from the half-wave rectifier",
       "The output voltage is two times the peak input voltage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A05",
@@ -3345,7 +3623,8 @@
       "270 degrees",
       "360 degrees"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A06",
@@ -3357,7 +3636,8 @@
       "270 degrees",
       "360 degrees"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A07",
@@ -3369,7 +3649,8 @@
       "A sine wave at half the frequency of the AC input",
       "A steady DC voltage"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A08",
@@ -3381,7 +3662,8 @@
       "High-frequency operation allows the use of smaller components",
       "Inherently more stable"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7A09",
@@ -3393,7 +3675,8 @@
       "Symbol 1",
       "Symbol 4"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure g7-1"
   },
   {
     "id": "G7A10",
@@ -3405,7 +3688,8 @@
       "Symbol 11",
       "Symbol 5"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure g7-1"
   },
   {
     "id": "G7A11",
@@ -3417,7 +3701,8 @@
       "Symbol 7",
       "Symbol 11"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure g7-1"
   },
   {
     "id": "G7A12",
@@ -3429,7 +3714,8 @@
       "Symbol 6",
       "Symbol 1"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure g7-1"
   },
   {
     "id": "G7A13",
@@ -3441,7 +3727,8 @@
       "Symbol 6",
       "Symbol 1"
     ],
-    "description": ""
+    "description": "",
+    "figure": "figure g7-1"
   },
   {
     "id": "G7B01",
@@ -3453,7 +3740,8 @@
       "To cut off the final amplifier during standby periods",
       "To keep the carrier on frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B02",
@@ -3465,7 +3753,8 @@
       "Class AB",
       "Class C"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B03",
@@ -3477,7 +3766,8 @@
       "Output is low when either or both inputs are high",
       "Output is low only when both inputs are high"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B04",
@@ -3489,7 +3779,8 @@
       "50%",
       "Less than 50%"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B05",
@@ -3501,7 +3792,8 @@
       "8",
       "16"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B06",
@@ -3513,7 +3805,8 @@
       "A digital mixer",
       "An analog mixer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B07",
@@ -3525,7 +3818,8 @@
       "A circulator and a filter operating in a feed-forward loop",
       "A filter and an amplifier operating in a feedback loop"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B08",
@@ -3537,7 +3831,8 @@
       "Multiply the RF input power by the reciprocal of the RF output power",
       "Add the RF input power to the DC output power"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B09",
@@ -3549,7 +3844,8 @@
       "The inductance and capacitance in the tank circuit",
       "The time delay of the lag circuit"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B10",
@@ -3561,7 +3857,8 @@
       "A Class C high efficiency amplifier",
       "An amplifier used as a frequency multiplier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7B11",
@@ -3573,7 +3870,8 @@
       "AM",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C01",
@@ -3585,7 +3883,8 @@
       "IF amplifier",
       "RF amplifier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C02",
@@ -3597,7 +3896,8 @@
       "Audio extracted from the modulation signal",
       "Double-sideband modulated RF"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C03",
@@ -3609,7 +3909,8 @@
       "To reduce power supply ripple",
       "To minimize radiation resistance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C04",
@@ -3621,7 +3922,8 @@
       "Used in an FM receiver to filter out unwanted sidebands",
       "Used in a single sideband receiver to extract the modulated signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C05",
@@ -3633,7 +3935,8 @@
       "Pure sine wave output",
       "Variable output frequency with the stability of a crystal oscillator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C06",
@@ -3645,7 +3948,8 @@
       "Mixing products are greatly reduced",
       "The DSP filter is much more effective at VHF frequencies"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C07",
@@ -3657,7 +3961,8 @@
       "Q",
       "Ultimate rejection"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C08",
@@ -3669,7 +3974,8 @@
       "Input amplifier noise figure",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C09",
@@ -3681,7 +3987,8 @@
       "180 degrees",
       "45 degrees"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C10",
@@ -3693,7 +4000,8 @@
       "Minimum detectible signal level is reduced",
       "Automatic conversion of the signal from digital to analog"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C11",
@@ -3705,7 +4013,8 @@
       "Modulation",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C12",
@@ -3717,7 +4026,8 @@
       "Cutoff frequency",
       "Rolloff frequency"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C13",
@@ -3729,7 +4039,8 @@
       "Insertion loss",
       "Ultimate rejection"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G7C14",
@@ -3741,7 +4052,8 @@
       "Pole and zero",
       "Image and harmonic"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A01",
@@ -3753,7 +4065,8 @@
       "By using a transceiver’s computer data interface protocol to change frequencies",
       "By reconfiguring the CW keying input to act as a tone generator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A02",
@@ -3765,7 +4078,8 @@
       "Phase transformation",
       "Phase inversion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A03",
@@ -3777,7 +4091,8 @@
       "Frequency conversion",
       "Frequency modulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A04",
@@ -3789,7 +4104,8 @@
       "Amplitude modulation",
       "Pulse modulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A05",
@@ -3801,7 +4117,8 @@
       "Frequency modulation",
       "Amplitude modulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A06",
@@ -3813,7 +4130,8 @@
       "Its bandwidth is approximately the same as BPSK31",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A07",
@@ -3825,7 +4143,8 @@
       "Phase modulation",
       "Frequency modulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A08",
@@ -3837,7 +4156,8 @@
       "Frequency drift",
       "Excessive bandwidth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A09",
@@ -3849,7 +4169,8 @@
       "Amplitude compressed AM",
       "8-bit direct sequence spread spectrum"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A10",
@@ -3861,7 +4182,8 @@
       "Signal distortion caused by excessive drive or speech levels",
       "The transmitter’s carrier is properly suppressed"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A11",
@@ -3873,7 +4195,8 @@
       "Spurious signals that envelop nearby frequencies",
       "The bandwidth of the modulated signal"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A12",
@@ -3885,7 +4208,8 @@
       "Modulation using Fast Fourier Transforms to generate frequencies at the first, second, third, and fourth harmonics of the carrier frequency to improve noise immunity",
       "Modulation in which digital data is transmitted using 0-, 90-, 180- and 270-degrees phase shift to represent pairs of bits"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A13",
@@ -3897,7 +4221,8 @@
       "The sum of transmit power and antenna gains minus system losses as seen at the receiver",
       "The difference between transmit power and receiver sensitivity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8A14",
@@ -3909,7 +4234,8 @@
       "Transmit power minus receiver sensitivity",
       "Receiver sensitivity plus 3 dB"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B01",
@@ -3921,7 +4247,8 @@
       "RF input",
       "Beat frequency oscillator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B02",
@@ -3933,7 +4260,8 @@
       "Mixer interference",
       "Intermediate interference"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B03",
@@ -3945,7 +4273,8 @@
       "Frequency inversion",
       "Phase inversion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B04",
@@ -3957,7 +4286,8 @@
       "Balanced converter",
       "Multiplier"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B05",
@@ -3969,7 +4299,8 @@
       "Odd-order",
       "Intercept point"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B06",
@@ -3981,7 +4312,8 @@
       "8 kHz",
       "16 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B07",
@@ -3993,7 +4325,8 @@
       "5 kHz",
       "60 kHz"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B08",
@@ -4005,7 +4338,8 @@
       "To allow time for the other station to break in during a transmission",
       "To prevent overmodulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B09",
@@ -4017,7 +4351,8 @@
       "It improves impedance matching of the antenna",
       "It results in the best signal-to-noise ratio"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B10",
@@ -4029,7 +4364,8 @@
       "Lower symbol rates require wider bandwidth",
       "Bandwidth is half the symbol rate"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B11",
@@ -4041,7 +4377,8 @@
       "The sum and difference",
       "The arithmetic product"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B12",
@@ -4053,7 +4390,8 @@
       "Detection",
       "Rolloff"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8B13",
@@ -4065,7 +4403,8 @@
       "2F1-F2",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C02",
@@ -4077,7 +4416,8 @@
       "PSK31",
       "SSB-SC"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C03",
@@ -4089,7 +4429,8 @@
       "Header",
       "Trailer"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C04",
@@ -4101,7 +4442,8 @@
       "A 5-bit code with additional start and stop bits",
       "A code using SELCAL and LISTEN"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C05",
@@ -4113,7 +4455,8 @@
       "Receiving station connected and ready for transmissions",
       "Entire file received correctly"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C06",
@@ -4125,7 +4468,8 @@
       "Packets will be routed incorrectly",
       "Encoding reverts to the default character set"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C07",
@@ -4137,7 +4481,8 @@
       "AMTOR",
       "MFSK32"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C08",
@@ -4149,7 +4494,8 @@
       "Error correction is used to ensure accurate message reception",
       "Higher power is needed as compared to RTTY for similar error rates"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C09",
@@ -4161,7 +4507,8 @@
       "Links between two nodes in a network may have different frequencies and bandwidths",
       "More nodes reduce overall microwave out of band interference"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C10",
@@ -4173,7 +4520,8 @@
       "By transmitting redundant information with the data",
       "By using a parity bit with each character"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C11",
@@ -4185,7 +4533,8 @@
       "High and low",
       "Mark and space"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C12",
@@ -4197,7 +4546,8 @@
       "Volumetric",
       "Binary"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C13",
@@ -4209,7 +4559,8 @@
       "Insufficient modulation",
       "Overmodulation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C14",
@@ -4221,7 +4572,8 @@
       "Frequency is horizontal, signal strength is intensity, time is vertical",
       "Frequency is vertical, signal strength is horizontal, time is intensity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C15",
@@ -4233,7 +4585,8 @@
       "The signal-to-noise ratio is equivalent to +3dB in a 2.5 kHz bandwidth",
       "The signal is 3 dB over S9"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G8C16",
@@ -4245,7 +4598,8 @@
       "Winlink, PACTOR II, and PACTOR III",
       "DMR, D-STAR, and SystemFusion"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A01",
@@ -4257,7 +4611,8 @@
       "The radius of the conductors and the frequency of the signal",
       "The frequency of the signal and the length of the line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A02",
@@ -4269,7 +4624,8 @@
       "High SWR makes it difficult to measure transmission line loss",
       "High SWR reduces the relative effect of transmission line loss"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A03",
@@ -4281,7 +4637,8 @@
       "100 ohms",
       "450 ohms"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A04",
@@ -4293,7 +4650,8 @@
       "A difference between feed line impedance and antenna feed point impedance",
       "Feeding the antenna with unbalanced feed line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A05",
@@ -4305,7 +4663,8 @@
       "Attenuation decreases",
       "Attenuation follows Marconi’s Law of Attenuation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A06",
@@ -4317,7 +4676,8 @@
       "Ohms per 100 feet",
       "Decibels per 100 feet"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A07",
@@ -4329,7 +4689,8 @@
       "The feed line must be an even number of physical half wavelengths long",
       "The antenna feed point impedance must be matched to the characteristic impedance of the feed line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A08",
@@ -4341,7 +4702,8 @@
       "Between 1:1 and 5:1 depending on the characteristic impedance of the line",
       "Between 1:1 and 5:1 depending on the reflected power at the transmitter"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A09",
@@ -4353,7 +4715,8 @@
       "2:1",
       "1:2"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A10",
@@ -4365,7 +4728,8 @@
       "1:5",
       "5:1"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9A11",
@@ -4377,7 +4741,8 @@
       "Higher loss increases the accuracy of SWR measured at the input to the line",
       "Transmission line loss does not affect the SWR measurement"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B01",
@@ -4389,7 +4754,8 @@
       "It produces only vertically polarized radiation",
       "It is more effective on the lower HF bands than on the higher bands"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B02",
@@ -4401,7 +4767,8 @@
       "Lengthen the radials beyond one wavelength",
       "Coil the radials"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B03",
@@ -4413,7 +4780,8 @@
       "Hemispherical",
       "Omnidirectional in azimuth"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B04",
@@ -4425,7 +4793,8 @@
       "It is a circle (equal radiation in all directions)",
       "It has a pair of lobes on one side of the antenna and a single lobe on the other side"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B05",
@@ -4437,7 +4806,8 @@
       "If the antenna is less than 1/2 wavelength high, the azimuthal pattern is almost omnidirectional",
       "If the antenna is less than 1/2 wavelength high, radiation off the ends of the wire is eliminated"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B06",
@@ -4449,7 +4819,8 @@
       "On the surface or buried a few inches below the ground",
       "At the center of the antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B07",
@@ -4461,7 +4832,8 @@
       "It peaks at about 1/8 wavelength above ground",
       "It is unaffected by the height above ground"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B08",
@@ -4473,7 +4845,8 @@
       "It peaks at about 1/8 wavelength from the end",
       "It is unaffected by the location of the feed point"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B09",
@@ -4485,7 +4858,8 @@
       "Shorter radials",
       "Lower radiation resistance"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B10",
@@ -4497,7 +4871,8 @@
       "24 feet",
       "33 feet"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B11",
@@ -4509,7 +4884,8 @@
       "132 feet",
       "263 feet"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9B12",
@@ -4521,7 +4897,8 @@
       "16 feet",
       "21 feet"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C01",
@@ -4533,7 +4910,8 @@
       "Loading coils in series with the element",
       "Tapered-diameter elements"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C02",
@@ -4545,7 +4923,8 @@
       "3/4 wavelength",
       "1 wavelength"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C03",
@@ -4557,7 +4936,8 @@
       "They are all the same length",
       "Relative length depends on the frequency of operation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C04",
@@ -4569,7 +4949,8 @@
       "Gain in dBd is 1.25 dBd lower",
       "Gain in dBd is 1.25 dBd higher"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C05",
@@ -4581,7 +4962,8 @@
       "Front-to-back ratio decreases",
       "Resonant frequency is lower"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C07",
@@ -4593,7 +4975,8 @@
       "The power radiated in the major lobe compared to that in the opposite direction",
       "The ratio of forward gain to dipole gain"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C08",
@@ -4605,7 +4988,8 @@
       "The maximum voltage standing wave point on a radiating element",
       "The direction of maximum radiated field strength from the antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C09",
@@ -4617,7 +5001,8 @@
       "Approximately 6 dB higher",
       "Approximately 9 dB higher"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C10",
@@ -4629,7 +5014,8 @@
       "The spacing of each element along the boom",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C11",
@@ -4641,7 +5027,8 @@
       "A series capacitor selected to cancel the inductive reactance of a folded dipole antenna",
       "A section of 300-ohm twin-lead transmission line used to match a folded dipole antenna"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9C12",
@@ -4653,7 +5040,8 @@
       "It is useful for matching multiband antennas",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D01",
@@ -4665,7 +5053,8 @@
       "A horizontal dipole placed at approximately 1/2 wavelength above the ground",
       "A vertical dipole placed at approximately 1/2 wavelength above the ground"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D02",
@@ -4677,7 +5066,8 @@
       "Approximately 300 ohms",
       "Very high"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D03",
@@ -4689,7 +5079,8 @@
       "Omnidirectional in the plane of the halo",
       "On the same side as the feed point"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D04",
@@ -4701,7 +5092,8 @@
       "To provide balanced feed point impedance",
       "To prevent out-of-band operation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D05",
@@ -4713,7 +5105,8 @@
       "It narrows the main lobe in azimuth",
       "It narrows the main lobe in elevation"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D06",
@@ -4725,7 +5118,8 @@
       "Harmonic suppression",
       "Polarization diversity"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D07",
@@ -4737,7 +5131,8 @@
       "Gain varies logarithmically as a function of frequency",
       "SWR varies periodically as a function of boom length"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D08",
@@ -4749,7 +5144,8 @@
       "By extending and retracting the whip",
       "By deploying a capacitance hat"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D09",
@@ -4761,7 +5157,8 @@
       "Portable direction finding at higher HF frequencies",
       "Portable direction finding at lower HF frequencies"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D10",
@@ -4773,7 +5170,8 @@
       "Broadside and in the plane of the loop",
       "Electrically small loops are omnidirectional"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D11",
@@ -4785,7 +5183,8 @@
       "They must be fed with open wire line",
       "They have poor harmonic rejection"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G9D12",
@@ -4797,7 +5196,8 @@
       "Sloper",
       "Lazy H"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0A01",
@@ -4809,7 +5209,8 @@
       "It causes the blood count to reach a dangerously low level",
       "It cools body tissue"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0A02",
@@ -4821,7 +5222,8 @@
       "Its power density",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0A03",
@@ -4833,7 +5235,8 @@
       "By measurement of field strength using calibrated equipment",
       "All these choices are correct"
     ],
-    "description": "[97.13(c)(1)]"
+    "description": "[97.13(c)(1)]",
+    "figure": ""
   },
   {
     "id": "G0A04",
@@ -4845,7 +5248,8 @@
       "The total time of the exposure",
       "The total RF exposure averaged over a certain period"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0A05",
@@ -4857,7 +5261,8 @@
       "Secure written permission from your neighbors to operate above the controlled MPE limits",
       "All these choices are correct"
     ],
-    "description": "[97.13(c)(2),"
+    "description": "[97.13(c)(2),",
+    "figure": ""
   },
   {
     "id": "G0A06",
@@ -4869,7 +5274,8 @@
       "Perform an RF exposure evaluation in accordance with World Meteorological Organization guidelines",
       "Use an FCC-approved band-pass filter"
     ],
-    "description": "[97.13(c)(2),"
+    "description": "[97.13(c)(2),",
+    "figure": ""
   },
   {
     "id": "G0A07",
@@ -4881,7 +5287,8 @@
       "Low duty cycle transmitters are exempt from RF exposure evaluation requirements",
       "High duty cycle transmitters are exempt from RF exposure requirements"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0A08",
@@ -4893,7 +5300,8 @@
       "Perform a routine RF exposure evaluation and prevent access to any identified high exposure areas",
       "All these choices are correct"
     ],
-    "description": "[97.13(c)(2)]"
+    "description": "[97.13(c)(2)]",
+    "figure": ""
   },
   {
     "id": "G0A09",
@@ -4905,7 +5313,8 @@
       "An SWR meter with a peak-reading function",
       "An oscilloscope with a high-stability crystal marker generator"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0A10",
@@ -4917,7 +5326,8 @@
       "Take precautions to ensure that the antenna cannot be pointed in their direction when they are present",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0A11",
@@ -4929,7 +5339,8 @@
       "Make sure that MPE limits are not exceeded in occupied areas",
       "Make sure the antenna is properly shielded"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0A12",
@@ -4941,7 +5352,8 @@
       "Only stations transmitting more than 500 watts PEP",
       "All stations with a time-averaged transmission of more than one milliwatt"
     ],
-    "description": "[1.1307(1)(b)(3)(i)(A)]"
+    "description": "[1.1307(1)(b)(3)(i)(A)]",
+    "figure": ""
   },
   {
     "id": "G0B01",
@@ -4953,7 +5365,8 @@
       "Only the ground wire",
       "All wires"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B02",
@@ -4965,7 +5378,8 @@
       "AWG number 12",
       "AWG number 8"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B03",
@@ -4977,7 +5391,8 @@
       "20 amperes",
       "15 amperes"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B04",
@@ -4989,7 +5404,8 @@
       "Next to the closest power pole",
       "Parallel to the water supply line"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B05",
@@ -5001,7 +5417,8 @@
       "Overvoltage on the hot wires",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B06",
@@ -5013,7 +5430,8 @@
       "Electrical safety of the station",
       "RF exposure limits of the human body"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B07",
@@ -5025,7 +5443,8 @@
       "Ensure that all heavy tools are securely fastened to the harness",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B08",
@@ -5037,7 +5456,8 @@
       "Unground the base of the tower",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B09",
@@ -5049,7 +5469,8 @@
       "Fuel should be stored near the generator for rapid refueling in case of an emergency",
       "All these choices are correct"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B10",
@@ -5061,7 +5482,8 @@
       "Tin in the solder can “cold flow,” causing shorts in the circuit",
       "RF energy can convert the lead into a poisonous gas"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B11",
@@ -5073,7 +5495,8 @@
       "Lightning grounds must be connected to all ungrounded wiring",
       "They must be bonded together with all other grounds"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B12",
@@ -5085,7 +5508,8 @@
       "To ensure that dangerous voltages are removed if the cabinet is opened",
       "To shut off the power supply if too much voltage is produced"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   },
   {
     "id": "G0B13",
@@ -5097,6 +5521,7 @@
       "In series with each ground lead",
       "At the closest power pole ground electrode"
     ],
-    "description": ""
+    "description": "",
+    "figure": ""
   }
 ]
