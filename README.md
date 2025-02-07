@@ -9,7 +9,13 @@ This repo contains a collection of Anki decks for the FCC Amateur Radio License 
 
 ## Download
 
+### GitHub Releases
+
 Go to the [Releases](https://github.com/NanamiNakano/anki-fcc-ham/releases) page to download the latest version of the deck.
+
+### AnkiWeb
+
+https://ankiweb.net/shared/info/968266511
 
 ## Acknowledgments
 
