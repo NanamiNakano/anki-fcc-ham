@@ -40,32 +40,45 @@ fcc_model = genanki.Model(
     css=style_css,
 )
 
-my_deck = genanki.Deck(
+technician_deck = genanki.Deck(
     2122706713,
     "FCC Amateur Radio Exam Technician (2022-2026)",
 )
 
-my_deck.add_model(fcc_model)
+general_deck = genanki.Deck(
+    1940122975,
+    "FCC Amateur Radio Exam General (2023-2027)",
+)
 
+extra_deck = genanki.Deck(
+    2115817860,
+    "FCC Amateur Radio Exam Extra (2024-2028)",
+)
 
-with open("parsed/technican.json", "r") as f:
-    data = json.load(f)
+decks = [technician_deck, general_deck, extra_deck]
+classes = ["technician", "general", "extra"]
 
-for question in data:
-    my_deck.add_note(
-        MyNote(
-            model=fcc_model,
-            fields=[
-                question["id"],
-                question["question"],
-                question["answers"][0],
-                question["answers"][1],
-                question["answers"][2],
-                question["answers"][3],
-                question["correct"],
-                question["description"],
-            ],
+for deck, class_ in zip(decks, classes):
+    deck.add_model(fcc_model)
+
+    with open(f"parsed/{class_}.json", "r") as f:
+        data = json.load(f)
+
+    for question in data:
+        deck.add_note(
+            MyNote(
+                model=fcc_model,
+                fields=[
+                    question["id"],
+                    question["question"],
+                    question["answers"][0],
+                    question["answers"][1],
+                    question["answers"][2],
+                    question["answers"][3],
+                    question["correct"],
+                    question["description"],
+                ],
+            )
         )
-    )
 
-genanki.Package(my_deck).write_to_file("output.apkg")
+    genanki.Package(deck).write_to_file(f"out/{class_}.apkg")
