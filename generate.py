@@ -1,6 +1,6 @@
 import genanki
 import json
-
+import os
 
 class MyNote(genanki.Note):
     @property
@@ -29,6 +29,7 @@ fcc_model = genanki.Model(
         {"name": "option_4 (D)"},
         {"name": "Answer"},
         {"name": "Description"},
+        {"name": "Figure"},
     ],
     templates=[
         {
@@ -57,6 +58,7 @@ extra_deck = genanki.Deck(
 
 decks = [technician_deck, general_deck, extra_deck]
 classes = ["technician", "general", "extra"]
+figures = os.listdir("assets/")
 
 for deck, class_ in zip(decks, classes):
     deck.add_model(fcc_model)
@@ -77,8 +79,11 @@ for deck, class_ in zip(decks, classes):
                     question["answers"][3],
                     question["correct"],
                     question["description"],
+                    f'<img src="{question["figure"]}.png">'
                 ],
             )
         )
 
-    genanki.Package(deck).write_to_file(f"out/{class_}.apkg")
+    package = genanki.Package(deck)
+    package.media_files = map(lambda x: f"assets/{x}", list(filter(lambda x: x[0] == class_[0], figures)))
+    package.write_to_file(f"out/{class_}.apkg")

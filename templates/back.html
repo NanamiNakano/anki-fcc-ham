@@ -1,7 +1,9 @@
 <div id="myCard">
     <div class="back">
-        <div style='font-family: "Arial"; font-size: 25px;'></div>
-        <div style='font-family: "Arial";  font-size: 25px;font-weight:bold;'>{{Question}}</div><br>
+        <div style='font-family:"Arial";font-size:12px'>{{ID}}</div>
+        <div style='font-family:"Arial";font-size:25px;font-weight:bold'>{{Question}}</div>
+        {{#Figure}}{{Figure}}{{/Figure}}
+        <br>
         <form id="shuffle">
             {{#option_1 (A)}}<div class="container" id="A">
                 <div class="circle"></div>
