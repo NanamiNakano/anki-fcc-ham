@@ -1,0 +1,9 @@
+[project]
+name = "anki-fcc-ham"
+version = "0.1.0"
+description = "Anki flashcards for FCC ham radio license"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "genanki>=0.13.1",
+]

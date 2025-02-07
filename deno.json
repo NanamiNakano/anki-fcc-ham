@@ -1,4 +1,8 @@
 {
+  "$schema": "https://deno.land/x/deno/cli/schemas/config-file.v1.json",
+  "description": "Anki flashcards for FCC ham radio license",
+  "version": "0.1.0",
+  "license": "MIT",
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
