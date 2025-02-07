@@ -4,6 +4,9 @@ function parseQuestion(lines: string) {
   return lines.split("~~").map((lines) => {
     const split = lines.trim().split("\r\n");
     const length = split.length;
+    if (length < 6) {
+      return null;
+    }
     const title_split = split[length - 6].split(" ");
     const id = title_split[0];
     const correct = title_split[1].at(1);
@@ -25,7 +28,7 @@ function parseQuestion(lines: string) {
 async function main() {
   for await (const file of Deno.readDir("./original")) {
     const data = await Deno.readTextFile(`./original/${file.name}`);
-    const questions = parseQuestion(data);
+    const questions = parseQuestion(data).filter(Boolean);
     // save to json
     await Deno.writeTextFile(
       `./parsed/${file.name.replace(".txt", ".json")}`,
