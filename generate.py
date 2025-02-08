@@ -43,17 +43,17 @@ fcc_model = genanki.Model(
 
 technician_deck = genanki.Deck(
     2122706713,
-    "FCC Amateur Radio Exam Technician (2022-2026)",
+    "FCC Amateur Radio Exam::Technician (2022-2026)",
 )
 
 general_deck = genanki.Deck(
     1940122975,
-    "FCC Amateur Radio Exam General (2023-2027)",
+    "FCC Amateur Radio Exam::General (2023-2027)",
 )
 
 extra_deck = genanki.Deck(
     2115817860,
-    "FCC Amateur Radio Exam Extra (2024-2028)",
+    "FCC Amateur Radio Exam::Extra (2024-2028)",
 )
 
 decks = [technician_deck, general_deck, extra_deck]
@@ -91,3 +91,7 @@ for deck, class_ in zip(decks, classes):
     package = genanki.Package(deck)
     package.media_files = map(lambda x: f"assets/{x}", list(filter(lambda x: x[0] == class_[0], figures)))
     package.write_to_file(f"out/{class_}.apkg")
+
+combined = genanki.Package(decks)
+combined.media_files = map(lambda x: f"assets/{x}", figures)
+combined.write_to_file("out/combined.apkg")
