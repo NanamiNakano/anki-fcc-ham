@@ -22,3 +22,9 @@ Go to the [Releases](https://github.com/NanamiNakano/anki-fcc-ham/releases) page
 ## Acknowledgments
 
 Template is a modified version of [this template](https://github.com/muctebanesiri/anki-multiple-choise-question-template).
+
+## Extra information
+
+This repo also contains question pools in JSON format (in `parsed` folder). You can use this data to create other studying materials.
+
+Questions deleted is not included in neither the decks or the JSON files.
