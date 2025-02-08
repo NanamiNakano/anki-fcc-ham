@@ -4,6 +4,8 @@
   "version": "0.1.2",
   "license": "MIT",
   "tasks": {
+    "generate": "python3 generate.py",
+    "parse": "deno run --allow-read --allow-write parse.ts",
     "build": "deno run --allow-read --allow-write parse.ts && python3 generate.py"
   },
   "imports": {

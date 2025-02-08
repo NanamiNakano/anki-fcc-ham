@@ -67,6 +67,10 @@ for deck, class_ in zip(decks, classes):
         data = json.load(f)
 
     for question in data:
+        if question["figure"] == "":
+            figure = ""
+        else:
+            figure = f'<img src="{question["figure"]}.png">'
         deck.add_note(
             MyNote(
                 model=fcc_model,
@@ -79,7 +83,7 @@ for deck, class_ in zip(decks, classes):
                     question["answers"][3],
                     question["correct"],
                     question["description"],
-                    f'<img src="{question["figure"]}.png">'
+                    figure,
                 ],
             )
         )
