@@ -15,7 +15,9 @@ Go to the [Releases](https://github.com/NanamiNakano/anki-fcc-ham/releases) page
 
 ### AnkiWeb
 
-<https://ankiweb.net/shared/info/968266511>
+- [Technician](https://ankiweb.net/shared/info/76408820)
+- [General](https://ankiweb.net/shared/info/1470590382)
+- [Extra](https://ankiweb.net/shared/info/2123646228)
 
 ## Acknowledgments
 
